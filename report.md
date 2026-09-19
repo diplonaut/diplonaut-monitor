@@ -1,21 +1,6 @@
-# Official-source scan, 19 September 2026 07:28 UTC
+# Official-source scan, 19 September 2026 07:31 UTC
 
-20 of 23 sources checked. 1 possible change(s). 3 source(s) unreachable.
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-- 사이트 이동경로
-- 홈
-- 뉴스
-- 정책뉴스
-- 콘텐츠 영역
-- 공유
-- 열기
-- 공유
-- 페이스북
-- X
-- 밴드
-- 카카오톡
+20 of 23 sources checked. 0 possible change(s). 3 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
