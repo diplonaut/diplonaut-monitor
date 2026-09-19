@@ -1,34 +1,55 @@
 # Posting to @DiplonautHQ
 
-This pipeline is for **one thing only: fresh, verified official rule changes** the
-monitor detects -- the kind where posting promptly actually matters. Everything else
-(cost comparisons, domestic tuition stats, anything compiled rather than breaking) gets
-posted by hand through X's normal interface, which is free. Paying ~$0.015 a post only
-makes sense when speed has real value; static facts don't need it.
+Fully automated. Everything -- fresh monitor-detected changes and researched
+comparisons/stats alike -- goes through this queue and posts on schedule, using the X
+API's pay-per-use billing (paid via credits in the X Developer Console, roughly $0.015
+a plain-text post; a thread costs one charge per part). At the current pace this runs
+about $0.50-$1/month -- cheap enough that manual posting isn't worth the time it costs.
 
-## What goes in the automated queue
+## Two entry types
 
-Only entries tied to a change the monitor just confirmed -- something that happened
-recently and is worth posting the moment it's verified. Add it to `queue.json` as
-`"text": "...", "posted": false`, following the same rules as always: proper sentence
-case, no unexplained jargon, the source named in prose, no links, neutral tone (no
-emotionally-loaded emoji or editorializing words -- see prior notes on this if unsure).
+**Single post:**
+```json
+{"text": "Canada raises proof of funds to CA$23,448, up from CA$20,635, according to IRCC.\nStill cheaper than one semester of room and board in most of the US.", "posted": false}
+```
 
-## What gets posted manually instead
+**Thread** (a connected reply chain -- use for a story with real depth, like a court
+case or a multi-part policy change). All parts post together in one run, chained as
+replies, and count as a single item against `MAX_POSTS_PER_RUN`:
+```json
+{"thread": ["First tweet text.", "Second tweet text, posted as a reply to the first.", "Third tweet, replying to the second."], "posted": false}
+```
 
-Comparisons, cost stats, "stay or go" content, and anything else compiled from research
-rather than a live monitor detection. Write it, check it against the same style rules,
-and post it yourself on X whenever convenient -- no queue entry, no cost. Claude can
-still draft this content on request; it just doesn't go through this pipeline.
+## Writing rules (apply to every part of every entry)
 
-## One-time setup
+- **Proper sentence case.** Capitalize the first word and every proper noun and
+  acronym -- "UK," "US," "IRCC," not "uk," "us," "irc." This is a news brief, not a
+  text message.
+- **Specific, not vague.** Name the actual before-and-after figures and the effective
+  date when there's a rule change -- "rose from £524 to £558, effective April 8,
+  2026," not "the fee went up." Verify these, don't estimate them.
+- **No unexplained jargon.** Spell out an unfamiliar term in a few words the first
+  time it appears, so a reader with zero background can still follow it on one read.
+- **Name the real source in prose, no links.** "according to the UK Home Office,"
+  "per the College Board," "DOJ says." No claim goes out unattributed, and no post
+  links out -- the source is a phrase, not a URL.
+- **Neutral tone, no emotionally-loaded emoji or editorializing words.** No skulls,
+  no sarcastic winks, no "unfortunately." State the fact plainly; a dry observational
+  aside is fine ("that's not a fee increase, that's a subscription tier upgrade"), a
+  claim about someone's intent or state of mind is not, unless a court or official
+  source actually said it. Let the numbers carry the weight.
+- **Under 280 characters per part** (the script truncates single posts if not; check
+  thread parts yourself since they aren't truncated automatically).
+- **The fact must hold up.** True and checkable on diplonaut.com or the named source,
+  even though the post itself never links there.
 
-Already done: the app, OAuth 1.0a keys, GitHub secrets, and a paid credit balance are
-all in place. If credits ever run out, add more in the X Developer Console under
-Billing -> Credits.
+## Pace
 
-Only **one queued post goes out per scheduled run** (`MAX_POSTS_PER_RUN` in
-`post_to_x.py`), so if several fresh changes land at once they trickle out over days
-rather than firing all at once. The schedule is 3 times a day (07:00, 13:00, 19:00 UTC)
--- it simply does nothing on a run with an empty queue, at no cost. Use
-**Actions -> Run workflow** to post one immediately instead of waiting.
+One queue item goes out per scheduled run (`MAX_POSTS_PER_RUN` in `post_to_x.py`) --
+a thread counts as one item regardless of how many parts it has. The schedule runs
+once a day at 14:00 UTC; edit the cron in `.github/workflows/post-to-x.yml` to change
+it. Use **Actions -> Run workflow** to post the next item immediately instead of
+waiting. A run with an empty queue does nothing, at no cost.
+
+When the queue runs low, ask Claude to research and verify a fresh batch -- the same
+process used to build this one: real sources, real dates, real before/after figures.

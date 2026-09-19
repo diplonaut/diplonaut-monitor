@@ -144,43 +144,44 @@
   "tweet_id": "2101389832228675672"
  },
  {
-  "text": "Sweden now caps student work hours at 15 a week, according to the Swedish Migration Agency.\nRent is not similarly capped.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "Sweden now caps international students' work hours at 15 a week during term time, according to the Swedish Migration Agency. There was previously no limit. Effective June 11, 2026.",
+  "posted": false
  },
  {
-  "text": "Australia's student visa fee jumped from $2,000 to $2,500, and the graduate visa fee from $4,600 to $5,750, both in the same year, according to the Australian Department of Home Affairs.\nThat's not a fee increase. That's a subscription tier upgrade.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "Australia's student visa fee rose from AU$2,000 to AU$2,500, and the graduate visa fee from AU$4,600 to AU$5,750, both effective July 1, 2026, according to the Australian Department of Home Affairs. That's not a fee increase. That's a subscription tier upgrade.",
+  "posted": false
  },
  {
-  "text": "Canada has caught more than 10,000 fake acceptance letters since December 2023, according to IRCC.\nIf your \"guaranteed admission\" agent gave you weird vibes, they were right.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "Canada has caught more than 10,000 fake acceptance letters since December 2023, according to IRCC. If your \"guaranteed admission\" agent gave you weird vibes, they were right.",
+  "posted": false
  },
  {
-  "text": "The UK Home Office confirms the student visa fee is now £558, up from £490.\nThe visa didn't get better. The number just got bigger.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "The UK Home Office confirms the student visa fee rose from £524 to £558, effective April 8, 2026. The visa didn't get better. The number just got bigger.",
+  "posted": false
  },
  {
-  "text": "According to the College Board, average out-of-state tuition at a US public university is $31,880 a year — tuition alone.\nGermany's public universities are largely free, or up to about $3,000 a year for non-EU students in one specific state.\nThis is not a typo.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "According to the College Board's 2025-26 report, average out-of-state tuition at a US public university is $31,880 a year — tuition alone. Germany's public universities are largely free, or up to about $3,000 a year for non-EU students in one specific state. This is not a typo.",
+  "posted": false
  },
  {
-  "text": "A private university in the US runs $45,000 a year in tuition, per the College Board — before rent, before food.\nJapan's national universities cost about $3,500 a year, according to Japan's education ministry.\nWe'll just leave this here.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "A private university in the US runs $45,000 a year in tuition for 2025-26, per the College Board — before rent, before food. Japan's national universities cost about $3,500 a year, according to Japan's education ministry. We'll just leave this here.",
+  "posted": false
  },
  {
-  "text": "US public in-state tuition hit $11,950 a year, up from $11,610, according to the College Board's latest report.\nAdd room and board, and \"staying home\" for college now runs about $25,850 a year.\nJust so we're clear on what \"affordable\" means here.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "US public in-state tuition hit $11,950 a year for 2025-26, up from $11,610 the year before, according to the College Board. Add room and board, and \"staying home\" for college now runs about $25,850 a year. Just so we're clear on what \"affordable\" means here.",
+  "posted": false
  },
  {
-  "text": "US college tuition is now 101% higher than it was in 1995, adjusted for inflation, according to the College Board.\nMedian family income over the same 30 years: up 39%.\nThe math was never supposed to work like this.",
-  "posted": true,
-  "posted_at": "manual-not-api"
+  "text": "US college tuition for 2025-26 is 101% higher than it was in 1995, adjusted for inflation, according to the College Board. Median family income over the same 30 years: up 39%. The math was never supposed to work like this.",
+  "posted": false
+ },
+ {
+  "thread": [
+   "Carleen Noreus, former owner of two South Florida nursing schools, pleaded guilty in June 2026 to conspiracy to commit wire fraud and money laundering, according to the US Department of Justice.",
+   "Between 2018 and October 2025, her schools issued 2,956 fraudulent nursing diplomas. About 2,274 of the people who bought them passed the national nursing board exam and became licensed nurses, DOJ says.",
+   "This is the second phase of \"Operation Nightingale.\" In the first phase, 30 people were already convicted in 2023 for selling more than 7,600 fake nursing diplomas from three other Florida schools.",
+   "Nursing licensure exists to verify real clinical training actually happened. In this case, thousands of people bypassed that check entirely, and are working as nurses today."
+  ],
+  "posted": false
  }
 ]

@@ -1,9 +1,8 @@
 """Diplonaut X (Twitter) poster.
 
-Posts verified rule changes to @DiplonautHQ. It never invents or verifies anything itself:
-it only posts entries that a person has already added to queue.json with "posted": false,
-using the X API v2 (pay-per-use, paid via credits in the X Developer Console). Runs on a
-schedule via .github/workflows/post-to-x.yml.
+Fully automated: posts everything in queue.json on schedule, using the X API v2
+(pay-per-use, paid via credits in the X Developer Console). Runs via
+.github/workflows/post-to-x.yml.
 
 Required GitHub repository secrets (Settings -> Secrets and variables -> Actions):
   X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET
@@ -57,13 +56,8 @@ def fmt_date(iso):
         return iso
 
 def build_text(change):
-    # Voice: plain text, no links -- but the source is named in prose for credibility,
-    # journalist-style ("according to the UK Home Office...").
-    # A queue entry can set "text" directly for full control over the joke/phrasing;
-    # when writing one by hand, weave the source name into the sentence itself.
     if change.get("text"):
         return change["text"][:280]
-    # Fallback for older-style entries that only have title/date/src/dest.
     flag = flag_emoji(change["dest"])
     date = fmt_date(change.get("date", ""))
     when = f"from {date}" if change.get("upcoming") else date
@@ -93,15 +87,29 @@ def oauth1_header(method, url, params, api_key, api_secret, token, token_secret)
     oauth["oauth_signature"] = base64.b64encode(signature).decode()
     return "OAuth " + ", ".join(f'{enc(k)}="{enc(v)}"' for k, v in sorted(oauth.items()))
 
-def post_tweet(text, api_key, api_secret, token, token_secret):
+def post_tweet(text, api_key, api_secret, token, token_secret, reply_to_id=None):
+    body_data = {"text": text}
+    if reply_to_id:
+        body_data["reply"] = {"in_reply_to_tweet_id": reply_to_id}
     header = oauth1_header("POST", API_URL, {}, api_key, api_secret, token, token_secret)
-    body = json.dumps({"text": text}).encode()
+    body = json.dumps(body_data).encode()
     req = urllib.request.Request(API_URL, data=body, method="POST",
                                   headers={"Authorization": header, "Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=20) as r:
         return json.loads(r.read().decode())
 
-MAX_POSTS_PER_RUN = 1  # trickle the queue out over days rather than dumping it all at once
+MAX_POSTS_PER_RUN = 1  # trickle single posts out over days; a thread still counts as ONE item
+
+def post_thread(parts, api_key, api_secret, token, token_secret):
+    ids = []
+    reply_to = None
+    for part in parts:
+        result = post_tweet(part[:280], api_key, api_secret, token, token_secret, reply_to_id=reply_to)
+        tid = result.get("data", {}).get("id")
+        ids.append(tid)
+        reply_to = tid
+        time.sleep(2)
+    return ids
 
 def main():
     api_key = os.environ["X_API_KEY"]; api_secret = os.environ["X_API_SECRET"]
@@ -114,17 +122,24 @@ def main():
             continue
         if posted_this_run >= MAX_POSTS_PER_RUN:
             break
-        text = build_text(change)
         try:
-            result = post_tweet(text, api_key, api_secret, token, token_secret)
-            change["posted"] = True
-            change["posted_at"] = time.strftime("%Y-%m-%dT%H:%MZ", time.gmtime())
-            change["tweet_id"] = result.get("data", {}).get("id")
-            print("Posted:", text.replace("\n", " | "))
+            if change.get("thread"):
+                ids = post_thread(change["thread"], api_key, api_secret, token, token_secret)
+                change["posted"] = True
+                change["posted_at"] = time.strftime("%Y-%m-%dT%H:%MZ", time.gmtime())
+                change["tweet_ids"] = ids
+                print("Posted thread:", len(ids), "parts, first id", ids[0] if ids else None)
+            else:
+                text = build_text(change)
+                result = post_tweet(text, api_key, api_secret, token, token_secret)
+                change["posted"] = True
+                change["posted_at"] = time.strftime("%Y-%m-%dT%H:%MZ", time.gmtime())
+                change["tweet_id"] = result.get("data", {}).get("id")
+                print("Posted:", text.replace("\n", " | "))
             posted_any = True
             posted_this_run += 1
         except Exception as e:
-            print("FAILED to post:", change.get("title"), "-", f"{type(e).__name__}: {e}")
+            print("FAILED to post:", change.get("title") or change.get("text", "")[:60], "-", f"{type(e).__name__}: {e}")
     if posted_any:
         json.dump(queue, open(QUEUE, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     else:
