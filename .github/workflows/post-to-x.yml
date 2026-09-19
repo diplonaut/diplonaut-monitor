@@ -1,0 +1,34 @@
+name: Post verified changes to X
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"   # every 3 hours, offset 15 min after the source scan
+  workflow_dispatch: {}        # "Run workflow" button to post immediately
+  push:
+    paths:
+      - "x-poster/queue.json"  # also runs the moment someone adds a new entry and pushes it
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Post any unposted changes in the queue
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python x-poster/post_to_x.py
+      - name: Save which entries were posted
+        run: |
+          git config user.name "diplonaut-monitor"
+          git config user.email "monitor@users.noreply.github.com"
+          git add x-poster/queue.json
+          git commit -m "Post to X: $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "Nothing to commit"
+          git push
