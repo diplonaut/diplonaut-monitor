@@ -28,7 +28,8 @@ def page_text(raw):
     raw = main.group(0) if main else raw
     text = html.unescape(re.sub(r"(?s)<[^>]+>", "\n", raw))
     lines = [re.sub(r"\s+", " ", l).strip() for l in text.splitlines()]
-    return [l for l in lines if l]
+    # Skip bare counters (view counts, hit counters): a plain integer on its own line.
+    return [l for l in lines if l and not re.fullmatch(r"\d{1,7}", l)]
 
 
 FX = os.path.join(HERE, "fx.json")
@@ -107,10 +108,13 @@ def main():
             fx_date = fx["date"]
     except Exception as e:
         failures.append({"source": "ecb-fx", "name": "European Central Bank exchange rates", "url": "https://www.ecb.europa.eu", "error": f"{type(e).__name__}: {e}"[:200]})
+    failed_ids = sorted({f["source"] for f in failures})
+    new_failures = [i for i in failed_ids if i not in set(state.get("_failed", []))]
+    state["_failed"] = failed_ids
     json.dump(state, open(STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     status = {"last_scan_utc": now.strftime("%Y-%m-%dT%H:%MZ"), "sources_total": len(cfg["sources"]),
               "sources_ok": ok, "sources_failed": len(failures),
-              "pending_changes": len(changes), "fx_date": fx_date, "destinations": sorted({s["dest"] for s in cfg["sources"]})}
+              "pending_changes": len(changes), "new_failures": len(new_failures), "fx_date": fx_date, "destinations": sorted({s["dest"] for s in cfg["sources"]})}
     json.dump(status, open(STATUS, "w", encoding="utf-8"), indent=1)
     out = [f"# Official-source scan, {now:%d %B %Y %H:%M} UTC", "",
            f"{ok} of {len(cfg['sources'])} sources checked. {len(changes)} possible change(s). {len(failures)} source(s) unreachable.", ""]
