@@ -1,10 +1,10 @@
 {
- "last_scan_utc": "2026-09-19T18:03Z",
- "sources_total": 23,
- "sources_ok": 19,
- "sources_failed": 4,
+ "last_scan_utc": "2026-09-19T21:02Z",
+ "sources_total": 35,
+ "sources_ok": 28,
+ "sources_failed": 7,
  "pending_changes": 0,
- "new_failures": 0,
+ "new_failures": 4,
  "fx_date": "2026-09-18",
  "destinations": [
   "Australia",
@@ -19,6 +19,7 @@
   "Netherlands",
   "South Korea",
   "Sweden",
+  "Switzerland",
   "United Kingdom",
   "United States"
  ]
