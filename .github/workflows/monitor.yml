@@ -1,7 +1,7 @@
 name: Official-source scan
 on:
   schedule:
-    - cron: "0 5,17 * * *"   # twice a day, 05:00 and 17:00 UTC
+    - cron: "0 */3 * * *"   # every 3 hours: 00:00, 03:00, 06:00 ... 21:00 UTC
   workflow_dispatch: {}        # "Run workflow" button for an immediate scan
 permissions:
   contents: write
