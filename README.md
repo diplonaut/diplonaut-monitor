@@ -1,10 +1,10 @@
 # Diplonaut official-source monitor
 
-Scans the official decision-makers behind the comparator twice a day (05:00 and 17:00 UTC) and opens a review task whenever something changes. It never publishes on its own: every change is verified on the official page first.
+Scans the official decision-makers behind the comparator every 3 hours (00:00, 03:00, 06:00 … 21:00 UTC) and opens a review task whenever something changes. It never publishes on its own: every change is verified on the official page first.
 
 ## The update rule
 
-1. **Scan:** automatically, twice a day, every source in `sources.json` (immigration services, ministries, the White House, the State Department, and the US Federal Register through its public API).
+1. **Scan:** automatically, every 3 hours, every source in `sources.json` (immigration services, ministries, the White House, the State Department, and the US Federal Register through its public API).
 2. **Flag:** any change opens a GitHub issue labeled *review*, showing the lines added and removed and the link to the official page.
 3. **Verify:** open the official page and confirm the change. Never publish from news reports alone.
 4. **Publish:**
