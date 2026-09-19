@@ -20,6 +20,40 @@ jobs:
         env: { GH_TOKEN: "${{ github.token }}" }
         run: |
           n=$(python -c "import json;print(json.load(open('status.json'))['pending_changes'])")
+          f=$(python -c "import json;print(json.load(open('status.json')).get('new_failures',0))")
+          if [ "$n" -gt 0 ] || [ "$f" -gt 0 ]; then
+            gh issue create --title "Review: $n possible official change(s), $(date -u +'%d %b %H:%M') UTC" --body-file report.md --label review || \
+            gh issue create --title "Review: $n possible official change(s), $(date -u +'%d %b %H:%M') UTC" --body-file report.md
+          fi
+      - name: Save scan state and public status
+        run: |
+          git config user.name "diplonaut-monitor"
+          git config user.email "monitor@users.noreply.github.com"
+          git add state.json status.json report.md fx.json 2>/dev/null || git add state.json status.json report.md
+          git commit -m "Scan $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "Nothing to commit"
+          git push
+name: Official-source scan
+on:
+  schedule:
+    - cron: "0 5,17 * * *"   # twice a day, 05:00 and 17:00 UTC
+  workflow_dispatch: {}        # "Run workflow" button for an immediate scan
+permissions:
+  contents: write
+  issues: write
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Scan official sources
+        run: python monitor.py
+      - name: Open a review task when something changed
+        if: always()
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          n=$(python -c "import json;print(json.load(open('status.json'))['pending_changes'])")
           f=$(python -c "import json;print(json.load(open('status.json'))['sources_failed'])")
           if [ "$n" -gt 0 ] || [ "$f" -gt 0 ]; then
             gh issue create --title "Review: $n possible official change(s), $(date -u +'%d %b %H:%M') UTC" --body-file report.md --label review || \
