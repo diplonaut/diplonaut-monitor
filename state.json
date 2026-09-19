@@ -727,10 +727,10 @@
    "Policy paper",
    "Contents"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "uk-student-visa": {
-  "fp": "23bfbede0fc30fa86a757c6eb6cd7b02e218f21cc32d322eeb1e04a8badaaa32",
+  "fp": "14b0f72b95edf7675f13cb7a81dff1a627f87a0847481bc039a321fd33f1274e",
   "lines": [
    "Student visa",
    "Skip contents",
@@ -815,7 +815,6 @@
    "Part of",
    "Study in the UK on a Student visa",
    "Step",
-   "1",
    ":",
    "Check if this visa is right for you",
    "You can apply for a Student visa if you’re 16 or over and want to study on a further or higher education course in the UK.",
@@ -826,7 +825,6 @@
    "If you're under 18 and you want to study at an independent school in the UK, you may be eligible for a Child Student visa instead.",
    "Check which visas you're eligible for",
    "Step",
-   "2",
    ":",
    "Prepare the evidence you need",
    "Check what documents you can use as evidence",
@@ -835,7 +833,6 @@
    "If you're doing a masters degree or above, you may need to apply for the Academic Technology Approval Scheme (ATAS) certificate.",
    "Check if you need to apply for ATAS",
    "Step",
-   "3",
    ":",
    "Apply from outside the UK",
    "Apply from outside the UK",
@@ -854,7 +851,6 @@
    "You may be able to pay more to get a faster decision",
    "you’ll be told if you can when you apply",
    "Step",
-   "4",
    ":",
    "Get access to your eVisa",
    "If your application is successful, you'll get an eVisa. This is an online record of your immigration status.",
@@ -863,7 +859,6 @@
    "You’ll need to link your travel document to your UKVI account. This should be the travel document you use to come to the UK.",
    "You may have to prove your immigration status when you travel to the UK",
    "Step",
-   "5",
    ":",
    "Check what you can bring into the UK with you",
    "Check what you can bring in your hand luggage",
@@ -871,22 +866,20 @@
    "Check what goods you can bring with you",
    "Check what food, animals or plants you can bring into the UK",
    "Step",
-   "6",
    ":",
    "Check what you need to show at the UK border",
    "Check what you need to show at the UK border",
    "Step",
-   "7",
    ":",
    "After you arrive in the UK",
    "You might be able to extend your visa to stay longer in the UK.",
    "Check if you can extend your visa",
    "If you break the conditions of your visa you may not be able to come to the UK again."
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "ca-funds": {
-  "fp": "8f4a3d8d7284d6c52d989064f768aa5be30dcef9c554c918c33ce4b1472a7545",
+  "fp": "a900c792ef0dcf6dbd723ea44d1512a6d5eb81c5204774d03415cd48f0302831",
   "lines": [
    "Proof of financial support",
    "You must prove that you have enough money,",
@@ -1013,19 +1006,12 @@
    "Amount required per year",
    "(excluding tuition and transportation costs)",
    "(in CAN$)",
-   "1",
    "$23,448",
-   "2",
    "$29,192",
-   "3",
    "$35,888",
-   "4",
    "$43,572",
-   "5",
    "$49,419",
-   "6",
    "$55,736",
-   "7",
    "$62,054",
    "If more than 7 people, each additional family member",
    "$6,318",
@@ -1038,19 +1024,12 @@
    "Amount required per year",
    "(excluding tuition and transportation costs)",
    "(in CAN$)",
-   "1",
    "$22,895",
-   "2",
    "$28,502",
-   "3",
    "$35,040",
-   "4",
    "$42,543",
-   "5",
    "$48,252",
-   "6",
    "$54,420",
-   "7",
    "$60,589",
    "If more than 7 people, each additional family member",
    "$6,170",
@@ -1065,15 +1044,14 @@
    "Page details",
    "2026-08-28"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "ca-notices": {
-  "fp": "4fb637066aac3791e0c5b89132982fcf566192b6f2fa710b5adf97740134e059",
+  "fp": "e65f3d36b0f957f0849cb361ae9f3bbc6642d667765b27fda486f5d1b0c22d55",
   "lines": [
    "Notices",
    ":",
    "Immigration, Refugees and Citizenship Canada",
-   "2026",
    "Notice – Supporting economic growth and stronger public services by maximizing the contributions of temporary workers already in Canada",
    "September 9, 2026",
    "Notice – Hong Kong permanent residence pathways closing to new applications",
@@ -1114,7 +1092,6 @@
    "January 27, 2026",
    "Notice – Canada extends access to temporary residence for those who have applied for the Ukrainian family reunification pathway",
    "January 16, 2026",
-   "2025",
    "Notice – Pausing Home Care Worker Immigration pilots application intake",
    "December 19, 2025",
    "Notice – Update on Immigration Measures for Entrepreneurs",
@@ -1165,7 +1142,6 @@
    "January 14, 2025",
    "Notice – 2025 Agri-Food Pilot application cap",
    "January 3, 2025",
-   "2024",
    "Notice – Online survey of newcomers to Canada",
    "December 13, 2024",
    "Notice – Temporary pause on intake of refugee sponsorship applications from groups of five and community sponsors",
@@ -1224,7 +1200,6 @@
    "5 February 2024",
    "Notice - New permanent residence pathway for former minors in protective care",
    "23 January 2024",
-   "2023",
    "Notice - Changes to the pre-removal risk assessment for the West Bank and Gaza",
    "22 December 2023",
    "Notice - Temporary public policy to facilitate the processing of temporary resident visas has now ended",
@@ -1291,7 +1266,6 @@
    "27 January 2023",
    "Notice - Passport Client Experience Survey for passports issued in 2022",
    "27 January 2023",
-   "2022",
    "Notice – Changes to the pre-removal risk assessment for Iran",
    "19 December 2022",
    "Notice – Automation to help process privately sponsored refugee applications",
@@ -1336,7 +1310,6 @@
    "14 February 2022",
    "Notice – Advanced data analytics to help IRCC officers sort and process temporary resident visa applications",
    "24 January 2022",
-   "2021",
    "Notice – Public policy extended exempting certain foreign nationals in Canada from requiring another immigration medical exam",
    "24 December 2021",
    "Notice – Changes to the pre-removal risk assessment for Ethiopia",
@@ -1401,7 +1374,6 @@
    "11 January 2021",
    "Notice – Invitations to apply for the 2020 Parents and Grandparents Program now being sent out",
    "5 January 2021",
-   "2020",
    "Notice – Public policy extended for temporary residents applying to restore status",
    "31 December 2020",
    "Notice – Immigration, Refugees and Citizenship Canada implements public policy to help stranded temporary workers from Trinidad and Tobago",
@@ -1470,7 +1442,6 @@
    "31 January 2020",
    "Notice – Special Measures to help assist with urgent travel related to flight PS752",
    "10 January 2020",
-   "2019",
    "Notice – Update on 2020 Parents and Grandparents Program",
    "30 December 2019",
    "Notice – Details of 2020 Parents and Grandparents Program coming soon",
@@ -1519,7 +1490,6 @@
    "30 January 2019",
    "Notice – Interest to sponsor form for 2019 Parents and Grandparents Program available today",
    "28 January 2019",
-   "2018",
    "Notice – Outreach Survey to Refugees in the Private Sponsorship of Refugees Program",
    "27 December 2018",
    "Notice – Details of 2019 Parents and Grandparents Program coming soon",
@@ -1558,7 +1528,6 @@
    "14 February 2018",
    "Notice – Client service survey 2018",
    "22 January 2018",
-   "2017",
    "Notice – Work permit pilot extended to 2019 for spouses and common-law partners applying for permanent residence from within Canada",
    "15 December 2017",
    "Notice – Be aware of an ongoing scam targeting international students",
@@ -1607,7 +1576,6 @@
    "25 January 2017",
    "Notice – Changes for 2017 Parent and Grandparent Program",
    "3 January 2017",
-   "2016",
    "Notice – Faster processing times for spouses and partners - Archived",
    "15 December 2016",
    "Notice – Work permit pilot extended for spouses and common-law partners applying for permanent residence from within Canada",
@@ -1652,7 +1620,6 @@
    "7 January 2016",
    "Reopening the Parent and Grandparent Program",
    "3 January 2016",
-   "2015",
    "Update on work permits for spouses and common-law partners applying for permanent residence from within Canada – archived",
    "11 December 2015",
    "International Experience Canada – New e-application System – archived",
@@ -1699,7 +1666,6 @@
    "9 February 2015",
    "Parent and Grandparent program update – archived",
    "16 January 2015",
-   "2014",
    "Changes to Citizenship processing on January 1, 2015 – archived",
    "31 December 2014",
    "Work permits for spouses and common-law partners living in Canada – archived",
@@ -1754,7 +1720,6 @@
    "12 February 2014",
    "Important notice regarding adoptions from the Democratic Republic of Congo – archived",
    "4 February 2014",
-   "2013",
    "Parent and Grandparent Program Sponsorship Forms Now Available Online – archived",
    "31 December 2013",
    "Passport Canada – Improvements to passport services for Canadians abroad – archived",
@@ -1827,7 +1792,6 @@
    "CIC",
    "Consolidating Visa and Immigration Services – archived",
    "28 January 2013",
-   "2012",
    "Passport Canada – New passport fees to take effect on July 1, 2013 – archived",
    "19 December 2012",
    "Notice of new “Bridging” Open Work Permits for Certain Federal Economic Class Applicants – archived",
@@ -1900,7 +1864,6 @@
    "26 January 2012",
    "Visa Services at the Canadian Embassy in Libya (Tripoli) re-opens – archived",
    "17 January 2012",
-   "2011",
    "Canadian Society of Immigration Consultants v. Minister of Citizenship and Immigration",
    "– archived",
    "9 December 2011",
@@ -1938,7 +1901,7 @@
    "Page details",
    "2026-09-09"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "us-fedreg": {
   "since": "2026-09-01",
@@ -1948,7 +1911,7 @@
    "2026-18685",
    "2026-18690"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "us-wh": {
   "fp": "7fc6cbcee35da1363ec0a78acde1545691b19c2b88df3ac69cc830bece39d323",
@@ -2005,7 +1968,7 @@
    "Nominations & Appointments",
    "September 14, 2026"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "de-funds": {
   "fp": "0bd331faa777a5d4aaff16874416c09e0238615e8cae570b432bce507b68a7ef",
@@ -2070,7 +2033,7 @@
    "Mail",
    "nach oben"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "nl-amounts": {
   "fp": "2ba4d0d5de7dfe7ef66fac7a889f1feb426da501e8d0f6cad10722c5afa6737a",
@@ -2441,7 +2404,7 @@
    "All income requirements:",
    "Income requirements: independent, sustainable and sufficient income"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "ie-funds": {
   "fp": "9afedd51e937997659f25f3e5746a996ec027d0ab1e2a936d3fdc89d677daacb",
@@ -2523,7 +2486,7 @@
    "Doctoral Degree.",
    "This page was last updated on June 30, 2025"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "be-funds": {
   "fp": "d21de1931e2ebf55b4ee9be740f80b3dca67431ae3877104864f8be7cc7732f5",
@@ -2645,7 +2608,7 @@
    "Services consulaires",
    "Dans cette section, vous trouverez des informations sur votre inscription, une naissance, comment demander une carte d'identité ..."
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "be-dofi": {
   "fp": "b068b40e5527a27db2918b311d7ab65b72b8e58cafc5a222bc21a0b971e3b9c0",
@@ -2693,7 +2656,7 @@
    "Bijlage 32 Verbintenis tot tenlasteneming (docx)",
    "14.38 KB"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "au-news": {
   "fp": "dc9bd1b7c93c3ac0dbafe5667d3257d8763546ce959ca8208e767085b19a37dc",
@@ -2777,10 +2740,10 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "at-funds": {
-  "fp": "3fabcd984418c43d5831c46fa554bc23bf3564c88ab4624eab427469e266763e",
+  "fp": "17f471ef88ffcee90b5cd7d32e0419c1c2a23ce5b813f4de13f3656c32c5f67c",
   "lines": [
    "Permanent immigration",
    "\"Easy-to-read\" information is available in German.",
@@ -2858,7 +2821,6 @@
    "No threat to public order or security",
    "Your stay must not be contrary to public order or public security or substantially affect Austria's relations with other countries.",
    "» mehr lesen",
-   "3495",
    "Further information and useful links",
    "Application forms",
    "Application forms",
@@ -2924,7 +2886,7 @@
    "Contact",
    "Editorial"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "at-oead": {
   "fp": "0f6abb916a6b6d371fd9f72f241747e2f5d44a0a3c168e01e735b8ced5c681b9",
@@ -3494,10 +3456,10 @@
    "Here",
    "you will find our FAQs on entry and residence for third-country students."
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "dk-siri": {
-  "fp": "8b5f9cb389ebc4af16324e9f37594b6629e78ac0e21abf20e86766cddd0a0931",
+  "fp": "f2d8dfd4adf547394103b399fbc74e77cac184b9703f4c82397262e0aadbb832",
   "lines": [
    "Higher educational programmes",
    "You are going to study in a higher educational programme in Denmark",
@@ -3678,11 +3640,8 @@
    "SIRI will contact you or your place of study if we need further information to process your case.",
    "Below you will find a step-by-step guide to submitting an application to the Danish Agency for International Recruitment and Integration (SIRI).",
    "It is important that you have carefully read the conditions for being granted a residence permit before you begin step 1. You can do this on the tab “Need to know” on the left.",
-   "1",
    "Create case order ID",
-   "2",
    "Pay the fee",
-   "3",
    "Gather documentation and declarations",
    "It is a good idea to gather the necessary documents before you start to complete the application. You can use this check list and download the declaration you might need below.",
    "You may be required to have your documents translated before submitting your application.",
@@ -3704,7 +3663,6 @@
    "(must be signed by both your parents and attached to the application if you are under 18 years old)",
    "Download declaration of proper residence and study conditions (PDF) (only in Danish)",
    "(the school must sign and stamp the declaration and attach it to the application if the applicant is under 18 years old)",
-   "4",
    "Complete the application form",
    "Expect to use",
    "30-40 minutes",
@@ -3729,11 +3687,9 @@
    "The printable application in Word format can be completed on screen before you print. The application form in pdf format must be printed first and then completed by hand.",
    "Download the printable form ST1 (Word format)",
    "Download the printable form ST1 (Pdf format)",
-   "5",
    "Find the application",
    "You can find your ongoing and completed applications for 30 days from your last login.",
    "Log in to see your applications",
-   "6",
    "Submit the application",
    "You have applied online",
    "If you have applied online, your application has already been submitted. Read more about having your biometrics recorded in the next step.",
@@ -3752,7 +3708,6 @@
    "You can submit the applicaton in one of SIRI’s branch offices.",
    "If you plan to submit your application in one of SIRI’s branch offices, you must remember to book an appointment.",
    "You can also send the application to SIRI.",
-   "7",
    "Biometrics",
    "When you apply for a residence permit, you must have your biometric features recorded. This means that you must have a facial photo taken and your fingerprints recorded. The facial photo and your fingerprints will be stored on a microchip embedded in the residence card, which will be issued to you if you are granted a permit.",
    "If you do not agree to have your biometric features recorded, your application will be rejected. This means that your application will not be processed.",
@@ -3779,7 +3734,6 @@
    "Read about the legal residence requirement and submission of your application in Denmark",
    "You can have your biometric features recorded in one of SIRI’s branch offices.",
    "If you plan to have your biometrics recorded in one of SIRI’s branch offices, you must remember to book an appointment",
-   "8",
    "Receive an answer",
    "You have submitted your application succesfully if you have:",
    "created a case order ID",
@@ -3810,7 +3764,7 @@
    "Last updated 15-09-2026 - Published by: SIRI",
    "-->"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "dk-work": {
   "fp": "d6e34326d51ac87b4f856e6aeb3cb32bafd2d9b3a1565ebd53b19645845306df",
@@ -3827,10 +3781,10 @@
    "Send link",
    "Last updated 09-09-2026 - Published by: SIRI"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "se-he": {
-  "fp": "c915857ac88854de06164ce7de63aaacb0615e899c5f26a3744e4f002a226488",
+  "fp": "3698e259be1207263622311847ffdc8fab93f36208a69b90ff3c8fb8b72c280f",
   "lines": [
    "You want to apply",
    "Higher education",
@@ -4243,7 +4197,6 @@
    "It is not possible to say exactly how long you will need to wait for a decision. There are many things that affect the waiting time, for example whether your application is complete to begin with or whether we need to request more information, or whether we need to check with other authorities when investigating your case.",
    "Here we show statistics on how long it has taken for people who have applied for the same permit as you. The statistics are based on cases decided in the last 12 months.",
    "75% of recently decided cases have been decided within:",
-   "3",
    "months",
    "What does it cost to apply?",
    "Adults: SEK 1,500",
@@ -4560,7 +4513,7 @@
    "New rules for researchers and doctoral students",
    "The Swedish Parliament has decided on new rules for researchers and doctoral students. The rules mean, among other things, that doctoral students with a hosting agreement can receive a residence permit for research, that it will be easier to receive a permanent residence permit, and that you can apply for another permit in Sweden in more situations."
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "jp-work": {
   "fp": "bb98290744fe5ba408a983434cef6366215de342202e459b20655b5eaee4e7b7",
@@ -4762,10 +4715,10 @@
    "正しく表示されない場合は、最新バージョンをご利用ください。",
    "ページトップ"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "kr-funds": {
-  "fp": "b6507039f3dc7c2e78fd016d2923cad7f0660e1764c1889f848cfcb3895f7b23",
+  "fp": "8c8f1eacb6bcd0443c482afb4e7cee8473314a2bf766b0c28df05029d525026b",
   "lines": [
    "사이트 이동경로",
    "홈",
@@ -4785,7 +4738,6 @@
    "URL 복사",
    "공유 닫기",
    "공감수",
-   "1",
    "댓글수(클릭시 댓글로 이동)",
    "정책뉴스",
    "-->",
@@ -4900,7 +4852,6 @@
    "URL 복사",
    "공유 닫기",
    "좋아요",
-   "1",
    "댓글",
    "보기",
    "운영원칙",
@@ -4926,21 +4877,18 @@
    "관련기사 더보기",
    "정책 NOW",
    "실시간 인기뉴스",
-   "09.19. 16:07 기준",
-   "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작",
-   "순위동일",
-   "연 최고 19.4% 청년미래적금, 10월 7일부터 2차 가입 신청",
-   "단계상승",
-   "2",
+   "09.19. 16:22 기준",
    "농사를 못 지으면, 농지를 팔아야 한다?",
-   "단계하락",
-   "1",
-   "유류세 인하 11월 말까지 연장…추석 고속도로 주유소 리터당 100원↓",
-   "NEW",
-   "신분당선 5개 역 연장! 호매실에서 강남까지 40분대 진입?",
+   "순위동일",
+   "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작",
    "단계상승",
-   "1",
-   "[정책 바로보기] \"국가보훈부 과오급금 관리체계 강화\"",
+   "한-카자흐스탄 대통령기록관리 업무협약…디지털 기록 교류 강화",
+   "NEW",
+   "8월 호우 피해 이재민에 추석 전 주거 안정 지원",
+   "NEW",
+   "이 대통령 \"더 낮은 자세로 '민생·개혁·통합 대통령' 되도록 최선 다할 것\"",
+   "NEW",
+   "공무원 초과근무 '하루 4시간' 상한 폐지…\"일한 만큼 보상\"",
    "NEW",
    "인기뉴스",
    "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작",
@@ -4976,10 +4924,10 @@
    "(보도설명) 공공부문 전체 수지만으로 재정상황을 평가하는 것은 적절하지 않으며, 향후 세수 및 재정수지가 큰 폭으로 개선될 전망입니다.",
    "2026.09.19"
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
+  "checked": "2026-09-19T07:25:46.952745+00:00"
  },
  "kr-d10": {
-  "fp": "79617c051d2cad8523186056a831fc266bf9c57d20335c414c6622a499cf7887",
+  "fp": "dba56bcdb5143c5c510b527c8186e5ba9ad4ec1d50327ee71a9526d3f741633d",
   "lines": [
    "법무부",
    "L o a d i n g . . .",
@@ -4987,7 +4935,6 @@
    "🧡Welcome!👋Global Debut! Part.03: Job Seeker(D-10) Visa Scheme Improvements🧡",
    "-->",
    "글번호",
-   "601114",
    "-->",
    "작성일",
    "2025.12.02",
@@ -4995,7 +4942,6 @@
    "2025.12.02",
    "-->",
    "조회수",
-   "4024",
    "담당부서",
    "대변인실",
    "담당자",
@@ -5042,6 +4988,11 @@
    "공공누리 AI유형(출처표시)",
    "\" 조건에 따라 누구나 이용할 수 있습니다."
   ],
-  "checked": "2026-09-19T07:13:36.868248+00:00"
- }
+  "checked": "2026-09-19T07:25:46.952745+00:00"
+ },
+ "_failed": [
+  "fr-fees",
+  "us-dos",
+  "us-sits"
+ ]
 }
