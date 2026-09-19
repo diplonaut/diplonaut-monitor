@@ -164,7 +164,8 @@
    "dest": "South Korea",
    "name": "Korean government: student visa money to show",
    "type": "page",
-   "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148916751"
+   "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148916751",
+   "keep": "유학|재정능력|만\\s?원|학위과정|어학연수|시간제"
   },
   {
    "id": "kr-d10",

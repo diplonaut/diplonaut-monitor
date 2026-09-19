@@ -88,6 +88,8 @@ def main():
                                   "checked": now.isoformat()}
             else:
                 lines = page_text(fetch(s["url"]))
+                if s.get("keep"):  # only compare the lines that matter on busy portal pages
+                    lines = [l for l in lines if re.search(s["keep"], l)]
                 fp = fingerprint(lines)
                 if prev.get("fp") and prev["fp"] != fp:
                     old = set(prev.get("lines", []))
