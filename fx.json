@@ -1,0 +1,16 @@
+{
+ "date": "2026-09-18",
+ "source": "European Central Bank euro reference rates",
+ "to_eur": {
+  "EUR": 1.0,
+  "USD": 0.8726,
+  "GBP": 1.164415,
+  "CHF": 1.056859,
+  "CAD": 0.62282,
+  "AUD": 0.621311,
+  "DKK": 0.133772,
+  "SEK": 0.088562,
+  "JPY": 0.005527,
+  "KRW": 0.000629
+ }
+}

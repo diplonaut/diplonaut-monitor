@@ -1,0 +1,24 @@
+{
+ "last_scan_utc": "2026-09-19T07:10Z",
+ "sources_total": 23,
+ "sources_ok": 20,
+ "sources_failed": 3,
+ "pending_changes": 0,
+ "fx_date": "2026-09-18",
+ "destinations": [
+  "Australia",
+  "Austria",
+  "Belgium",
+  "Canada",
+  "Denmark",
+  "France",
+  "Germany",
+  "Ireland",
+  "Japan",
+  "Netherlands",
+  "South Korea",
+  "Sweden",
+  "United Kingdom",
+  "United States"
+ ]
+}
