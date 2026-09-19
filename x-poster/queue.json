@@ -145,34 +145,42 @@
  },
  {
   "text": "Sweden now caps student work hours at 15 a week, according to the Swedish Migration Agency.\nRent is not similarly capped.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  },
  {
   "text": "Australia's student visa fee jumped from $2,000 to $2,500, and the graduate visa fee from $4,600 to $5,750, both in the same year, according to the Australian Department of Home Affairs.\nThat's not a fee increase. That's a subscription tier upgrade.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  },
  {
   "text": "Canada has caught more than 10,000 fake acceptance letters since December 2023, according to IRCC.\nIf your \"guaranteed admission\" agent gave you weird vibes, they were right.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  },
  {
   "text": "The UK Home Office confirms the student visa fee is now £558, up from £490.\nThe visa didn't get better. The number just got bigger.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  },
  {
   "text": "According to the College Board, average out-of-state tuition at a US public university is $31,880 a year — tuition alone.\nGermany's public universities are largely free, or up to about $3,000 a year for non-EU students in one specific state.\nThis is not a typo.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  },
  {
   "text": "A private university in the US runs $45,000 a year in tuition, per the College Board — before rent, before food.\nJapan's national universities cost about $3,500 a year, according to Japan's education ministry.\nWe'll just leave this here.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  },
  {
   "text": "US public in-state tuition hit $11,950 a year, up from $11,610, according to the College Board's latest report.\nAdd room and board, and \"staying home\" for college now runs about $25,850 a year.\nJust so we're clear on what \"affordable\" means here.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  },
  {
   "text": "US college tuition is now 101% higher than it was in 1995, adjusted for inflation, according to the College Board.\nMedian family income over the same 30 years: up 39%.\nThe math was never supposed to work like this.",
-  "posted": false
+  "posted": true,
+  "posted_at": "manual-not-api"
  }
 ]
