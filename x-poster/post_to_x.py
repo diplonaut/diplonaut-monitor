@@ -2,8 +2,8 @@
 
 Posts verified rule changes to @DiplonautHQ. It never invents or verifies anything itself:
 it only posts entries that a person has already added to queue.json with "posted": false,
-using the X API v2 free tier (write-only, 1,500 posts/month, no cost). Runs on a schedule
-via .github/workflows/post-to-x.yml.
+using the X API v2 (pay-per-use, paid via credits in the X Developer Console). Runs on a
+schedule via .github/workflows/post-to-x.yml.
 
 Required GitHub repository secrets (Settings -> Secrets and variables -> Actions):
   X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET
@@ -31,6 +31,8 @@ SRC_NAME = {
     "migration.gv.at": "Austrian government", "oead.at": "OeAD, Austria", "nyidanmark.dk": "SIRI, Denmark",
     "migrationsverket.se": "Swedish Migration Agency", "moj.go.jp": "Immigration Services Agency, Japan",
     "korea.kr": "Korean government", "immigration.go.kr": "Korea Ministry of Justice", "sem.admin.ch": "Swiss SEM",
+    "homeaffairs.gov.au": "Australian Department of Home Affairs", "auswaertiges-amt.de": "German Federal Foreign Office",
+    "daad.de": "DAAD", "gov.ie": "Irish Department of Justice", "jasso.go.jp": "JASSO",
 }
 
 def flag_emoji(dest):
@@ -55,15 +57,21 @@ def fmt_date(iso):
         return iso
 
 def build_text(change):
-    # New voice: plain text, no links, no source attribution -- just the fact, deadpan.
-    # A queue entry can set "text" directly for full control over the joke/phrasing.
+    # Voice: plain text, no links -- but the source is named in prose for credibility,
+    # journalist-style ("according to the UK Home Office...").
+    # A queue entry can set "text" directly for full control over the joke/phrasing;
+    # when writing one by hand, weave the source name into the sentence itself.
     if change.get("text"):
         return change["text"][:280]
     # Fallback for older-style entries that only have title/date/src/dest.
     flag = flag_emoji(change["dest"])
     date = fmt_date(change.get("date", ""))
     when = f"from {date}" if change.get("upcoming") else date
-    text = f'{flag} {change["title"]} ({when}).'
+    source = src_name(change["src"]) if change.get("src") else None
+    if source:
+        text = f'{flag} {change["title"]} ({when}), according to {source}.'
+    else:
+        text = f'{flag} {change["title"]} ({when}).'
     return text[:280]
 
 def oauth1_header(method, url, params, api_key, api_secret, token, token_secret):
