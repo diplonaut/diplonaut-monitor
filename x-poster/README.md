@@ -32,6 +32,14 @@ Rules, all of them non-negotiable:
 - **Name the real source in prose, no links.** "according to the UK Home Office,"
   "per the College Board," "IRCC confirms." No claim goes out unattributed, and no
   post links out -- the source is a phrase, not a URL.
+- **Neutral tone, no emotionally-loaded emoji or editorializing words.** No skulls,
+  no crying-laughing faces, no sarcastic winks, and no words like "unfortunately" or
+  "sadly" that impose a reaction on the reader. Immigration is a politically charged
+  topic on X; the same emoji reads as sympathy to one audience and mockery to another,
+  and either way it undercuts the account's actual asset, which is that it doesn't
+  take a side. State the fact plainly and let the number do the work. A dry, factual
+  aside ("That's not a fee increase, that's a subscription tier upgrade") is fine --
+  it's observational, not emotional. A skull or a wink is not.
 - **Under 280 characters** (the script truncates if not; check before adding).
 - **The fact must hold up.** It has to be true and checkable on diplonaut.com, even
   though the post itself never links there.
