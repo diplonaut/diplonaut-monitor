@@ -55,17 +55,16 @@ def fmt_date(iso):
         return iso
 
 def build_text(change):
+    # New voice: plain text, no links, no source attribution -- just the fact, deadpan.
+    # A queue entry can set "text" directly for full control over the joke/phrasing.
+    if change.get("text"):
+        return change["text"][:280]
+    # Fallback for older-style entries that only have title/date/src/dest.
     flag = flag_emoji(change["dest"])
     date = fmt_date(change.get("date", ""))
     when = f"from {date}" if change.get("upcoming") else date
-    body = f'{flag} {change["title"]} ({when}). Official source: {src_name(change["src"])}. Tracked by Diplonaut'
-    link = f'{SITE}/#latest'
-    text = f"{body}\n{link}"
-    if len(text) > 275:  # keep comfortably under X's 280-character limit
-        overflow = len(text) - 272
-        body = body[: len(body) - overflow - 1] + "\u2026"
-        text = f"{body}\n{link}"
-    return text
+    text = f'{flag} {change["title"]} ({when}).'
+    return text[:280]
 
 def oauth1_header(method, url, params, api_key, api_secret, token, token_secret):
     oauth = {
@@ -94,14 +93,19 @@ def post_tweet(text, api_key, api_secret, token, token_secret):
     with urllib.request.urlopen(req, timeout=20) as r:
         return json.loads(r.read().decode())
 
+MAX_POSTS_PER_RUN = 1  # trickle the queue out over days rather than dumping it all at once
+
 def main():
     api_key = os.environ["X_API_KEY"]; api_secret = os.environ["X_API_SECRET"]
     token = os.environ["X_ACCESS_TOKEN"]; token_secret = os.environ["X_ACCESS_SECRET"]
     queue = json.load(open(QUEUE, encoding="utf-8"))
     posted_any = False
+    posted_this_run = 0
     for change in queue:
         if change.get("posted"):
             continue
+        if posted_this_run >= MAX_POSTS_PER_RUN:
+            break
         text = build_text(change)
         try:
             result = post_tweet(text, api_key, api_secret, token, token_secret)
@@ -110,7 +114,7 @@ def main():
             change["tweet_id"] = result.get("data", {}).get("id")
             print("Posted:", text.replace("\n", " | "))
             posted_any = True
-            time.sleep(2)  # be gentle between posts if several are queued at once
+            posted_this_run += 1
         except Exception as e:
             print("FAILED to post:", change.get("title"), "-", f"{type(e).__name__}: {e}")
     if posted_any:
