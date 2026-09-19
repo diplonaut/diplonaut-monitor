@@ -12,12 +12,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(HERE, "state.json")
 STATUS = os.path.join(HERE, "status.json")
 REPORT = os.path.join(HERE, "report.md")
-UA = "DiplonautMonitor/1.0 (+https://diplonaut.com)"
+UA = "Mozilla/5.0 (compatible; DiplonautMonitor/1.1; +https://diplonaut.com)"
 
 def fetch(url, timeout=30):
     if url.startswith("file://"):
         return open(url[7:], encoding="utf-8").read()
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en,fr;q=0.8"})
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "Accept-Language": "en,fr;q=0.8"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode(r.headers.get_content_charset() or "utf-8", "replace")
 
