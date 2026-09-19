@@ -1,10 +1,10 @@
 {
- "last_scan_utc": "2026-09-19T15:02Z",
+ "last_scan_utc": "2026-09-19T18:03Z",
  "sources_total": 23,
- "sources_ok": 18,
- "sources_failed": 5,
+ "sources_ok": 19,
+ "sources_failed": 4,
  "pending_changes": 0,
- "new_failures": 2,
+ "new_failures": 0,
  "fx_date": "2026-09-18",
  "destinations": [
   "Australia",
