@@ -11,23 +11,30 @@ Already done: the app, OAuth 1.0a keys, GitHub secrets, and a paid credit balanc
 all in place. If credits ever run out, add more in the X Developer Console under
 Billing -> Credits -- posting will resume automatically once the balance is positive.
 
-## Adding a new post to the queue
+## Writing a new post
 
-Posts are plain text -- no links -- but every post names its source in the sentence
-itself, journalist-style: "according to the UK Home Office," "per the College Board,"
-"IRCC confirms." No claim goes out unattributed. Write the post exactly as it should
-appear and add it to `queue.json`:
+Write the post exactly as it should appear and add it to `queue.json` as `"text"`:
 
 ```json
-{"text": "canada raises proof of funds to CA$23,448 (up from CA$20,635), according to IRCC\nstill cheaper than one semester of room and board in most of the us", "posted": false}
+{"text": "Canada raises proof of funds to CA$23,448, up from CA$20,635, according to IRCC.\nStill cheaper than one semester of room and board in most of the US.", "posted": false}
 ```
 
-- Keep it under 280 characters (script truncates if not).
-- `\n` for a line break within the post.
-- Name the actual source (the agency, ministry, or report) somewhere in the text --
-  not as a link, just as a phrase, the way a news article would attribute a claim.
-- The fact itself must still be true and checkable on diplonaut.com -- the account
-  never links to prove it, but it always has to hold up if someone checks.
+Rules, all of them non-negotiable:
+
+- **Proper sentence case.** Capitalize the first word and every proper noun and
+  acronym -- "UK," "US," "IRCC," "Canada," not "uk," "us," "canada." This is a news
+  brief, not a text message.
+- **No unexplained jargon.** If a term isn't something a general reader already knows
+  (a visa category's specific name, an agency's internal shorthand), spell out what it
+  means in a few words the first time it appears -- e.g. "the Graduate Route (its
+  post-study work visa)" rather than just "the Graduate Route." A reader with zero
+  background in immigration policy should still follow the post on one read.
+- **Name the real source in prose, no links.** "according to the UK Home Office,"
+  "per the College Board," "IRCC confirms." No claim goes out unattributed, and no
+  post links out -- the source is a phrase, not a URL.
+- **Under 280 characters** (the script truncates if not; check before adding).
+- **The fact must hold up.** It has to be true and checkable on diplonaut.com, even
+  though the post itself never links there.
 
 Only **one queued post goes out per scheduled run** (`MAX_POSTS_PER_RUN` in
 `post_to_x.py`), so a backlog trickles out over days instead of firing all at once.
