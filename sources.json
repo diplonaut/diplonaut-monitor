@@ -1,0 +1,177 @@
+{
+ "_note": "Official decision-makers only. type 'page' = the page's text is fingerprinted and any change is flagged; type 'federal_register' = new documents from the US Federal Register API. 'verify': true = address not yet confirmed; the first run reports whether it loads.",
+ "sources": [
+  {
+   "id": "uk-soc",
+   "dest": "United Kingdom",
+   "name": "Home Office: statements of changes to the Immigration Rules",
+   "type": "page",
+   "url": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
+  },
+  {
+   "id": "uk-student-visa",
+   "dest": "United Kingdom",
+   "name": "GOV.UK: Student visa",
+   "type": "page",
+   "url": "https://www.gov.uk/student-visa",
+   "verify": true
+  },
+  {
+   "id": "ca-funds",
+   "dest": "Canada",
+   "name": "IRCC: study permit proof of financial support",
+   "type": "page",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html"
+  },
+  {
+   "id": "ca-notices",
+   "dest": "Canada",
+   "name": "IRCC: notices",
+   "type": "page",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices.html",
+   "verify": true
+  },
+  {
+   "id": "us-fedreg",
+   "dest": "United States",
+   "name": "Federal Register: DHS and State Department rules on students",
+   "type": "federal_register",
+   "terms": [
+    "F-1",
+    "nonimmigrant students",
+    "exchange visitor",
+    "student visa",
+    "SEVP"
+   ]
+  },
+  {
+   "id": "us-wh",
+   "dest": "United States",
+   "name": "White House: presidential actions",
+   "type": "page",
+   "url": "https://www.whitehouse.gov/presidential-actions/",
+   "verify": true
+  },
+  {
+   "id": "us-dos",
+   "dest": "United States",
+   "name": "State Department: visa news",
+   "type": "page",
+   "url": "https://travel.state.gov/content/travel/en/News/visas-news.html",
+   "verify": true
+  },
+  {
+   "id": "us-sits",
+   "dest": "United States",
+   "name": "DHS Study in the States: duration of status rule FAQ",
+   "type": "page",
+   "url": "https://studyinthestates.dhs.gov/final-rule-establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-faq"
+  },
+  {
+   "id": "fr-fees",
+   "dest": "France",
+   "name": "Ministry of Higher Education: fees for non-EU students",
+   "type": "page",
+   "url": "https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557"
+  },
+  {
+   "id": "de-funds",
+   "dest": "Germany",
+   "name": "Federal Foreign Office: proof of funds",
+   "type": "page",
+   "url": "https://quito.diplo.de/ec-de/service/05-visaeinreise/2433880-2433880"
+  },
+  {
+   "id": "nl-amounts",
+   "dest": "Netherlands",
+   "name": "IND: required amounts",
+   "type": "page",
+   "url": "https://ind.nl/en/required-amounts-income-requirements"
+  },
+  {
+   "id": "ie-funds",
+   "dest": "Ireland",
+   "name": "Irish Immigration Service: student finances",
+   "type": "page",
+   "url": "https://www.irishimmigration.ie/information-on-student-finances/"
+  },
+  {
+   "id": "be-funds",
+   "dest": "Belgium",
+   "name": "Belgian Foreign Affairs: student and sponsor amounts",
+   "type": "page",
+   "url": "https://luxembourg.diplomatie.belgium.be/fr/services-consulaires/prise-en-charge-etudiant"
+  },
+  {
+   "id": "be-dofi",
+   "dest": "Belgium",
+   "name": "Immigration Office: sufficient means",
+   "type": "page",
+   "url": "https://dofi.ibz.be/en/themes/ressortissants-dun-pays-tiers/etudes/favoris/sufficient-means-subsistence",
+   "verify": true
+  },
+  {
+   "id": "au-news",
+   "dest": "Australia",
+   "name": "Study Australia: visa charges",
+   "type": "page",
+   "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-application-charge-increase"
+  },
+  {
+   "id": "at-funds",
+   "dest": "Austria",
+   "name": "Austrian government: reference rate for means of subsistence",
+   "type": "page",
+   "url": "https://www.migration.gv.at/en/service/"
+  },
+  {
+   "id": "at-oead",
+   "dest": "Austria",
+   "name": "OeAD: residence permit for students",
+   "type": "page",
+   "url": "https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme"
+  },
+  {
+   "id": "dk-siri",
+   "dest": "Denmark",
+   "name": "SIRI: higher education residence permit",
+   "type": "page",
+   "url": "https://nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-Education/"
+  },
+  {
+   "id": "dk-work",
+   "dest": "Denmark",
+   "name": "SIRI: work permits for students",
+   "type": "page",
+   "url": "https://nyidanmark.dk/en-GB/Words-and-concepts/SIRI/Work-permits-for-students-in-higher-educational-programmes"
+  },
+  {
+   "id": "se-he",
+   "dest": "Sweden",
+   "name": "Swedish Migration Agency: higher education studies",
+   "type": "page",
+   "url": "https://www.migrationsverket.se/en/you-want-to-apply/study/higher-education"
+  },
+  {
+   "id": "jp-work",
+   "dest": "Japan",
+   "name": "Immigration Services Agency: student part-time work permission",
+   "type": "page",
+   "url": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html"
+  },
+  {
+   "id": "kr-funds",
+   "dest": "South Korea",
+   "name": "Korean government: student visa money to show",
+   "type": "page",
+   "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148916751"
+  },
+  {
+   "id": "kr-d10",
+   "dest": "South Korea",
+   "name": "Ministry of Justice: job-seeker visa (D-10)",
+   "type": "page",
+   "url": "https://www.immigration.go.kr/bbs/moj/189/601114/artclView.do"
+  }
+ ]
+}
