@@ -1,6 +1,11 @@
-# Official-source scan, 19 September 2026 07:10 UTC
+# Official-source scan, 19 September 2026 07:13 UTC
 
-20 of 23 sources checked. 0 possible change(s). 3 source(s) unreachable.
+20 of 23 sources checked. 1 possible change(s). 3 source(s) unreachable.
+
+## South Korea: Ministry of Justice: job-seeker visa (D-10)
+Source: https://www.immigration.go.kr/bbs/moj/189/601114/artclView.do
++ 4024
+- 4023
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
