@@ -1,19 +1,10 @@
-# Official-source scan, 20 September 2026 09:03 UTC
+# Official-source scan, 20 September 2026 12:03 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Richmond to attend UN High-Level Week
-+ 20 September 2026;
-+ Department of Foreign Affairs and Trade;
-+ Minister McEntee to attend UN High-Level Week 2026
-+ 20 September 2026;
-+ Department of Foreign Affairs and Trade;
-- Minister Burke brings Government, employers and unions together to advance equal pay for women
-- Department of Enterprise, Tourism and Employment;
-- Minister Dillon in Wisconsin ahead of the 2027 Aer Lingus College Football Classic between the University of Pittsburgh and the University of Wisconsin at the Aviva Stadium
-- Department of Enterprise, Tourism and Employment;
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ 추석 장보기 전 필독! 선물세트 반값 할인부터 2만 원 환급까지 총정리
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
