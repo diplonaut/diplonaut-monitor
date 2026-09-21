@@ -727,7 +727,7 @@
    "Policy paper",
    "Contents"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "uk-student-visa": {
   "fp": "14b0f72b95edf7675f13cb7a81dff1a627f87a0847481bc039a321fd33f1274e",
@@ -876,7 +876,7 @@
    "Check if you can extend your visa",
    "If you break the conditions of your visa you may not be able to come to the UK again."
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "ca-funds": {
   "fp": "a900c792ef0dcf6dbd723ea44d1512a6d5eb81c5204774d03415cd48f0302831",
@@ -1044,7 +1044,7 @@
    "Page details",
    "2026-08-28"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "ca-notices": {
   "fp": "e65f3d36b0f957f0849cb361ae9f3bbc6642d667765b27fda486f5d1b0c22d55",
@@ -1901,7 +1901,7 @@
    "Page details",
    "2026-09-09"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "us-fedreg": {
   "since": "2026-09-01",
@@ -1911,7 +1911,7 @@
    "2026-18685",
    "2026-18690"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "us-wh": {
   "fp": "7fc6cbcee35da1363ec0a78acde1545691b19c2b88df3ac69cc830bece39d323",
@@ -1968,7 +1968,7 @@
    "Nominations & Appointments",
    "September 14, 2026"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "de-funds": {
   "fp": "0bd331faa777a5d4aaff16874416c09e0238615e8cae570b432bce507b68a7ef",
@@ -2033,7 +2033,7 @@
    "Mail",
    "nach oben"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "nl-amounts": {
   "fp": "2ba4d0d5de7dfe7ef66fac7a889f1feb426da501e8d0f6cad10722c5afa6737a",
@@ -2404,7 +2404,7 @@
    "All income requirements:",
    "Income requirements: independent, sustainable and sufficient income"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "ie-funds": {
   "fp": "9afedd51e937997659f25f3e5746a996ec027d0ab1e2a936d3fdc89d677daacb",
@@ -2486,7 +2486,7 @@
    "Doctoral Degree.",
    "This page was last updated on June 30, 2025"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "be-funds": {
   "fp": "d21de1931e2ebf55b4ee9be740f80b3dca67431ae3877104864f8be7cc7732f5",
@@ -2740,7 +2740,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "at-funds": {
   "fp": "17f471ef88ffcee90b5cd7d32e0419c1c2a23ce5b813f4de13f3656c32c5f67c",
@@ -2886,7 +2886,7 @@
    "Contact",
    "Editorial"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "at-oead": {
   "fp": "0f6abb916a6b6d371fd9f72f241747e2f5d44a0a3c168e01e735b8ced5c681b9",
@@ -3784,7 +3784,7 @@
   "checked": "2026-09-21T06:04:22.321610+00:00"
  },
  "se-he": {
-  "fp": "3698e259be1207263622311847ffdc8fab93f36208a69b90ff3c8fb8b72c280f",
+  "fp": "ac6f10b874dcabdd394a2a7bbe5b3393ef7586bf03bd376922b86e887d0b3b1c",
   "lines": [
    "You want to apply",
    "Higher education",
@@ -4503,6 +4503,9 @@
    "You pay the application fee when you submit your application.",
    "Once you have submitted your application, it will be sent to the Swedish Migration Agency.",
    "News",
+   "2026-09-21",
+   "Russian non-biometric passports will no longer be recognised from 1 October",
+   "As of 1 October 2026, Swedish authorities will no longer recognise ordinary non-biometric passports issued by the Russian Federation. If you hold such a passport, you may therefore need to apply for a new passport.",
    "2026-09-17",
    "New rules for family members accompanying students",
    "From 1 October 2026, new rules for immigration due to family ties will apply. For those of you who have, or are planning to apply for, a residence permit for studies in Sweden, this means certain changes to the requirements for your family members.",
@@ -4513,7 +4516,7 @@
    "New rules for researchers and doctoral students",
    "The Swedish Parliament has decided on new rules for researchers and doctoral students. The rules mean, among other things, that doctoral students with a hosting agreement can receive a residence permit for research, that it will be easier to receive a permanent residence permit, and that you can apply for another permit in Sweden in more situations."
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "jp-work": {
   "fp": "bb98290744fe5ba408a983434cef6366215de342202e459b20655b5eaee4e7b7",
@@ -4715,7 +4718,7 @@
    "正しく表示されない場合は、最新バージョンをご利用ください。",
    "ページトップ"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "kr-funds": {
   "fp": "f3b9ea1eb247927ced81e4a3d217ee4632e9f8ef4a2375a04caa2da78f067f5e",
@@ -4811,11 +4814,18 @@
   "checked": "2026-09-21T06:04:22.321610+00:00"
  },
  "_failed": [
+  "at-oead",
   "au-hoa-news",
+  "be-dofi",
+  "be-funds",
   "de-daad-news",
+  "dk-siri",
+  "dk-work",
   "fr-campusfrance-actu",
   "fr-fees",
   "ie-doj-press",
+  "kr-d10",
+  "kr-funds",
   "se-mv-news",
   "us-dos",
   "us-sits"
@@ -4863,7 +4873,7 @@
    "Social share",
    "https://www.sem.admin.ch/content/sem/en/home/sem/medien.html"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "ch-entry": {
   "fp": "f9eb2a6f91b7381ed74ef8d20438b88f30626c7237ef2d1cc3d0e2e0a3114179",
@@ -4928,14 +4938,14 @@
    "Further information",
    "https://www.sem.admin.ch/content/sem/en/home/themen.html"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "nl-news": {
   "fp": "69752f2313b2f0173a64afafc8fd7c6342a4a03ebaf47f7fe56792c146082232",
   "lines": [
    "News"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "au-news-listing": {
   "fp": "e603420392efa2550baaa2f7020029e7a387b22b2dfb645034df501a093305ab",
@@ -5003,7 +5013,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "de-aa-news": {
   "fp": "8dde0b82460792f28e98a659427fa1d4e410a792e93f588d3a5e390a2141852a",
@@ -5019,7 +5029,7 @@
    "Mail",
    "Top of page"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "ie-doj-press": {
   "fp": "70a3b76398098af2b37ef12536be30760d5c7aee590d21611e5d7dd0722646f0",
@@ -5419,7 +5429,7 @@
    "に掲載しております。",
    "ページトップ"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  },
  "jp-jasso": {
   "fp": "4d4a1cf0f108adec78658a1fdab852bbc9343c1dc5052fe79e526c5f85fed3d3",
@@ -5495,6 +5505,6 @@
    "View all",
    "Search"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T09:03:19.230119+00:00"
  }
 }
