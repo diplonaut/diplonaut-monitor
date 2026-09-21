@@ -1,12 +1,38 @@
-# Official-source scan, 21 September 2026 09:03 UTC
+# Official-source scan, 21 September 2026 12:03 UTC
 
-20 of 35 sources checked. 1 possible change(s). 15 source(s) unreachable.
+26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
 
-## Sweden: Swedish Migration Agency: higher education studies
-Source: https://www.migrationsverket.se/en/you-want-to-apply/study/higher-education
-+ 2026-09-21
-+ Russian non-biometric passports will no longer be recognised from 1 October
-+ As of 1 October 2026, Swedish authorities will no longer recognise ordinary non-biometric passports issued by the Russian Federation. If you hold such a passport, you may therefore need to apply for a new passport.
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
+- '10월~11월' 가을 여행, 최대 14만 원 혜택 받는 방법!
+- [보도설명자료][9.20.일 한국경제] 난 130만원, 우리 애는 1230만원 稅폭탄 전망 나왔다 관련
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Ministers Foley and Higgins welcome progress on disability residential services
++ 21 September 2026;
++ Department of Children, Disability and Equality;
++ Acquisition Order signed for long-range military radars
++ 21 September 2026;
++ Department of Defence;
++ Minister Naughton announces €1 million fund to support sustainability projects in schools
++ 21 September 2026;
++ Department of Education and Youth;
++ Walls Project to celebrate Ireland’s Presidency of the European Union
++ 21 September 2026;
++ Department of Culture, Communications and Sport;
+- Minister Jim O’Callaghan confirms completion of deportation operation to Georgia
+- 20 September 2026;
+- Department of Justice, Home Affairs and Migration;
+- Minister Richmond to attend UN High-Level Week
+- 20 September 2026;
+- Department of Foreign Affairs and Trade;
+- Minister McEntee to attend UN High-Level Week 2026
+- 20 September 2026;
+- Department of Foreign Affairs and Trade;
+- Minister Butler welcomes further decline in number of people presenting to Emergency Departments with self-harm
+- 18 September 2026;
+- Department of Health;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -14,15 +40,9 @@ Source: https://www.migrationsverket.se/en/you-want-to-apply/study/higher-educat
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
 - Belgian Foreign Affairs: student and sponsor amounts (https://luxembourg.diplomatie.belgium.be/fr/services-consulaires/prise-en-charge-etudiant): URLError: <urlopen error [Errno 101] Network is unreachable>
 - Immigration Office: sufficient means (https://dofi.ibz.be/en/themes/ressortissants-dun-pays-tiers/etudes/favoris/sufficient-means-subsistence): URLError: <urlopen error [Errno 101] Network is unreachable>
-- OeAD: residence permit for students (https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme): HTTPError: HTTP Error 520: <none>
-- SIRI: higher education residence permit (https://nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-Education/): URLError: <urlopen error [Errno 111] Connection refused>
-- SIRI: work permits for students (https://nyidanmark.dk/en-GB/Words-and-concepts/SIRI/Work-permits-for-students-in-higher-educational-programmes): URLError: <urlopen error [Errno 111] Connection refused>
-- Korean government: student visa money to show (https://www.korea.kr/news/policyNewsView.do?newsId=148916751): URLError: <urlopen error timed out>
-- Ministry of Justice: job-seeker visa (D-10) (https://www.immigration.go.kr/bbs/moj/189/601114/artclView.do): URLError: <urlopen error timed out>
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
-- Department of Justice: press releases (https://www.gov.ie/en/department-of-justice/press-releases/): HTTPError: HTTP Error 403: Forbidden
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): URLError: <urlopen error timed out>
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
