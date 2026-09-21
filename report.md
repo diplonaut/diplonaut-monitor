@@ -1,4 +1,4 @@
-# Official-source scan, 21 September 2026 00:03 UTC
+# Official-source scan, 21 September 2026 03:02 UTC
 
 27 of 35 sources checked. 0 possible change(s). 8 source(s) unreachable.
 
@@ -8,7 +8,7 @@
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): URLError: <urlopen error timed out>
 - Department of Justice: press releases (https://www.gov.ie/en/department-of-justice/press-releases/): HTTPError: HTTP Error 403: Forbidden
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
