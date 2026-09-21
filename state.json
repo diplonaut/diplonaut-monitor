@@ -727,7 +727,7 @@
    "Policy paper",
    "Contents"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "uk-student-visa": {
   "fp": "14b0f72b95edf7675f13cb7a81dff1a627f87a0847481bc039a321fd33f1274e",
@@ -876,7 +876,7 @@
    "Check if you can extend your visa",
    "If you break the conditions of your visa you may not be able to come to the UK again."
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "ca-funds": {
   "fp": "a900c792ef0dcf6dbd723ea44d1512a6d5eb81c5204774d03415cd48f0302831",
@@ -1044,7 +1044,7 @@
    "Page details",
    "2026-08-28"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "ca-notices": {
   "fp": "e65f3d36b0f957f0849cb361ae9f3bbc6642d667765b27fda486f5d1b0c22d55",
@@ -1901,7 +1901,7 @@
    "Page details",
    "2026-09-09"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "us-fedreg": {
   "since": "2026-09-01",
@@ -1911,7 +1911,7 @@
    "2026-18685",
    "2026-18690"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "us-wh": {
   "fp": "7fc6cbcee35da1363ec0a78acde1545691b19c2b88df3ac69cc830bece39d323",
@@ -1968,7 +1968,7 @@
    "Nominations & Appointments",
    "September 14, 2026"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "de-funds": {
   "fp": "0bd331faa777a5d4aaff16874416c09e0238615e8cae570b432bce507b68a7ef",
@@ -2033,7 +2033,7 @@
    "Mail",
    "nach oben"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "nl-amounts": {
   "fp": "2ba4d0d5de7dfe7ef66fac7a889f1feb426da501e8d0f6cad10722c5afa6737a",
@@ -2404,7 +2404,7 @@
    "All income requirements:",
    "Income requirements: independent, sustainable and sufficient income"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "ie-funds": {
   "fp": "9afedd51e937997659f25f3e5746a996ec027d0ab1e2a936d3fdc89d677daacb",
@@ -2486,13 +2486,13 @@
    "Doctoral Degree.",
    "This page was last updated on June 30, 2025"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "be-funds": {
-  "fp": "d21de1931e2ebf55b4ee9be740f80b3dca67431ae3877104864f8be7cc7732f5",
+  "fp": "20ee20e430e0fba2e1b887bac6ff1391da2fd3731232e021d75a8a8579a0f27f",
   "lines": [
    "Dernière mise à jour le",
-   "15 septembre 2026",
+   "21 septembre 2026",
    "Dans certains cas fixés par la loi, un engagement de prise en charge peut constituer une preuve de moyens de subsistance suffisants d'un demandeur de visa étudiant. Vous trouverez",
    "plus d'information sur la prise en charge sur le",
    "site de l'Office des étrangers",
@@ -2514,91 +2514,79 @@
    "ou",
    "être un r",
    "essortissant d'un pays tiers",
-   "admis ou autorisé à séjourner en Belgique ou dans un autre Etat membre de l'Union européenne",
+   "admis ou autorisé à séjourner au Luxembourg",
    "pour une durée illimitée",
    ",",
-   "ou",
+   "et",
    "être un",
    "membre de la famille",
    "jusqu'au 3ème degré inclus du candidat étudiant",
-   "et",
    "disposer de",
    "revenus réguliers et suffisants, dont le montant NET doit s'élever à",
-   "2.173,88 eur net par mois",
+   "2.217,47 eur net par mois",
    "(pour le garant) +",
    "1.062 eur net par mois",
    "(par étudiant)",
-   "pour l'année académique 2026-2027 = 3.235,88 eur NET par mois",
+   "pour l'année académique 2026-2027 = 3.279,47 eur NET par mois",
    "Procédure",
-   "1. Constituez le dossier avec les éléments suivants:",
+   "1. Le dossier doit",
+   "obligatoirement",
+   "contenir les éléments suivants (tout dossier incomplet sera automatiquement refusé) :",
    "Le formulaire '",
    "Annexe 32.pdf (PDF, 473.71 KB)",
    "dûment complété",
    "mais pas encore signé ni daté",
-   ";",
-   "Une copie de votre",
+   "Votre",
    "carte d’identité",
    "ou",
-   "votre passeport;",
+   "votre passeport en cours de validité",
+   "(une copie ne suffit pas)",
    "Une copie de l'",
    "attestation d'enregistrement luxembourgeoise",
    "si vous êtes citoyen de l'UE",
    "ou",
-   "Une copie de votre",
-   "titre de séjour illimité",
-   "si vous êtes ressortissant d'un pays tiers admis ou autorisé à séjourner au sein de l'UE;",
-   "Un",
-   "certificat de résidence élargi récent",
-   "(datant de moins de 3 mois) délivré par votre commune luxembourgeoise;",
-   "Une copie des 3 derniers bulletins de salaire (les 3 mois précédant le mois en cours)",
+   "Votre carte",
+   "de séjour illimité (pour les ressortissants d'un pays tiers)",
+   "ou votre",
+   "attestation d'enregistrement luxembourgeoise (pour les citoyens de l'Union européenne)",
+   "Votre",
+   "certificat de résidence élargi",
+   "émis par votre commune luxembourgeoise (datant de moins de 3 mois)",
+   "Les",
+   "3 derniers bulletins de salaires",
+   "(les 3 mois précédant le mois en cours)",
    "ainsi que",
-   "l’avis de crédit du versement des 3 salaires",
-   "par votre banque;",
-   "Une copie du contrat de travail",
-   "(uniquement CDI",
-   ");",
+   "les 3 derniers avis de crédit de salaire",
+   "(prouvant que le salaire a bien été crédité sur votre compte en banque)",
+   "Votre",
+   "contrat de travail à durée indéterminée",
+   "(CDI",
+   ")",
    "Si vous êtes indépendant, votre inscription au",
    "Registre de Commerce et des Sociétés",
-   "du Luxembourg;",
-   "Une copie du dernier",
-   "certificat de revenu",
-   "établi par l'Administration des contributions directes (ACD) au Luxembourg, ou assimilé dans les pays limitrophes;",
-   "Une copie du",
+   "du Luxembourg",
+   "Le certificat de salaire, de retenue d'impôt et de crédits d'impôts bonifiés",
+   "Une copie de la carte d'identité",
+   "et du",
    "passeport de l'étudiant",
-   "à prendre en charge;",
-   "Une copie de l'",
+   "Une",
    "attestation d'inscription",
    "ou",
    "d'admission",
-   "de l'étudiant dans sa future école en Belgique, ou d'inscription à un",
+   "définitive de l'étudiant(e), ou son inscription à un",
    "examen",
-   "d\"admission au nom de l'étudiant;",
-   "2. Effectuez le paiement",
-   "Le coût de légalisation d'une prise en charge :",
-   "Tarifs-des-services consulaires.pdf (PDF, 53.4 KB)",
-   "Le paiement doit",
-   "obligatoirement",
-   "se faire au préalable par",
-   "virement bancaire",
-   "sur le compte suivant :",
-   "IBAN : LU85 1111 7813 7843 0000. Code BIC : CCPLLULL (Post Luxembourg)",
-   "Indiquez en communication : \"",
-   "PEC",
-   "NOM du garant",
-   "pour",
-   "NOM de l'étudiant\";",
-   "Le débit de paiement doit être mis dans le dossier comme preuve",
+   "d\"admission",
+   "2. Paiement : les frais de légalisaiton sont à régler EXCLUSIVEMENT sur place ET par carte bancaire",
    "3. Présentez-vous à l'Ambassade",
    "sur",
    "rendez-vous en ligne",
-   "les mardi et jeudi de 14h' à 15h' et muni d'un dossier complet",
+   "les mardi et jeudi de 14h' à 15h' et muni d'un dossier complet !",
    "4. Au guichet :",
    "Munissez-vous d'une version papier de chaque document mentionné ci-dessus,",
    "et de vos documents d'identité et de séjour originaux",
-   ";",
-   "Si le dossier présenté au guichet est complet, vous signerez l'annexe 32 devant l'agent consulaire et compléterez l'attestation de consentement GDPR ;",
-   "Le dossier sera traité dans les meilleurs délais et vous serez informé de la décision par e-mail ;",
-   "En cas d'accord, vous recevrez un QR code que vous pourrez transmettre à l'étudiant. La prise en charge ainsi légalisée sera accessible sur le site LegalWeb.",
+   "Si le dossier présenté au guichet est complet, vous signerez l'annexe 32 devant l'agent consulaire et compléterez l'attestation de consentement GDPR",
+   "Le dossier sera traité dans les meilleurs délais et vous serez informé de la décision par e-mail",
+   "En cas d'accord, vous recevrez un QR code que vous pourrez transmettre à l'étudiant. La prise en charge ainsi légalisée sera accessible sur le site LegalWeb",
    "Remarques :",
    "Plusieurs personnes ne peuvent pas se porter garantes pour un même étudiant.",
    "Les revenus de l'époux/l'épouse du garant ne sont pas pris en compte pour l'évaluation des moyens de subsistance du garant.",
@@ -2608,7 +2596,7 @@
    "Services consulaires",
    "Dans cette section, vous trouverez des informations sur votre inscription, une naissance, comment demander une carte d'identité ..."
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "be-dofi": {
   "fp": "b068b40e5527a27db2918b311d7ab65b72b8e58cafc5a222bc21a0b971e3b9c0",
@@ -2656,7 +2644,7 @@
    "Bijlage 32 Verbintenis tot tenlasteneming (docx)",
    "14.38 KB"
   ],
-  "checked": "2026-09-21T06:04:22.321610+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "au-news": {
   "fp": "dc9bd1b7c93c3ac0dbafe5667d3257d8763546ce959ca8208e767085b19a37dc",
@@ -2740,7 +2728,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "at-funds": {
   "fp": "17f471ef88ffcee90b5cd7d32e0419c1c2a23ce5b813f4de13f3656c32c5f67c",
@@ -2886,7 +2874,7 @@
    "Contact",
    "Editorial"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "at-oead": {
   "fp": "0f6abb916a6b6d371fd9f72f241747e2f5d44a0a3c168e01e735b8ced5c681b9",
@@ -3456,7 +3444,7 @@
    "Here",
    "you will find our FAQs on entry and residence for third-country students."
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "dk-siri": {
   "fp": "f2d8dfd4adf547394103b399fbc74e77cac184b9703f4c82397262e0aadbb832",
@@ -3764,7 +3752,7 @@
    "Last updated 15-09-2026 - Published by: SIRI",
    "-->"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "dk-work": {
   "fp": "d6e34326d51ac87b4f856e6aeb3cb32bafd2d9b3a1565ebd53b19645845306df",
@@ -3781,7 +3769,7 @@
    "Send link",
    "Last updated 09-09-2026 - Published by: SIRI"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "se-he": {
   "fp": "ac6f10b874dcabdd394a2a7bbe5b3393ef7586bf03bd376922b86e887d0b3b1c",
@@ -4516,7 +4504,7 @@
    "New rules for researchers and doctoral students",
    "The Swedish Parliament has decided on new rules for researchers and doctoral students. The rules mean, among other things, that doctoral students with a hosting agreement can receive a residence permit for research, that it will be easier to receive a permanent residence permit, and that you can apply for another permit in Sweden in more situations."
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "jp-work": {
   "fp": "bb98290744fe5ba408a983434cef6366215de342202e459b20655b5eaee4e7b7",
@@ -4718,7 +4706,7 @@
    "正しく表示されない場合は、最新バージョンをご利用ください。",
    "ページトップ"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "kr-funds": {
   "fp": "b133f15bb4380cbefba7270e18a04178d1ea1aca19ee5de538972667a15cde7e",
@@ -4745,7 +4733,7 @@
    "법무부는 “앞으로도 관계부처 및 대학과 지속으로 협력해 우수 유학생 유치를 지원하면서도, 유학 제도가 불법 체류·불법 취업의 통로로 악용되지 않도록 적정한 체류 관리를 통한 유학생의 질적 성장을 위해 노력하겠다”고 밝혔다.",
    "다음 각 호의 어느 하나에 해당하는 자는 500만원 이하의 벌금에 처한다."
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "kr-d10": {
   "fp": "dba56bcdb5143c5c510b527c8186e5ba9ad4ec1d50327ee71a9526d3f741633d",
@@ -4809,12 +4797,10 @@
    "공공누리 AI유형(출처표시)",
    "\" 조건에 따라 누구나 이용할 수 있습니다."
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "_failed": [
   "au-hoa-news",
-  "be-dofi",
-  "be-funds",
   "de-daad-news",
   "fr-campusfrance-actu",
   "fr-fees",
@@ -4865,7 +4851,7 @@
    "Social share",
    "https://www.sem.admin.ch/content/sem/en/home/sem/medien.html"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "ch-entry": {
   "fp": "f9eb2a6f91b7381ed74ef8d20438b88f30626c7237ef2d1cc3d0e2e0a3114179",
@@ -4930,14 +4916,14 @@
    "Further information",
    "https://www.sem.admin.ch/content/sem/en/home/themen.html"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "nl-news": {
   "fp": "69752f2313b2f0173a64afafc8fd7c6342a4a03ebaf47f7fe56792c146082232",
   "lines": [
    "News"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "au-news-listing": {
   "fp": "e603420392efa2550baaa2f7020029e7a387b22b2dfb645034df501a093305ab",
@@ -5005,7 +4991,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "de-aa-news": {
   "fp": "8dde0b82460792f28e98a659427fa1d4e410a792e93f588d3a5e390a2141852a",
@@ -5021,10 +5007,10 @@
    "Mail",
    "Top of page"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "ie-doj-press": {
-  "fp": "494308f43f5fb234d70db533e06bc7bfe88012040eb4fbb38b1350819fc0a389",
+  "fp": "fdfd563e6814e483d12b51a3ce30f6e42d7d62324c074e9ac5aa765f4b86c82b",
   "lines": [
    "Did you find what you were looking for?",
    "Find what you were looking for?",
@@ -5036,6 +5022,26 @@
    "search",
    "100 results",
    "with category",
+   "Minister Kevin “Boxer” Moran announces funding approval for Minor Flood Mitigation Works and Coastal Protection for Kelly’s Resort Hotel, Rosslare",
+   "21 September 2026;",
+   "Office of Public Works;",
+   "Press release",
+   "Minister McEntee and Minister Moran Officially Reopens Government Offices in Galway Following €11.5 Million Energy Retrofit Investment",
+   "21 September 2026;",
+   "Office of Public Works;",
+   "Press release",
+   "Minister Heydon leads Ireland's participation at FAO Global Conference on One Health in Agrifood Systems",
+   "21 September 2026;",
+   "Department of Agriculture, Food and the Marine;",
+   "Press release",
+   "Minister of State Colm Brophy addresses anti-racism event",
+   "21 September 2026;",
+   "Department of Justice, Home Affairs and Migration;",
+   "Press release",
+   "Competition and Youth Guide launched by Ministers McEntee and Byrne",
+   "21 September 2026;",
+   "Department of Foreign Affairs and Trade;",
+   "Press release",
    "Ministers Foley and Higgins welcome progress on disability residential services",
    "21 September 2026;",
    "Department of Children, Disability and Equality;",
@@ -5055,26 +5061,6 @@
    "Minister James Browne announces new public information campaign for Starter Homes Supports",
    "21 September 2026;",
    "Department of Housing, Local Government and Heritage;",
-   "Press release",
-   "Minister Calleary welcomes results of Nutrition Review of the Hot School Meals Programme and a Major National Survey of Parents, Children, Teachers and Suppliers",
-   "21 September 2026;",
-   "Department of Social Protection;",
-   "Press release",
-   "Minister Kevin “Boxer” Moran announces funding approval for Minor Flood Mitigation Works and Coastal Protection for Kilpatrick Beach, Co. Wexford",
-   "21 September 2026;",
-   "Office of Public Works;",
-   "Press release",
-   "Minister Kevin “Boxer” Moran announces funding approval for Minor Flood Mitigation Works and Coastal Protection for Kelly’s Resort Hotel, Rosslare",
-   "21 September 2026;",
-   "Office of Public Works;",
-   "Press release",
-   "2026 Entente Florale Europe awards ceremony held in Carlow",
-   "21 September 2026;",
-   "Department of Rural and Community Development and the Gaeltacht;",
-   "Press release",
-   "Minister Naughton Announces Funding for Free Period Products for Schools in the DEIS Plus Scheme",
-   "21 September 2026;",
-   "Department of Education and Youth;",
    "Press release",
    "Filters",
    "Categories",
@@ -5268,7 +5254,7 @@
    "Clear filters",
    "Apply filters"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "jp-isa-press": {
   "fp": "28446b32d4777aa0a8bfb2f05923caa1da3fbc425d3e165096d7e8f50cf9701f",
@@ -5421,7 +5407,7 @@
    "に掲載しております。",
    "ページトップ"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  },
  "jp-jasso": {
   "fp": "4d4a1cf0f108adec78658a1fdab852bbc9343c1dc5052fe79e526c5f85fed3d3",
@@ -5497,6 +5483,6 @@
    "View all",
    "Search"
   ],
-  "checked": "2026-09-21T12:03:49.455657+00:00"
+  "checked": "2026-09-21T15:03:04.675798+00:00"
  }
 }
