@@ -1,6 +1,13 @@
-# Official-source scan, 25 September 2026 09:03 UTC
+# Official-source scan, 25 September 2026 12:03 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Minister for Health celebrates progress, innovation and the growing role of pharmacists in Ireland’s health service
++ 25 September 2026;
++ Department of Health;
+- Minister Alan Dillon marks 80 years of the Labour Court
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
