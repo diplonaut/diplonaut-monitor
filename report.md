@@ -1,15 +1,12 @@
-# Official-source scan, 26 September 2026 09:03 UTC
+# Official-source scan, 26 September 2026 12:03 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Norma Foley officially opens Kerry’s newest Family Resource Centre in Dingle
-+ 26 September 2026;
-+ Department of Children, Disability and Equality;
-- Community Sport Facilities Fund 2026
-- 24 September 2026;
-- Department of Culture, Communications and Sport;
++ Minister Jim O’Callaghan attends Munich Migration Meeting
++ Department of Justice, Home Affairs and Migration;
+- Minister for Health celebrates progress, innovation and the growing role of pharmacists in Ireland’s health service
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
