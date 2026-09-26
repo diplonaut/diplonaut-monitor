@@ -1,12 +1,6 @@
-# Official-source scan, 26 September 2026 15:03 UTC
+# Official-source scan, 26 September 2026 18:03 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Ardagh addresses the 15th UN Congress on Crime Prevention and Criminal Justice in Abu Dhabi, United Arab Emirates
-- Chief Medical Officer Launches the Evidence Synthesis Hub for Health Security
-- Department of Health;
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
