@@ -1,12 +1,12 @@
-# Official-source scan, 26 September 2026 12:03 UTC
+# Official-source scan, 26 September 2026 15:03 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Jim O’Callaghan attends Munich Migration Meeting
-+ Department of Justice, Home Affairs and Migration;
-- Minister for Health celebrates progress, innovation and the growing role of pharmacists in Ireland’s health service
++ Minister Ardagh addresses the 15th UN Congress on Crime Prevention and Criminal Justice in Abu Dhabi, United Arab Emirates
+- Chief Medical Officer Launches the Evidence Synthesis Hub for Health Security
+- Department of Health;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
