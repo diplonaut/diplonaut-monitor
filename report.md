@@ -1,14 +1,12 @@
-# Official-source scan, 27 September 2026 03:03 UTC
+# Official-source scan, 27 September 2026 06:03 UTC
 
-26 of 35 sources checked. 0 possible change(s). 9 source(s) unreachable.
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - DHS Study in the States: duration of status rule FAQ (https://studyinthestates.dhs.gov/final-rule-establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-faq): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
-- Belgian Foreign Affairs: student and sponsor amounts (https://luxembourg.diplomatie.belgium.be/fr/services-consulaires/prise-en-charge-etudiant): URLError: <urlopen error [Errno 101] Network is unreachable>
-- Immigration Office: sufficient means (https://dofi.ibz.be/en/themes/ressortissants-dun-pays-tiers/etudes/favoris/sufficient-means-subsistence): URLError: <urlopen error [Errno 101] Network is unreachable>
-- Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): TimeoutError: The read operation timed out
+- Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
 - DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
