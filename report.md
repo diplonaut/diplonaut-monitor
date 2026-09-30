@@ -1,10 +1,18 @@
-# Official-source scan, 30 September 2026 06:04 UTC
+# Official-source scan, 30 September 2026 09:03 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
 
 ## South Korea: Korean government: student visa money to show
 Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-+ (설명) 한국경제, "임원 출신도 월 200만원?···파견법에 갇힌 고숙련 은퇴자들" 기사 관련
+- (설명) 한국경제, "임원 출신도 월 200만원?···파견법에 갇힌 고숙련 은퇴자들" 기사 관련
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Details of New €6 Million Arts Capital Investment Fund Announced
++ 30 September 2026;
++ Department of Culture, Communications and Sport;
+- Minister Foley Launches National Children's Art Competition to Celebrate 20 Years of the Growing Up In Ireland Study
+- Department of Children, Disability and Equality;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
