@@ -1,15 +1,10 @@
-# Official-source scan, 30 September 2026 03:03 UTC
+# Official-source scan, 30 September 2026 06:04 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## Japan: JASSO: news
-Source: https://www.jasso.go.jp/en/index.html
-+ “The 65th TIEC Cross-Cultural Seminar” Participants Wanted
-+ September 30, 2026
-+ “The 65th TIEC Cross-Cultural Seminar” Participants Wanted
-+ September 30, 2026
-- Application period was closed for 2026 EJU (2nd Session)
-- July 31, 2026
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ (설명) 한국경제, "임원 출신도 월 200만원?···파견법에 갇힌 고숙련 은퇴자들" 기사 관련
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
