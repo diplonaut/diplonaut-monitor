@@ -1,6 +1,10 @@
-# Official-source scan, 01 October 2026 03:04 UTC
+# Official-source scan, 01 October 2026 06:06 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## Sweden: Swedish Migration Agency: higher education studies
+Source: https://www.migrationsverket.se/en/you-want-to-apply/study/higher-education
+- 2026-09-17
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -8,7 +12,7 @@
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): URLError: <urlopen error timed out>
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
