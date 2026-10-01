@@ -1,33 +1,32 @@
-# Official-source scan, 01 October 2026 09:04 UTC
+# Official-source scan, 01 October 2026 12:06 UTC
 
-26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
+28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
 
-## Sweden: Swedish Migration Agency: higher education studies
-Source: https://www.migrationsverket.se/en/you-want-to-apply/study/higher-education
-+ pdf, 847.1 kB.
-- pdf, 802.7 kB.
+## Austria: OeAD: residence permit for students
+Source: https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
++ according to the applicable regulations and have those translated afterwards into German language by a sworn and court-certified translator as the residence authority can ask for a German translation.
++ according to the applicable regulations and have those translated afterwards into German language by a sworn and court-certified translator as the residence authority can ask for a German translation.
+- according to the applicable regulations and have those translated afterwards into German language by a sworn and court-certified interpretor as the residence authority can ask for a German translation.
+- according to the applicable regulations and have those translated afterwards into German language by a sworn and court-certified interpretor as the residence authority can ask for a German translation.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ National Broadband Plan reaches major county completion milestones with October events
-+ 1 October 2026;
-+ Minister Calleary announces €2.5 million for 44 community vehicles under the CLÁR programme
-+ 1 October 2026;
-+ Department of Rural and Community Development and the Gaeltacht;
-- Minister Lawless welcomes National Skills Council roadmap for delivering Ireland's skills priorities
-- Department of Further and Higher Education, Research, Innovation and Science;
-- Minister Foley announces proposed locations for seven new State-led early learning and childcare capital projects
-- Department of Children, Disability and Equality;
++ Minister Kevin “Boxer” Moran announces additional €1.1m funding for East Cork under a €14m package of funding for measures to mitigate flooding, since Storm Babet.
++ Minister O’Sullivan confirms NPWS operation underway to locate Asian hornet nest in Cork
++ Department of Housing, Local Government and Heritage;
++ Minister Feighan welcomes new EU proposal to strengthen emergency communications
+- Ireland champions forest-based bioeconomy at FAO Committee on Forestry
+- Department of Agriculture, Food and the Marine;
+- High Level of Delivery Achieved Under Accelerating Infrastructure Action Plan in Q2 2026
+- Major Ireland-UK Emergency Exercise to Strengthen Subsea Telecoms Resilience
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - DHS Study in the States: duration of status rule FAQ (https://studyinthestates.dhs.gov/final-rule-establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-faq): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
-- Korean government: student visa money to show (https://www.korea.kr/news/policyNewsView.do?newsId=148916751): URLError: <urlopen error timed out>
-- Ministry of Justice: job-seeker visa (D-10) (https://www.immigration.go.kr/bbs/moj/189/601114/artclView.do): URLError: <urlopen error timed out>
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
