@@ -1,6 +1,10 @@
-# Official-source scan, 03 October 2026 03:13 UTC
+# Official-source scan, 03 October 2026 06:09 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ 자녀에 최대 7000만 원 목돈을…'우리아이 자립펀드' 내년 출시
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
