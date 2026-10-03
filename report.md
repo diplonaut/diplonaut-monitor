@@ -1,4 +1,4 @@
-# Official-source scan, 03 October 2026 09:05 UTC
+# Official-source scan, 03 October 2026 14:51 UTC
 
 26 of 35 sources checked. 0 possible change(s). 9 source(s) unreachable.
 
@@ -10,7 +10,7 @@
 - Ministry of Justice: job-seeker visa (D-10) (https://www.immigration.go.kr/bbs/moj/189/601114/artclView.do): URLError: <urlopen error timed out>
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
