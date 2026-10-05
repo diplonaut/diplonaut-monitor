@@ -1,13 +1,6 @@
-# Official-source scan, 05 October 2026 00:04 UTC
+# Official-source scan, 05 October 2026 03:05 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Cork City Council Hosts the WHO Summit of Mayors on Climate and Health
-+ 5 October 2026;
-+ Department of Health;
-- Minister Heydon reminds farmers of the importance of vaccinating against bluetongue
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
