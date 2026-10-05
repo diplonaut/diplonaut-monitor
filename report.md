@@ -1,6 +1,11 @@
-# Official-source scan, 05 October 2026 15:06 UTC
+# Official-source scan, 05 October 2026 18:06 UTC
 
-27 of 35 sources checked. 0 possible change(s). 8 source(s) unreachable.
+27 of 35 sources checked. 1 possible change(s). 8 source(s) unreachable.
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Minister Byrne to represent Council of the EU at European Parliament
+- Minister O'Brien announces enhanced grants to help households and businesses reduce energy costs and move away from fossil fuels
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
