@@ -1,10 +1,12 @@
-# Official-source scan, 06 October 2026 00:04 UTC
+# Official-source scan, 06 October 2026 03:04 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-+ 자녀에 최대 7000만 원 목돈을…'우리아이 자립펀드' 내년 출시
+## United States: White House: presidential actions
+Source: https://www.whitehouse.gov/presidential-actions/
++ Emergency Tax Relief on Diesel Fuel
++ October 5, 2026
+- Reinvigorating America’s Hunting Heritage
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
