@@ -1,12 +1,13 @@
-# Official-source scan, 06 October 2026 09:05 UTC
+# Official-source scan, 06 October 2026 12:05 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Jim O’Callaghan welcomes publication of the Dublin Drug Treatment Court Evaluation Report
-+ 6 October 2026;
-- Minister O'Brien approves €5 million for Pilot District Heating Projects
++ Europe’s Leading Equality Experts Gather in Dublin to Shape Safer, More Inclusive Future for LGBTIQ+ People
++ Department of Children, Disability and Equality;
+- Minister Dooley launches public consultation on future management and recovery of Ireland's wild Atlantic salmon
+- Department of Climate, Energy and the Environment;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -14,7 +15,7 @@ Source: https://www.gov.ie/en/department-of-justice/press-releases/
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
