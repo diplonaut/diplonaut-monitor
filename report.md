@@ -1,37 +1,28 @@
-# Official-source scan, 07 October 2026 12:06 UTC
+# Official-source scan, 07 October 2026 18:05 UTC
 
-28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-- 자녀에 최대 7000만 원 목돈을…'우리아이 자립펀드' 내년 출시
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Ministers Naughton and Moynihan secure record €14.4 billion investment for education and youth services
-+ Minister O'Brien delivers €1.28 billion investment in Budget 2027 – to accelerate the transition to a secure, sustainable and affordable energy sector
-+ Minister Lawless announces €34 million student support package benefiting thousands of students and families across Ireland
-+ Department of Further and Higher Education, Research, Innovation and Science;
-+ Budget 2027 delivers €29.1 billion for health services as Government continues investment in more care, closer to home
-+ Department of Health;
-+ Historic wedding relics of Joseph Plunkett and Grace Gifford set for display at Kilmainham Gaol Museum
-+ Office of Public Works;
-+ OPW offers tours exploring architecture at ‘Open House Dublin’ Festival 2026
-+ Office of Public Works;
-+ Minister Jim O’Callaghan launches the National Cyber Security Strategy 2030
-+ Department of Justice, Home Affairs and Migration;
-- Statement by the Minister for Foreign Affairs and Trade on the anniversary of the 7 October 2023 terrorist attacks
-- Department of Foreign Affairs and Trade;
-- Minister McEntee welcomes Budget 2027 funding for Irish Aid, market diversification and passport services
-- Department of Foreign Affairs and Trade;
-- Budget 2027: Minister Calleary secures Social Protection Package of €1.15 billion for New Measures
-- 6 October 2026;
-- Department of Social Protection;
-- Minister Collins announces funding for forestry, farm safety and the horticulture sector in Budget 2027
-- 6 October 2026;
-- Department of Agriculture, Food and the Marine;
-- Minister Dooley announces funding for the Seafood sector in Budget 2027
-- 6 October 2026;
++ Agenda revealed for International AI Summit 2026 as global leaders gather in Dublin to discuss the future of applied AI
++ Department of Enterprise, Tourism and Employment;
++ Government publishes Short Term Letting and Tourism Bill
++ Department of Enterprise, Tourism and Employment;
++ Ireland brings European cyber security leaders together at EU Presidency conference in Dublin
++ Minister O'Brien delivers €1.28 billion investment in Budget 2027
++ Ministers O’Donovan and McConalogue announce details of Budget 2027 for the Department of Culture, Communications and Sport
++ Department of Culture, Communications and Sport;
++ New Ambassadors present Credentials
++ Department of Foreign Affairs and Trade;
+- Minister O'Brien delivers €1.28 billion investment in Budget 2027 – to accelerate the transition to a secure, sustainable and affordable energy sector
+- Historic wedding relics of Joseph Plunkett and Grace Gifford set for display at Kilmainham Gaol Museum
+- Office of Public Works;
+- OPW offers tours exploring architecture at ‘Open House Dublin’ Festival 2026
+- Office of Public Works;
+- Minister Jim O’Callaghan launches the National Cyber Security Strategy 2030
+- Ministers Naughton and Moynihan congratulate Junior Cycle students as they receive their examination results
+- Budget 2027: Securing sustainable, accessible and safe transport and extending opportunities
+- Department of Transport;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
