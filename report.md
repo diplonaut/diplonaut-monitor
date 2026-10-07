@@ -1,28 +1,23 @@
-# Official-source scan, 07 October 2026 18:05 UTC
+# Official-source scan, 07 October 2026 21:04 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
 
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Agenda revealed for International AI Summit 2026 as global leaders gather in Dublin to discuss the future of applied AI
-+ Department of Enterprise, Tourism and Employment;
-+ Government publishes Short Term Letting and Tourism Bill
-+ Department of Enterprise, Tourism and Employment;
-+ Ireland brings European cyber security leaders together at EU Presidency conference in Dublin
-+ Minister O'Brien delivers €1.28 billion investment in Budget 2027
-+ Ministers O’Donovan and McConalogue announce details of Budget 2027 for the Department of Culture, Communications and Sport
-+ Department of Culture, Communications and Sport;
-+ New Ambassadors present Credentials
-+ Department of Foreign Affairs and Trade;
-- Minister O'Brien delivers €1.28 billion investment in Budget 2027 – to accelerate the transition to a secure, sustainable and affordable energy sector
-- Historic wedding relics of Joseph Plunkett and Grace Gifford set for display at Kilmainham Gaol Museum
-- Office of Public Works;
-- OPW offers tours exploring architecture at ‘Open House Dublin’ Festival 2026
-- Office of Public Works;
-- Minister Jim O’Callaghan launches the National Cyber Security Strategy 2030
-- Ministers Naughton and Moynihan congratulate Junior Cycle students as they receive their examination results
-- Budget 2027: Securing sustainable, accessible and safe transport and extending opportunities
-- Department of Transport;
+## Canada: IRCC: notices
+Source: https://www.canada.ca/en/immigration-refugees-citizenship/news/notices.html
++ Notice – Client experience survey for Ukrainian temporary residents in Canada
++ October 7, 2026
++ 2026-10-07
+- 2026-10-01
+
+## United States: White House: presidential actions
+Source: https://www.whitehouse.gov/presidential-actions/
++ National Energy Dominance Month, 2026
++ October 7, 2026
++ Columbus Day, 2026
++ October 7, 2026
+- Restriction on Entry of Certain Nonimmigrant Workers
+- RESTORING AMERICAN SALTWATER ANGLING AND RECREATION
+- September 17, 2026
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
