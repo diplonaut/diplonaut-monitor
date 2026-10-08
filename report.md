@@ -1,23 +1,18 @@
-# Official-source scan, 07 October 2026 21:04 UTC
+# Official-source scan, 08 October 2026 00:04 UTC
 
-28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## Canada: IRCC: notices
-Source: https://www.canada.ca/en/immigration-refugees-citizenship/news/notices.html
-+ Notice – Client experience survey for Ukrainian temporary residents in Canada
-+ October 7, 2026
-+ 2026-10-07
-- 2026-10-01
-
-## United States: White House: presidential actions
-Source: https://www.whitehouse.gov/presidential-actions/
-+ National Energy Dominance Month, 2026
-+ October 7, 2026
-+ Columbus Day, 2026
-+ October 7, 2026
-- Restriction on Entry of Certain Nonimmigrant Workers
-- RESTORING AMERICAN SALTWATER ANGLING AND RECREATION
-- September 17, 2026
+## United Kingdom: GOV.UK: Student visa
+Source: https://www.gov.uk/student-visa
++ If you’re 16 or 17, you may be eligible for a
++ study on a further or higher education course
++ do a traineeship through the
++ Erasmus+ programme
++ with a participating licensed student sponsor
++ study through the Erasmus+ programme at a participating academy or local authority-funded school (also known as a maintained school)
+- If you’re 16 or 17 and you want to study at an independent school in the UK, you may be eligible for a
+- study
+- study at an academy or a local authority-funded school (also known as a maintained school)
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
