@@ -1,18 +1,15 @@
-# Official-source scan, 08 October 2026 00:04 UTC
+# Official-source scan, 08 October 2026 03:04 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## United Kingdom: GOV.UK: Student visa
-Source: https://www.gov.uk/student-visa
-+ If you’re 16 or 17, you may be eligible for a
-+ study on a further or higher education course
-+ do a traineeship through the
-+ Erasmus+ programme
-+ with a participating licensed student sponsor
-+ study through the Erasmus+ programme at a participating academy or local authority-funded school (also known as a maintained school)
-- If you’re 16 or 17 and you want to study at an independent school in the UK, you may be eligible for a
-- study
-- study at an academy or a local authority-funded school (also known as a maintained school)
+## Australia: Study Australia: news listing
+Source: https://www.studyaustralia.gov.au/en/tools-and-resources/news
++ Australia shines in World University Rankings 2027
++ 8 October 2026
++ Discover how Australian universities performed in the Times Higher Education World University Rankings 2027 and explore your study options.
+- QS Rankings by Subject 2026 released
+- 7 April 2026
+- The 2026 QS World University Rankings by Subject showcase Australia’s many specialist strengths.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
