@@ -1,22 +1,18 @@
-# Official-source scan, 09 October 2026 18:05 UTC
+# Official-source scan, 09 October 2026 21:05 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
+
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ 10만 원대로 즐기는 '1박 2일' 농촌 여행…농촌관광벨트 상품 출시
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Statement by Minister McEntee on US Announcement of Sanctions on the International Criminal Court
-+ Department of Foreign Affairs and Trade;
-+ Research Ireland and NCSC Launch €3.9Million Cyber Security Innovation Challenge to Strengthen Ireland’s Digital Resilience
-+ Department of Justice, Home Affairs and Migration;
-+ Minister Calleary Announces Nationwide Intreo Work and Skills Events
-+ Department of Social Protection;
-+ Monthly waiting list figures - September 2026
-- Minister O’Sullivan announces opening of the 2027 Community Monuments Fund
-- Minister Foley releases further details of reductions in early learning and childcare costs for families in Budget 2027
-- Department of Children, Disability and Equality;
-- Minister Murnane O’Connor announces Budget 2027 investment in national drugs strategy, public health and community services
-- OPW offers tours exploring architecture at ‘Open House Dublin’ Festival 2026
-- Office of Public Works;
++ Statement by Minister McEntee on Drumcree
++ Statement by Taoiseach Micheál Martin on Drumcree
++ Department of the Taoiseach;
+- Minister for Older People Kieran O’Donnell announces Budget 2027 funding increases
+- Minister for Mental Health announces major investment in mental health services and crisis supports in Budget 2027
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
