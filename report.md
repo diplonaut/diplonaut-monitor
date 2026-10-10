@@ -1,10 +1,6 @@
-# Official-source scan, 10 October 2026 18:03 UTC
+# Official-source scan, 10 October 2026 21:02 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-- 10만 원대로 즐기는 '1박 2일' 농촌 여행…농촌관광벨트 상품 출시
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
