@@ -1,6 +1,13 @@
-# Official-source scan, 11 October 2026 12:04 UTC
+# Official-source scan, 11 October 2026 15:03 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Statement by Minister McEntee on attack on Riyadh Airport
++ 11 October 2026;
+- Sod turned on over 1000 homes: Browne marks serious momentum in delivery for Dublin
+- Department of Housing, Local Government and Heritage;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
