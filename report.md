@@ -1,6 +1,11 @@
-# Official-source scan, 12 October 2026 03:06 UTC
+# Official-source scan, 12 October 2026 06:07 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## Switzerland: State Secretariat for Migration (SEM): press releases
+Source: https://www.sem.admin.ch/sem/en/home/sem/medien.html
++ https://www.sem.admin.ch/content/sem/en/home/sem/medien.html
+- https://www.e-doc.admin.ch/content/sem/en/home/sem/medien.html
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
