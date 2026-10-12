@@ -1,11 +1,23 @@
-# Official-source scan, 12 October 2026 06:07 UTC
+# Official-source scan, 12 October 2026 09:07 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
 
 ## Switzerland: State Secretariat for Migration (SEM): press releases
 Source: https://www.sem.admin.ch/sem/en/home/sem/medien.html
-+ https://www.sem.admin.ch/content/sem/en/home/sem/medien.html
-- https://www.e-doc.admin.ch/content/sem/en/home/sem/medien.html
++ https://www.e-doc.admin.ch/content/sem/en/home/sem/medien.html
+- https://www.sem.admin.ch/content/sem/en/home/sem/medien.html
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Ministers Foley and Higgins announce national campaign to promote careers in disability services
++ Department of Children, Disability and Equality;
++ National Voter.ie platform will provide public with an easier and quicker way to update and check their details on electoral register
++ Statement by Minister McEntee on Robert Pether
+- Statement by Taoiseach Micheál Martin on Drumcree
+- Department of the Taoiseach;
+- Statement by Minister McEntee on US Announcement of Sanctions on the International Criminal Court
+- Research Ireland and NCSC Launch €3.9Million Cyber Security Innovation Challenge to Strengthen Ireland’s Digital Resilience
+- Department of Justice, Home Affairs and Migration;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -13,7 +25,7 @@ Source: https://www.sem.admin.ch/sem/en/home/sem/medien.html
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
