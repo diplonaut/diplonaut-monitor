@@ -1,16 +1,6 @@
-# Official-source scan, 13 October 2026 18:07 UTC
+# Official-source scan, 13 October 2026 21:14 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Ireland Elected to United Nations Human Rights Council
-+ Department of Foreign Affairs and Trade;
-+ Minister Jim O’Callaghan publishes report of the Garda Training Review Group
-- Government call on Public Service Unions and Associations to enter talks
-- Department of the Taoiseach;
-- Ministers Announce Extension of Road Transporters Support Scheme
-- Department of Transport;
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
