@@ -1,26 +1,10 @@
-# Official-source scan, 14 October 2026 09:20 UTC
+# Official-source scan, 14 October 2026 12:19 UTC
 
-28 of 35 sources checked. 5 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## United States: Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations
-Source: https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations
-
-## United States: Removing 30-Day Refugee Termination Notice
-Source: https://www.federalregister.gov/documents/2026/10/14/2026-20956/removing-30-day-refugee-termination-notice
-
-## United States: Removal of Automatic Extensions for Certain Employment Authorization Documents
-Source: https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents
-
-## United States: Removing Deference to Prior USCIS Determinations of Eligibility
-Source: https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Launch of Intelligence:Applied Programme to support Irish workers and business to adopt AI
-+ 14 October 2026;
-+ Department of the Taoiseach;
-- Minister Lawless launches review of doctoral provision in Ireland
-- Department of Further and Higher Education, Research, Innovation and Science;
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ '상생소비복권' 17억 풀린다…디지털온누리 3만원 이상 결제시 응모
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
