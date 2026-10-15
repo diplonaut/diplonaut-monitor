@@ -1,17 +1,9 @@
-# Official-source scan, 15 October 2026 18:17 UTC
+# Official-source scan, 15 October 2026 21:18 UTC
 
-28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## South Korea: Korean government: student visa money to show
 Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Ireland secures international backing for Dublin Declaration on Trusted AI
-+ Department of Enterprise, Tourism and Employment;
-+ Minister Heydon addresses European Farmers Congress, opens Ireland House, and promotes Irish agri-food trade in Stockholm
-- Change in BISS and CRISS payment dates
-- Minister Heydon announces extension of the Fuel Income Support Schemes
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
