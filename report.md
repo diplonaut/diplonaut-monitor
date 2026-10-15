@@ -1,10 +1,18 @@
-# Official-source scan, 15 October 2026 06:18 UTC
+# Official-source scan, 15 October 2026 09:19 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-+ 디지털온누리로 결제하고, '최대 3000만 원' 당첨 기회를 잡으세요!
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ European Health Leaders to Meet in Dublin to Advance Prevention and Early Intervention
++ Minister Calleary launches nationwide Intreo Disability Work and Skills Week
++ Department of Social Protection;
++ “Right to Be Forgotten” for cancer survivors comes into effect today
++ Department of Finance;
+- Ministers for Health publish new National Drugs Strategy 2026–2030
+- Minister Jim O’Callaghan welcomes publication of Independent Report on Paramilitary Group Transition to Disbandment
+- Ministers Calleary, Buttimer and Harkin launch new Government strategy to support the community and voluntary sector over the next five years
+- Department of Rural and Community Development and the Gaeltacht;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
