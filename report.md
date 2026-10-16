@@ -1,29 +1,13 @@
-# Official-source scan, 16 October 2026 09:19 UTC
+# Official-source scan, 16 October 2026 12:17 UTC
 
-28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Taoiseach and Minister Lawless announce new €10 million Shared Island Digital Creative Industries Innovation Programme
-+ 16 October 2026;
-+ Department of Further and Higher Education, Research, Innovation and Science;
-+ Minister Jim O'Callaghan welcomes Garda numbers at record high with attestation of 207 today
-+ 16 October 2026;
-+ Department of Justice, Home Affairs and Migration;
-+ Minister Butler hosts European Presidency event in Waterford celebrating the role of people with lived experience in Mental Health
-+ 16 October 2026;
-+ Minister Calleary visits Leitrim for a number of official openings and project visits
-+ 16 October 2026;
-+ Department of Rural and Community Development and the Gaeltacht;
-- Minister Moynihan highlights vital role of ETBs in delivering inclusive education
-- Department of Education and Youth;
-- Budget 2027: Significant increase in Defence funding
-- Department of Defence;
-- Minister Heydon announces €46.2 million Fertiliser Exceptional Aid Scheme to support farmers with rising input costs
-- Declaration of Closing Stock on the National Fertiliser Database (NFD)
++ Opening of the 2027 Scheme of Investment Aid for the Development of the Commercial Horticulture Sector
++ Minister Heydon marks World Food Day: Innovation must deliver for Farmers and Communities
+- OPW announces winners of the 2026 Winter Solstice lottery draw at Brú na Bóinne Visitor Centre, Co. Meath
+- Minister Butler hosts EU Presidency conference on Mental Health in Cork
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
