@@ -1,6 +1,10 @@
-# Official-source scan, 17 October 2026 12:10 UTC
+# Official-source scan, 17 October 2026 15:11 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ 17 October 2026;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
