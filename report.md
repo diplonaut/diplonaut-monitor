@@ -1,10 +1,13 @@
-# Official-source scan, 17 October 2026 15:11 UTC
+# Official-source scan, 17 October 2026 18:08 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ 17 October 2026;
++ Department of Enterprise to light up for Pregnancy and Infant Loss Awareness Month, as Minister Burke advances pregnancy loss leave legislation
++ Department of Enterprise, Tourism and Employment;
+- Minister Jim O'Callaghan welcomes Garda numbers at record high with attestation of 207 today
+- Department of Justice, Home Affairs and Migration;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
