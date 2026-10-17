@@ -1,6 +1,13 @@
-# Official-source scan, 17 October 2026 00:10 UTC
+# Official-source scan, 17 October 2026 03:15 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## United States: White House: presidential actions
+Source: https://www.whitehouse.gov/presidential-actions/
++ Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026
++ October 16, 2026
+- Gold Star Mother’s And Family’s Day, 2026
+- September 25, 2026
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
