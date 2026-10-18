@@ -1,11 +1,13 @@
-# Official-source scan, 17 October 2026 21:11 UTC
+# Official-source scan, 18 October 2026 00:09 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Government Press Statement-17 October 2026
-- Taoiseach and Minister Lawless announce new €10 million Shared Island Digital Creative Industries Innovation Programme
++ Minister Richmond begins visit to Ghana and Senegal
++ 18 October 2026;
++ Department of Foreign Affairs and Trade;
+- Minister Heydon marks World Food Day: Innovation must deliver for Farmers and Communities
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
