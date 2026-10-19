@@ -1,10 +1,10 @@
-# Official-source scan, 19 October 2026 00:10 UTC
+# Official-source scan, 19 October 2026 03:18 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
 ## South Korea: Korean government: student visa money to show
 Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-- 디지털온누리로 결제하고, '최대 3000만 원' 당첨 기회를 잡으세요!
++ 영업신고증 없는 숙박 중개 시 과태료 500만 원... 「공중위생관리법 시행령」 개정
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
