@@ -1,10 +1,14 @@
-# Official-source scan, 19 October 2026 06:20 UTC
+# Official-source scan, 19 October 2026 09:23 UTC
 
 28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
 
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-- 영업신고증 없는 숙박 중개 시 과태료 500만 원... 「공중위생관리법 시행령」 개정
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Latest figures reveal over 7,000 vacant and derelict properties brought back into use through the Vacant Property Refurbishment Grant
++ 19 October 2026;
++ Department of Housing, Local Government and Heritage;
+- Ireland announces new funding for the Pacific Resilience Facility (PRF) and backs stronger ocean-based climate action
+- Department of Climate, Energy and the Environment;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
