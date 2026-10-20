@@ -1,17 +1,6 @@
-# Official-source scan, 20 October 2026 02:31 UTC
+# Official-source scan, 20 October 2026 08:00 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Byrne in European Parliament to represent Council of the EU
-+ 20 October 2026;
-+ Minister Troy welcomes recent downward trend in motor insurance premiums
-+ 20 October 2026;
-- Latest figures reveal over 7,000 vacant and derelict properties brought back into use through the Vacant Property Refurbishment Grant
-- Department of Housing, Local Government and Heritage;
-- Statement by Minister McEntee on settler violence in the West Bank
-- 18 October 2026;
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
