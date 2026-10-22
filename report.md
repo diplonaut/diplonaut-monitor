@@ -1,33 +1,33 @@
-# Official-source scan, 22 October 2026 08:05 UTC
+# Official-source scan, 22 October 2026 14:12 UTC
 
 26 of 35 sources checked. 1 possible change(s). 9 source(s) unreachable.
 
-## Ireland: Irish Immigration Service: student finances
-Source: https://www.irishimmigration.ie/information-on-student-finances/
-+ In This Section
-+ Financial Requirement
-+ Documentary evidence required
-+ Your finances
-+ Details of your sponsor (where applicable) and their finances
-+ Alternative Evidence of Finance – Degree Programme Students Only
-+ Types of Courses and Colleges eligible for participation in the Student Bond System
-+ Degree Programme Courses
-+ Financial Requirements
-+ You must show you have sufficient funds to support your stay in Ireland without recourse to public funds, or the reliance on casual employment.
-+ Non-Visa required nationals:
-+ If you did not need a visa to come to Ireland, you must also prove that you can support yourself financially after you arrive here.
-- Did you find what you were looking for?
-- Find what you were looking for?
-- Help us improve AI search results by
-- giving your feedback (3-5 mins).
-- Close
-- Department of Justice, Home Affairs and Migration
-- Garda numbers at record high with attestation of 207 today
-- 84 will be deployed to the Dublin Metropolitan Region, 76 to the Eastern Region, 27 to the North-Western Region, and 20 to the Southern Region.
-- Programme to address cyber security challenges
-- New guidelines to help children be heard in Family Court
-- Minister Jim O’Callaghan secures investment of €5.9bn for the justice sector in 2027
-- Consultations
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Minister Lawless welcomes appointment of new President for Technological University of the Shannon
++ Minister Calleary launches National Hub Network Strategy at Hub Summit
++ Department of Rural and Community Development and the Gaeltacht;
++ Minister Heydon announces start of BISS and CRISS payments of €551 million to over 110,000 farmers
++ Minister Collins welcomes EU Forest Directors to Ireland for Presidency meeting
++ Ministers Heydon and Grealish announce research awards of over €800,000 during Bioeconomy Ireland Week
++ Irish Coast Guard, Water Safety Ireland and RNLI urge public to keep Water Safety in mind on Bank Holiday Weekend as weather changes
++ Statement by the Minister for Justice, Home Affairs and Migration Jim O’Callaghan
++ Department of Justice, Home Affairs and Migration;
++ Minister Dara Calleary approves €5.4m for redevelopment of Conradh na Gaeilge Headquarters in Dublin
++ Department of Rural and Community Development and the Gaeltacht;
++ Minister Canney launches new website for Irish Coast Guard as lifesaving service continues to evolve
+- Minister Byrne attends Berlin Process Leaders’ Summit
+- Department of Foreign Affairs and Trade;
+- Minister McEntee to host meeting of trade ministers in Dublin
+- Department of Foreign Affairs and Trade;
+- Minister of State Robert Troy launches public call for expressions of interest for experts to sit on new Digital Assets Industry Group
+- Department of Finance;
+- Minister Lawless begins official visit to China
+- 21 October 2026;
+- Minister O’Brien completes CIÉ Pension reform process, paving the way for pension increases
+- 21 October 2026;
+- Minister Troy outlines Ireland’s “Right to Be Forgotten” for cancer survivors at Brussels conference
+- 21 October 2026;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
