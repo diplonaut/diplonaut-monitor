@@ -727,7 +727,7 @@
    "Policy paper",
    "Contents"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "uk-student-visa": {
   "fp": "470f844af21ee5b64631b5f8088a3cecd93a702dbfc1dc19651c3a697d4cef0a",
@@ -879,7 +879,7 @@
    "Check if you can extend your visa",
    "If you break the conditions of your visa you may not be able to come to the UK again."
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "ca-funds": {
   "fp": "a900c792ef0dcf6dbd723ea44d1512a6d5eb81c5204774d03415cd48f0302831",
@@ -1047,7 +1047,7 @@
    "Page details",
    "2026-08-28"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "ca-notices": {
   "fp": "0f34233f8b275b965328cc98d9aa0cb968426555df279ab7e5566e1e673b7ce8",
@@ -1910,7 +1910,7 @@
    "Page details",
    "2026-10-07"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "us-fedreg": {
   "since": "2026-09-01",
@@ -1930,7 +1930,7 @@
    "2026-20956",
    "2026-21024"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "us-wh": {
   "fp": "1ced30f145d6c53e356dc43acce6739618423be9c1da85c2805aea0b7db006c8",
@@ -1987,7 +1987,7 @@
    "Executive Orders",
    "September 29, 2026"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "de-funds": {
   "fp": "0bd331faa777a5d4aaff16874416c09e0238615e8cae570b432bce507b68a7ef",
@@ -2052,7 +2052,7 @@
    "Mail",
    "nach oben"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "nl-amounts": {
   "fp": "2ba4d0d5de7dfe7ef66fac7a889f1feb426da501e8d0f6cad10722c5afa6737a",
@@ -2423,151 +2423,89 @@
    "All income requirements:",
    "Income requirements: independent, sustainable and sufficient income"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "ie-funds": {
-  "fp": "a5128b1e095f0af19c6156caa5e9b37d857f6fa0353b688d624bf80ea54366e1",
+  "fp": "9afedd51e937997659f25f3e5746a996ec027d0ab1e2a936d3fdc89d677daacb",
   "lines": [
-   "Did you find what you were looking for?",
-   "Find what you were looking for?",
-   "Help us improve AI search results by",
-   "giving your feedback (3-5 mins).",
-   "Close",
-   "Department of Justice, Home Affairs and Migration",
-   "Garda numbers at record high with attestation of 207 today",
-   "84 will be deployed to the Dublin Metropolitan Region, 76 to the Eastern Region, 27 to the North-Western Region, and 20 to the Southern Region.",
-   "Programme to address cyber security challenges",
-   "New guidelines to help children be heard in Family Court",
-   "Minister Jim O’Callaghan secures investment of €5.9bn for the justice sector in 2027",
-   "Consultations",
-   "Public consultation on the draft National Cyber Security Strategy",
-   "9 July 2026",
-   "Online public community safety survey to inform the development of the first National Strategy for Improving Community Safety",
-   "5 February 2026",
-   "Public consultation on the development of the Department of Justice Statement of Strategy 2025 - 2028",
-   "2 May 2025",
-   "View all",
-   "Consultations",
-   "General Publications",
-   "Report of the Garda Training Review Group June 2026",
-   "13 October 2026",
-   "National Cyber Security Strategy 2030",
-   "7 October 2026",
-   "General Scheme of the Irish Nationality and Citizenship (Amendment) Bill 2026",
-   "21 September 2026",
-   "View all",
-   "General Publications",
-   "Press Releases",
-   "Speech by the Minister for Justice, Home Affairs & Migration Apology on behalf of the Government to the family of Chief Officer Brian Stack",
-   "21 October 2026",
-   "Minister Jim O’Callaghan announces the removal of 24 Romanian nationals by charter flight on grounds of criminality",
-   "18 October 2026",
-   "Minister Jim O'Callaghan welcomes Garda numbers at record high with attestation of 207 today",
-   "16 October 2026",
-   "View all",
-   "Press Releases",
-   "Policies",
-   "Justice - What we do",
-   "Your Community Safety",
-   "How we tackle crime",
-   "About Migration and Ireland",
-   "Services",
-   "Report illegal online content",
-   "Ministers",
-   "Jim O'Callaghan",
-   "Minister for Justice, Home Affairs and Migration",
-   "Catherine Ardagh",
-   "Minister of State with responsibility for International Law, Law Reform and Youth Justice",
-   "Colm Brophy",
-   "Minister of State with responsibility for Migration",
-   "Senior management",
-   "Doncha O'Sullivan",
-   "Secretary General of the Department of Justice, Home Affairs and Migration",
-   "John O'Callaghan",
-   "Deputy Secretary, Criminal Justice",
-   "Louise Jevens",
-   "Chief Information Officer",
-   "Neil Ward",
-   "Head of European Affairs",
-   "David Gilbride",
-   "Head of Immigration Service Delivery",
-   "Rachel Woods",
-   "Head of Policy for Criminal Justice",
-   "Yvonne Furey",
-   "Head of Corporate",
-   "Ben Ryan",
-   "Head of Legislation for Criminal Justice",
-   "Andrew Munro",
-   "Head of Legislation for Civil Justice",
-   ",",
-   "Head of Policy for Civil Justice",
-   "Stjohn O'Connor",
-   "Head of Civil Governance, Governance Division",
-   "Deirdre Meenan",
-   "Assistant Secretary, Security and Northern Ireland",
-   "Richard Dixon",
-   "Director, International Protection Office",
-   "Carole Sullivan",
-   "Head of Service Delivery",
-   "Stjohn O'Connor",
-   "Head of Governance for Criminal Justice (temporary)",
-   "Sinéad Kehoe",
-   "Assistant Secretary, Finance",
-   "David Delaney",
-   "Conor Rowley",
-   "Head of Temporary Protection, Integration and Resettlement",
-   "About",
-   "Divisional and corporate information in the Department of Justice, Home Affairs and Migration",
-   "Read more",
-   "Contacts",
-   "Department of Justice, Home Affairs and Migration",
-   "Address:",
-   "51 St Stephen's Green, Dublin 2, D02 HK52",
-   "Website:",
-   "http://www.gov.ie/justice/",
-   "Email:",
-   "info@justice.ie",
-   "Telephone:",
-   "00 353 1 602 8202",
-   ";",
-   "1800 221 227",
-   "Map:",
-   "View location on map",
-   "Smarter Travel Options for visiting us",
-   "Website:",
-   "Information on smarter travel options",
-   "Summary:",
-   "Click the link above for information about Smarter Travel Options for visitors to 51 St Stephen's Green, Dublin 2, D02 HK52",
-   "Access Officer",
-   "Address:",
-   "Department of Justice, Home Affairs and Migration, 51 St Stephen's Green, Dublin 2, D02 HK52",
-   "Website:",
-   "https://www.gov.ie/en/organisation-information/a209e7-access-officer/",
-   "Email:",
-   "accessofficer@justice.ie",
-   "Telephone:",
-   "00 353 1 602 8202",
-   "Corporate",
-   "Careers in the Department of Justice, Home Affairs and Migration",
-   "Department of Justice, Home Affairs and Migration Customer Charter",
-   "Protecting Personal Data in the Department of Justice, Home Affairs and Migration",
-   "Department of Justice, Home Affairs and Migration Protected Disclosures",
-   "Social Media Policy at the Department of Justice, Home Affairs and Migration",
-   "Sustainability in the Department of Justice, Home Affairs and Migration",
-   "Research and Data Analytics",
-   "Freedom of Information (FOI)",
-   "Parliamentary Questions (PQs) relating to the Department of Justice, Home Affairs and Migration",
-   "Contact the Department of Justice, Home Affairs and Migration",
-   "Social media",
-   "Bluesky",
-   "Facebook",
-   "Instagram",
-   "LinkedIn",
-   "Threads",
-   "X (Twitter)",
-   "YouTube"
+   "In This Section",
+   "Financial Requirement",
+   "Documentary evidence required",
+   "Your finances",
+   "Details of your sponsor (where applicable) and their finances",
+   "Alternative Evidence of Finance – Degree Programme Students Only",
+   "Types of Courses and Colleges eligible for participation in the Student Bond System",
+   "Degree Programme Courses",
+   "Financial Requirements",
+   "You must show you have sufficient funds to support your stay in Ireland without recourse to public funds, or the reliance on casual employment.",
+   "Non-Visa required nationals:",
+   "If you did not need a visa to come to Ireland, you must also prove that you can support yourself financially after you arrive here.",
+   "You do this by showing at the time of arrival in the state you had direct access to:",
+   "€10,000 for courses resulting in residence of greater than 8 months",
+   "€833 per month or €6,665 (in total) for courses resulting in residence of 8 months or less.",
+   "Documents required at registration of permission can be found here on the",
+   "required documents",
+   "page.",
+   "Visa required nationals:",
+   "If you need a visa to come to Ireland, you do not need proof of finance after you arrive here. Your ability to support yourself on arrival in the State is checked during the visa application process.",
+   "For all academic courses due to begin after 1 July 2023, you must show evidence that you have",
+   "immediate access to at least €10,000",
+   ". This is the estimated cost of living in Ireland for a student for one academic year.",
+   "You must also demonstrate that you and/or your sponsor(s) have",
+   "ready access to at least €10,000 for each subsequent year of your studies",
+   "in addition to course fees for each of those years.",
+   "If the duration of your course is less than 8 months you must have access to €833 per month of your stay or €6,665 whichever is the lesser.",
+   "All details listed here must be proven by documentary evidence and, where sponsors are involved, it must be clear their documents relate to them.",
+   "Documentary evidence required",
+   "Your finances",
+   "You must provide the following in relation to your finances.",
+   "You must provide an up-to-date bank statement, showing what money has been paid into and out of the account over the last six months. You must submit this whether you are covering the costs of your studies yourself or not",
+   "Bank statements must be on headed paper. Where original bank statements are not available, internet printouts will be accepted once every page has been notarised by the bank and the statement is accompanied by letter from the bank confirming its authenticity. Handwritten entries or details on bank statements will",
+   "not",
+   "be accepted",
+   "Your name, address, account number and account type must be visible on the statement",
+   "Any large or irregular lodgements (for example – student loans, lodgement of Savings Certificates, the sale of a property or any similar type sources) must be fully explained",
+   "If you are sending a bank statement from a deposit/savings account, you must also include a letter from your bank confirming that you can take money from that account",
+   "Credit cards are not accepted as evidence of finances.",
+   "Details of your sponsor (where applicable) and their finances",
+   "If a family member/friend is responsible or co-responsible for covering your costs, you must list each person sponsoring you, and give clear details of their relationship to you. You must provide evidence (for example – birth certificates/marriage certificates etc.) of how you are linked or known to this person.",
+   "You must provide the following in relation to your sponsor(s) financial circumstance and the level of financial support that they intend to give you for the duration of your stay in Ireland.",
+   "Clear details of the financial support that each sponsor intends to give you for the duration of your stay in Ireland, showing that the amount of financial support they intend to give you is available",
+   "and",
+   "that they have enough funds to maintain themselves and other family members. Evidence accepted can, for example, include a letter from your sponsor’s employer confirming employment details, plus 3 recent payslips. If your sponsor is involved in business, evidence of this must be provided, such as a Certificate of Registration from the authorities in your country",
+   "An up-to-date bank statement for each sponsor, showing what money has been paid into and out of the account over the last six months",
+   "Bank statements must be on headed paper. Where original bank statements are not available, internet printouts will be accepted once every page has been notarised by the bank and the statement is accompanied by letter from the bank confirming its authenticity. Handwritten entries or details on bank statements will",
+   "not",
+   "be accepted",
+   "Your sponsor’s name, address, account number and account type must be visible on the statement",
+   "Any large or irregular lodgements (for example – student loans, lodgement of Savings Certificates, sale of a property or any similar type sources) must be fully explained",
+   "If your sponsor is providing a bank statement from a deposit/savings account, a letter from their bank confirming that you can access the funds must also be provided",
+   "Credit cards are not accepted as evidence of finances",
+   "If you are receiving funding from a government body is responsible for covering your costs, you must provide full details of the funding.",
+   "Alternative Evidence of Finance – Degree Programme Students Only",
+   "A pilot programme is in operation that allows degree programme students only, to provide an alternative to bank statements as a method of proof of finances. The alternative method is an education bond with a minimum value of €10,000. The bond must be lodged to an approved student fees payment service for example – the electronic fee payment service offered by Transfermate (formerly Pay to Study –",
+   "https://educationbondireland.transfermateeducation.com",
+   ").",
+   "Note",
+   ": The Department of Justice is at all times willing to consider proposals from other providers to have their services accepted for visa purposes.",
+   "The bond must be held continuously from the initial visa application through to the time you register in Ireland with the immigration authorities. This is to ensure that the necessary funds exist and are reserved for your personal use. The bond will be cashable when you arrive in Ireland or if for any reason the visa is refused or you decide not to take up your place in the college.",
+   "A receipt showing that you have paid for a bond will generally be accepted by the Visa Officer as evidence of finances. However, you should be aware that you may also be asked to provide additional evidence of finances if that is considered necessary. Upon your arrival in the State, the funds will be released to you.",
+   "Students who participate in a bond payment scheme should note that this is a contractual arrangement between you and the bond service provider. Immigration Service Delivery (ISD) is not a party to any contract entered into between a student and a bond service provider.",
+   "Types of courses and Colleges eligible for participation in the Student Bond System",
+   "Students who are enrolled on the type of courses listed below are not obliged to participate in a bond payment system, and may prefer to provide the normal evidence of finances as set out above.",
+   "Degree Programme Courses",
+   "These are defined as courses which lead to an award of level 7-10 on the Irish National Framework of Qualifications (NFQ) and are listed on the",
+   "ILEP",
+   ".",
+   "Ordinary Bachelor Degree",
+   "Honours Bachelor Degree",
+   "Higher Diploma (after completion of an Honours Bachelor Degree)",
+   "Postgraduate Diploma (after completion of an Honours Bachelor Degree)",
+   "Master’s Degree",
+   "Doctoral Degree.",
+   "This page was last updated on June 30, 2025"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "be-funds": {
   "fp": "20ee20e430e0fba2e1b887bac6ff1391da2fd3731232e021d75a8a8579a0f27f",
@@ -2677,7 +2615,7 @@
    "Services consulaires",
    "Dans cette section, vous trouverez des informations sur votre inscription, une naissance, comment demander une carte d'identité ..."
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "be-dofi": {
   "fp": "b068b40e5527a27db2918b311d7ab65b72b8e58cafc5a222bc21a0b971e3b9c0",
@@ -2725,7 +2663,7 @@
    "Bijlage 32 Verbintenis tot tenlasteneming (docx)",
    "14.38 KB"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "au-news": {
   "fp": "dc9bd1b7c93c3ac0dbafe5667d3257d8763546ce959ca8208e767085b19a37dc",
@@ -2809,7 +2747,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "at-funds": {
   "fp": "17f471ef88ffcee90b5cd7d32e0419c1c2a23ce5b813f4de13f3656c32c5f67c",
@@ -2955,7 +2893,7 @@
    "Contact",
    "Editorial"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "at-oead": {
   "fp": "a8332b4ca5c60e665e05841d4c75a6b6d3efac79490433b190aa79630507b70f",
@@ -3525,7 +3463,7 @@
    "Here",
    "you will find our FAQs on entry and residence for third-country students."
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "dk-siri": {
   "fp": "2a351e2ef22eb5114924e27940eec6d58248ab3cb496bb20549b140f2ddce19b",
@@ -4591,7 +4529,7 @@
    "New rules for researchers and doctoral students",
    "The Swedish Parliament has decided on new rules for researchers and doctoral students. The rules mean, among other things, that doctoral students with a hosting agreement can receive a residence permit for research, that it will be easier to receive a permanent residence permit, and that you can apply for another permit in Sweden in more situations."
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "jp-work": {
   "fp": "bb98290744fe5ba408a983434cef6366215de342202e459b20655b5eaee4e7b7",
@@ -4793,7 +4731,7 @@
    "正しく表示されない場合は、最新バージョンをご利用ください。",
    "ページトップ"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "kr-funds": {
   "fp": "b133f15bb4380cbefba7270e18a04178d1ea1aca19ee5de538972667a15cde7e",
@@ -4820,7 +4758,7 @@
    "법무부는 “앞으로도 관계부처 및 대학과 지속으로 협력해 우수 유학생 유치를 지원하면서도, 유학 제도가 불법 체류·불법 취업의 통로로 악용되지 않도록 적정한 체류 관리를 통한 유학생의 질적 성장을 위해 노력하겠다”고 밝혔다.",
    "다음 각 호의 어느 하나에 해당하는 자는 500만원 이하의 벌금에 처한다."
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "kr-d10": {
   "fp": "dba56bcdb5143c5c510b527c8186e5ba9ad4ec1d50327ee71a9526d3f741633d",
@@ -4884,7 +4822,7 @@
    "공공누리 AI유형(출처표시)",
    "\" 조건에 따라 누구나 이용할 수 있습니다."
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "_failed": [
   "au-hoa-news",
@@ -4940,7 +4878,7 @@
    "Social share",
    "https://www.sem.admin.ch/content/sem/en/home/sem/medien.html"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "ch-entry": {
   "fp": "f9eb2a6f91b7381ed74ef8d20438b88f30626c7237ef2d1cc3d0e2e0a3114179",
@@ -5005,7 +4943,7 @@
    "Further information",
    "https://www.sem.admin.ch/content/sem/en/home/themen.html"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "nl-news": {
   "fp": "efa303ffb8189fede7ec85500f411ee7cf363345ac4a95d7393d5bb26b590582",
@@ -5072,7 +5010,7 @@
    "General",
    "Show results"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "au-news-listing": {
   "fp": "76377cf97e89fd27175b24379440bc1976e173a6bd650375e1f18cba3cbd2a0d",
@@ -5140,7 +5078,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "de-aa-news": {
   "fp": "8dde0b82460792f28e98a659427fa1d4e410a792e93f588d3a5e390a2141852a",
@@ -5156,7 +5094,7 @@
    "Mail",
    "Top of page"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "ie-doj-press": {
   "fp": "52f23aadf51a0934a35ffdc87ab79d3fdd118135cfec9d2c088f8035f250b191",
@@ -5409,7 +5347,7 @@
    "Clear filters",
    "Apply filters"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "jp-isa-press": {
   "fp": "28446b32d4777aa0a8bfb2f05923caa1da3fbc425d3e165096d7e8f50cf9701f",
@@ -5562,7 +5500,7 @@
    "に掲載しております。",
    "ページトップ"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  },
  "jp-jasso": {
   "fp": "a9ad9639903cf0b1328cc5b744db4335039512dcbb17c7fa12988d140d070020",
@@ -5639,6 +5577,6 @@
    "View all",
    "Search"
   ],
-  "checked": "2026-10-22T02:20:58.477371+00:00"
+  "checked": "2026-10-22T08:05:04.994790+00:00"
  }
 }
