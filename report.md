@@ -1,53 +1,21 @@
-# Official-source scan, 21 October 2026 23:46 UTC
+# Official-source scan, 22 October 2026 02:20 UTC
 
-24 of 35 sources checked. 3 possible change(s). 11 source(s) unreachable.
-
-## Ireland: Irish Immigration Service: student finances
-Source: https://www.irishimmigration.ie/information-on-student-finances/
-+ Did you find what you were looking for?
-+ Find what you were looking for?
-+ Help us improve AI search results by
-+ giving your feedback (3-5 mins).
-+ Close
-+ Department of Justice, Home Affairs and Migration
-+ Garda numbers at record high with attestation of 207 today
-+ 84 will be deployed to the Dublin Metropolitan Region, 76 to the Eastern Region, 27 to the North-Western Region, and 20 to the Southern Region.
-+ Programme to address cyber security challenges
-+ New guidelines to help children be heard in Family Court
-+ Minister Jim O’Callaghan secures investment of €5.9bn for the justice sector in 2027
-+ Consultations
-- In This Section
-- Financial Requirement
-- Documentary evidence required
-- Your finances
-- Details of your sponsor (where applicable) and their finances
-- Alternative Evidence of Finance – Degree Programme Students Only
-- Types of Courses and Colleges eligible for participation in the Student Bond System
-- Degree Programme Courses
-- Financial Requirements
-- You must show you have sufficient funds to support your stay in Ireland without recourse to public funds, or the reliance on casual employment.
-- Non-Visa required nationals:
-- If you did not need a visa to come to Ireland, you must also prove that you can support yourself financially after you arrive here.
+26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
 
 ## South Korea: Korean government: student visa money to show
 Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
+- [보도설명자료][10.21.수 국민일보] 날 버렸던 엄마가 찾아왔다...2000만원 자립지원금 받은 날 관련
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister McEntee to host meeting of trade ministers in Dublin
-+ 22 October 2026;
-+ Department of Foreign Affairs and Trade;
-+ Minister of State Robert Troy launches public call for expressions of interest for experts to sit on new Digital Assets Industry Group
-+ 22 October 2026;
-- Technical Note on EU Fertiliser Exceptional Aid Scheme
-- Minister Browne launches new Housing Information Hub
++ Minister Byrne attends Berlin Process Leaders’ Summit
+- Speech by the Minister for Justice, Home Affairs & Migration Apology on behalf of the Government to the family of Chief Officer Brian Stack
+- Department of Justice, Home Affairs and Migration;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - DHS Study in the States: duration of status rule FAQ (https://studyinthestates.dhs.gov/final-rule-establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-faq): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
-- Belgian Foreign Affairs: student and sponsor amounts (https://luxembourg.diplomatie.belgium.be/fr/services-consulaires/prise-en-charge-etudiant): HTTPError: HTTP Error 503: Service Unavailable
-- Immigration Office: sufficient means (https://dofi.ibz.be/en/themes/ressortissants-dun-pays-tiers/etudes/favoris/sufficient-means-subsistence): HTTPError: HTTP Error 503: Service Unavailable
 - SIRI: higher education residence permit (https://nyidanmark.dk/en-GB/You-want-to-apply/Study/Higher-Education/): URLError: <urlopen error timed out>
 - SIRI: work permits for students (https://nyidanmark.dk/en-GB/Words-and-concepts/SIRI/Work-permits-for-students-in-higher-educational-programmes): URLError: <urlopen error timed out>
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
