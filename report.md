@@ -1,12 +1,6 @@
-# Official-source scan, 24 October 2026 07:42 UTC
+# Official-source scan, 24 October 2026 12:59 UTC
 
-28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
-
-## United States: Ratification of Civil Penalties
-Source: https://www.federalregister.gov/documents/2026/10/26/2026-21751/ratification-of-civil-penalties
-
-## United States: Agency Information Collection Activities: ICE FOIA Request Form, I-902
-Source: https://www.federalregister.gov/documents/2026/10/26/2026-21765/agency-information-collection-activities-ice-foia-request-form-i-902
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
