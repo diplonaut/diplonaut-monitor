@@ -1,13 +1,6 @@
-# Official-source scan, 23 October 2026 23:38 UTC
+# Official-source scan, 24 October 2026 02:24 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
-
-## United States: White House: presidential actions
-Source: https://www.whitehouse.gov/presidential-actions/
-+ FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES
-+ October 23, 2026
-- Emergency Tax Relief on Diesel Fuel
-- October 5, 2026
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
