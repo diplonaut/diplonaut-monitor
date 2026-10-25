@@ -1,6 +1,10 @@
-# Official-source scan, 25 October 2026 20:19 UTC
+# Official-source scan, 25 October 2026 22:54 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ 겨울 난방비 걱정? 단열·창호·보일러 최대 330만 원 지원받으세요
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
