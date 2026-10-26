@@ -1,10 +1,6 @@
-# Official-source scan, 26 October 2026 15:36 UTC
+# Official-source scan, 26 October 2026 22:03 UTC
 
-26 of 35 sources checked. 1 possible change(s). 9 source(s) unreachable.
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-+ [보도설명자료][10.26.월 한국일보] 원가14만원 팔 땐 1,320,000원 들리시나요, 건보료 새는 소리 관련
+26 of 35 sources checked. 0 possible change(s). 9 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -14,7 +10,7 @@ Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
 - SIRI: work permits for students (https://nyidanmark.dk/en-GB/Words-and-concepts/SIRI/Work-permits-for-students-in-higher-educational-programmes): URLError: <urlopen error timed out>
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
