@@ -1,10 +1,18 @@
-# Official-source scan, 25 October 2026 22:54 UTC
+# Official-source scan, 26 October 2026 02:11 UTC
 
-28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
 
 ## South Korea: Korean government: student visa money to show
 Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-+ 겨울 난방비 걱정? 단열·창호·보일러 최대 330만 원 지원받으세요
+- 겨울 난방비 걱정? 단열·창호·보일러 최대 330만 원 지원받으세요
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Tánaiste Simon Harris publishes 2026 Consumer Sentiment Banking Survey
++ 26 October 2026;
++ Department of Finance;
+- Minister Calleary launches National Hub Network Strategy at Hub Summit
+- Department of Rural and Community Development and the Gaeltacht;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
