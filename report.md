@@ -1,21 +1,6 @@
-# Official-source scan, 27 October 2026 21:34 UTC
+# Official-source scan, 28 October 2026 02:56 UTC
 
-28 of 35 sources checked. 2 possible change(s). 7 source(s) unreachable.
-
-## Canada: IRCC: notices
-Source: https://www.canada.ca/en/immigration-refugees-citizenship/news/notices.html
-+ Notice – Canada updates temporary measures for people affected by crises in Haiti and Sudan
-+ October 27, 2026
-+ 2026-10-27
-- 2026-10-07
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Government launches Our Rural Future 2026-2031 An ambitious new policy to drive rural development and strengthen rural communities
-+ Department of Rural and Community Development and the Gaeltacht;
-- Tánaiste Simon Harris publishes 2026 Consumer Sentiment Banking Survey
-- 26 October 2026;
-- Department of Finance;
+28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
