@@ -1,48 +1,57 @@
-# Official-source scan, 28 October 2026 17:35 UTC
+# Official-source scan, 28 October 2026 21:58 UTC
 
-26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
+28 of 35 sources checked. 4 possible change(s). 7 source(s) unreachable.
 
-## Austria: Austrian government: reference rate for means of subsistence
-Source: https://www.migration.gv.at/en/service/
-+ Privacy Statement and Web Accessibility
-- Privacy Statement
+## United States: White House: presidential actions
+Source: https://www.whitehouse.gov/presidential-actions/
++ ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES
++ October 28, 2026
+- Columbus Day, 2026
+
+## Belgium: Belgian Foreign Affairs: student and sponsor amounts
+Source: https://luxembourg.diplomatie.belgium.be/fr/services-consulaires/prise-en-charge-etudiant
++ 28 octobre 2026
++ jusqu'au 3ème degré inclus du candidat étudiant,
++ - si le garant est un membre de la famille, le lien familial doit être prouvé par des actes de naissance (de chaque personne concernée). Ces actes de naissance doivent être soit apostillés
++ légalisés. Pour en savoir plus :
++ Légalisation de documents | SPF Affaires étrangères - Commerce extérieur et Coopération au Développement
+- 21 septembre 2026
+- jusqu'au 3ème degré inclus du candidat étudiant
+
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ 10만 원 기부하면 100% 세액공제? 답례품까지!
++ 10만 원 기부하면 100% 세액공제? 답례품까지!
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Ireland to host first-ever national pavilion at COP31 during EU Council Presidency
-+ 28 October 2026;
-+ Minister Kevin “Boxer” Moran announces funding approval for Minor Flood Mitigation Works and Coastal Protection for Carrowgower, Co. Clare
-+ 28 October 2026;
-+ Office of Public Works;
-+ Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation announces changes to allowances to support maternity, adoptive and paternity leaves for Oireachtas members
-+ 28 October 2026;
-+ Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation;
-+ Government approves increase to An Post’s Statutory Borrowing Limit
-+ 28 October 2026;
-+ Department of Culture, Communications and Sport;
-+ Minister Calleary officially opens new outdoor, inclusive play area at Cnoc na nÓg pre-school in Straide
-- Government launches Our Rural Future 2026-2031 An ambitious new policy to drive rural development and strengthen rural communities
-- 27 October 2026;
-- Minister Dillon announces increased funding for Dog Waste Infrastructure Scheme following strong demand
-- 27 October 2026;
-- Irish support for a future democratic Belarus demonstrated at conference during visit of Sviatlana Tsikhanouskaya
-- 27 October 2026;
-- Department of Foreign Affairs and Trade;
-- Statement from Minister McEntee following her visit to meet Irish peacekeepers serving in Southern Lebanon
-- 27 October 2026;
-- Department of Defence;
-- Minister for Defence marks 80th Anniversary of the Naval Service
-- 27 October 2026;
++ Minister McEntee meets Sviatlana Tsikhanouskaya, Head of the United Transitional Cabinet of Belarus
++ Department of Foreign Affairs and Trade;
++ EU Inc: Council adopts position on a new EU corporate law for innovative companies
++ Department of Enterprise, Tourism and Employment;
++ Minister Burke and Minister Dillon welcome signature of landmark EU legislation strengthening protection for workers from exposure to carcinogens
++ Department of Enterprise, Tourism and Employment;
++ Minister Burke publishes reports on Tourist Accommodation Strategy consultation
++ Department of Enterprise, Tourism and Employment;
++ Minister Burke and Minister O'Brien publish report on Ireland’s industrial decarbonisation progress
++ Department of Enterprise, Tourism and Employment;
+- Minister Calleary announces €1.5 million funding for TidyTowns groups
+- Minister Naughton announces over €500,000 in capital funding for national youth organisations
+- Department of Education and Youth;
+- Tánaiste Simon Harris moves to unlock finance for small builders to purchase zoned land
+- Department of Finance;
+- Statement by the Department of Justice, Home Affairs and Migration
+- Department of Justice, Home Affairs and Migration;
+- Minister Foley announces €2 million in funding for projects to promote equal employment opportunities for women
+- Department of Children, Disability and Equality;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - DHS Study in the States: duration of status rule FAQ (https://studyinthestates.dhs.gov/final-rule-establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-faq): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
-- Korean government: student visa money to show (https://www.korea.kr/news/policyNewsView.do?newsId=148916751): URLError: <urlopen error timed out>
-- Ministry of Justice: job-seeker visa (D-10) (https://www.immigration.go.kr/bbs/moj/189/601114/artclView.do): URLError: <urlopen error timed out>
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
