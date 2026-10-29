@@ -727,7 +727,7 @@
    "Policy paper",
    "Contents"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "uk-student-visa": {
   "fp": "470f844af21ee5b64631b5f8088a3cecd93a702dbfc1dc19651c3a697d4cef0a",
@@ -879,7 +879,7 @@
    "Check if you can extend your visa",
    "If you break the conditions of your visa you may not be able to come to the UK again."
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "ca-funds": {
   "fp": "a900c792ef0dcf6dbd723ea44d1512a6d5eb81c5204774d03415cd48f0302831",
@@ -1047,7 +1047,7 @@
    "Page details",
    "2026-08-28"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "ca-notices": {
   "fp": "2799153d54ff98b9e2254da2a4e292b7947f3184794069236dc94bb6ec14f64f",
@@ -1912,7 +1912,7 @@
    "Page details",
    "2026-10-27"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "us-fedreg": {
   "since": "2026-09-01",
@@ -1935,7 +1935,7 @@
    "2026-21751",
    "2026-21765"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "us-wh": {
   "fp": "05b254d28388217658d43980c818f02393263aa21ef0cd514858c6f3c9ccb946",
@@ -1992,61 +1992,46 @@
    "Proclamations",
    "October 7, 2026"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "de-funds": {
-  "fp": "0bd331faa777a5d4aaff16874416c09e0238615e8cae570b432bce507b68a7ef",
+  "fp": "5f5d64afbaefe90f52e64452b564918c9f15095f9be3126212625f7bf30b1a8d",
   "lines": [
    "Willkommen auf den Seiten des Auswärtigen Amts",
-   "Bei Visumanträgen für längerfristige Aufenthalte in Deutschland (Studium, Sprachkurs, Visum zur Arbeitsplatzsuche nach Abschluss eines Hochschulstudiums) muss ein Finanzierungsnachweis vorgelegt werden.",
-   "Die Finanzierung kann folgendermaßen nachgewiesen werden:",
-   "Eröffnung eines Sperrkontos",
-   "Um über ein Sperrkonto bzw. ein Konto mit Sperrvermerk die Sicherung der Finanzierung Ihres Aufenthaltes im Bundesgebiet nachzuweisen, können Sie sich an jede Bank in Deutschland wenden. Ein Inlandsaufenthalt ist zur Eröffnung eines Sperrkontos nicht erforderlich.",
-   "Sie können wie folgt vorgehen:",
-   "Zur Eröffnung eines Sperrkontos sehen Sie hierzu bitte auch",
-   "Hinweise Sperrkonto",
-   "Sie bitten die Bank Ihrer Wahl in Deutschland um Übersendung der Unterlagen zur Eröffnung eines Kontos mit Sperrvermerk, die Sie dann per E-Mail oder per Post erhalten",
-   "ausgefüllte Formulare sowie eine Kopie Ihres Reisepasses bei einer deutschen Auslandsvertretung (Botschaft, Konsulat) beglaubigen",
-   "ausgefüllte und beglaubigte Formulare an die Bank zurücksenden",
-   "Die Bank veranlasst die Kontoeröffnung bei der Geschäftsstelle an Ihrem künftigen Wohnort. Kontonummer, BLZ und IBAN/BIC des eröffneten Kontos werden Ihnen direkt mitgeteilt",
-   "Sie können die Auslandsüberweisung auf Ihr neu eingerichtetes Konto vornehmen",
-   "Für den jeweils beantragten Aufenthaltszweck ist der monatliche Betrag von 992,-€ für den entsprechenden Zeitraum aufzuwenden. Also",
-   "z.B.",
-   "Studium für 1 Jahr: 12 x 992,- = 11.904,- €.",
-   "den Nachweis über die Einzahlung bringt der Antragsteller dann mit zur Botschaft, wenn er den Visumsantrag einreicht",
-   "Ausnahme für Teilstipendiaten (Förderung beträgt weniger als 992,- €/Monat):",
-   "Nachweis über den Fehlbetrag; es muss eine Finanzierung für das gesamte Studienjahr in Höhe von 11.904,- Euro nachgewiesen werden",
-   "Gebühren, die bei der Botschaft anfallen",
-   "Unterschriftsbeglaubigung + Beglaubigung von Kopien in bar oder per Kreditkarte (Visa, Mastercard) zum Tageskurs der Botschaft in US-amerikanischen Dollar zu zahlen:",
-   "Gebührenliste",
-   "Die Gebühr ist unabhängig zu den Visumgebühren zu entrichten.",
-   "Abgabe einer Verpflichtungserklärung",
-   "Die Verpflichtungserklärung kann im Konsularreferat der Botschaft abgegeben werden, bitte melden Sie sich hierfür per",
-   "E-Mail",
-   ".",
-   "Die Verpflichtungserklärung kann nur von einer Person abgegeben werden, Voraussetzung ist jedoch, dass diese Person ein Konto in Deutschland unterhält.",
-   "In jedem Fall ist die persönliche Vorsprache des Verpflichtungsgebers erforderlich.",
-   "Die Abgabe einer Verpflichtungserklärung kostet 29,00 € in bar oder per Kreditkarte (Visa, Mastercard) zum Tageskurs der Botschaft in US-amerikanischen Dollar zu zahlen. Die Gebühr ist zusätzlich zu den Visumgebühren zu entrichten.",
-   "Es wird ausdrücklich darauf hingewiesen, dass die Verpflichtungserklärung seitens der deutschen Ausländerbehörden nicht in jedem Fall als ausreichender Finanzierungsnachweis anerkannt wird. Daher wird die Einrichtung eines Sperrkontos empfohlen.",
-   "Vorzulegende Unterlagen für die Abgabe einer Verpflichtungserklärung:",
-   "Reisepass/Personalausweis und Wohnadresse des Verpflichtungsgebers",
-   "Kopie des Reisepasses sowie Adresse des Visumantragstellers",
-   "Kontoauszüge der letzten drei Monate",
-   "Nachweise zu Immobilienbesitztümern, falls vorhanden",
-   "Weitere Nachweise, die Einkünfte belegen",
-   "letzte Steuererklärung",
-   "für Angestellte zusätzlich",
-   ": aktuelle Arbeitsbescheinigung im Original mit Angaben des Arbeitgebers zur Höhe des Gehaltes, Tätigkeit in der Firma, Vertragsart (befristet oder unbefristet) und Einstellungsdatum, Gehaltsnachweise der letzten drei Monate",
-   "für Rentner zusätzlich:",
-   "Rentenbescheinigung, Auszahlungsnachweis der letzten drei Monate über die erhaltene Rente",
-   "für Selbstständige zusätzlich",
-   ": aktueller Handelsregisterauszug, letzte Steuererklärung der Firma Einkommensnachweis durch einen Buchhalter",
-   "WICHTIG: Alle Dokumente sind im Original und Kopie vorzulegen.",
-   "Baden-Württemberg hat zum Wintersemester 2017/2018 Gebühren für Internationale Studierende und ein Zweitstudium eingeführt. Ab diesem Zeitpunkt müssen Internationale Studierende, die zum Zwecke des Studiums von außerhalb der",
-   "EU",
-   "einreisen, künftig einen Eigenbeitrag von 1.500 Euro pro Semester leisten. Für das Zweitstudium werden 650 Euro je Semester erhoben.",
+   "Für bestimmte Arten von Anträgen auf ein nationales Visum für Deutschland",
+   "ist die Eröffnung eines",
+   "Sperrkontos",
+   "erforderlich. Damit wird sichergestellt, dass der Lebensunterhalt der antragstellenden Person während eines längeren Aufenthalts in Deutschland finanziert werden kann. Dies betrifft beispielsweise folgende Aufenthaltszwecke:",
+   "Für",
+   "Sprachkurs",
+   "derzeit ist ein Betrag von 1.091 EUR pro Monat nachzuweisen",
+   "Für",
+   "Studienvorbereitender Sprachkurse",
+   "1.091 EUR pro Monat",
+   "Für",
+   "Studium",
+   "992 EUR pro Monat",
+   "Für",
+   "Praktikum",
+   "992 EUR pro Monat",
+   "Für",
+   "Chancenkarte",
+   "1.091 EUR pro Monat",
+   "Für",
+   "Anerkennungsmaßnahmen §16d",
+   "1.200 EUR pro Monat",
+   "Für Familiennachzug (400 EUR für den Ehepartner bzw. die Ehepartnerin und 300 EUR für jedes minderjährige Kind)",
+   "Bitte beachten Sie, dass Sie Ihre Visumunterlagen erst einreichen können, nachdem Ihnen die Bestätigung der deutschen Bank über den Eingang des gesamten erforderlichen Betrags vorliegt.",
+   "Bitte wenden Sie sich an ein Bankinstitut, das zur Durchführung von Bankgeschäften innerhalb der Bundesrepublik Deutschland berechtigt ist. Es empfiehlt sich, den Zweck der Kontoeröffnung anzugeben und darauf hinzuweisen, dass eine persönliche Vorsprache in Deutschland nicht möglich ist, da das Visum noch nicht erteilt wurde.",
+   "Die Eröffnung eines Sperrkontos liegt im Ermessen der jeweiligen Bank und richtet sich nach deren internen Richtlinien.",
+   "Das Auswärtige Amt hat keinen Einfluss auf diese Entscheidung.",
+   "Weitere Informationen finden Sie unter",
+   "folgendem Link",
+   "(auf Deutsch und Englisch)",
+   "Die Botschaft kann Sie lediglich bei der Beglaubigung von Unterschriften und Passkopien unterstützen. Wir bitten um Ihr Verständnis.",
+   "Bei Fragen zum Sperrkonto wenden Sie sich bitte direkt an die jeweilige Bank.",
    "Haftungsausschluss:",
-   "Diese Hinweise sind nach sorgfältiger Prüfung zusammengestellt worden. Da sich jedoch jederzeit häufig auch kurzfristig Änderungen der zu beachtenden Vorschriften und der vorzulegenden Dokumente ergeben können, kann keine Gewähr für die inhaltliche Richtigkeit und Vollständigkeit dieser Hinweise übernommen werden. Rechtsansprüche können aus dieser Zusammenstellung nicht hergeleitet werden.",
+   "Diese Informationen wurden sorgfältig geprüft und zusammengestellt. Da sich die geltenden Vorschriften und die einzureichenden Unterlagen jedoch kurzfristig ändern können, wird keine Gewähr für die Richtigkeit und Vollständigkeit der Angaben übernommen. Aus diesen Informationen können keine Rechtsansprüche abgeleitet werden.",
    "Zurück zu: \"Visa und Einreise\"",
    "Seite drucken",
    "Seite teilen",
@@ -2057,7 +2042,7 @@
    "Mail",
    "nach oben"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "nl-amounts": {
   "fp": "2ba4d0d5de7dfe7ef66fac7a889f1feb426da501e8d0f6cad10722c5afa6737a",
@@ -2428,7 +2413,7 @@
    "All income requirements:",
    "Income requirements: independent, sustainable and sufficient income"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "ie-funds": {
   "fp": "9afedd51e937997659f25f3e5746a996ec027d0ab1e2a936d3fdc89d677daacb",
@@ -2510,7 +2495,7 @@
    "Doctoral Degree.",
    "This page was last updated on June 30, 2025"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "be-funds": {
   "fp": "55ba2bbd038d2cb4d79f7d7c5cca7bf42b5bfe3a1d4fb0c3c668f286137f62df",
@@ -2625,7 +2610,7 @@
    "Services consulaires",
    "Dans cette section, vous trouverez des informations sur votre inscription, une naissance, comment demander une carte d'identité ..."
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "be-dofi": {
   "fp": "b068b40e5527a27db2918b311d7ab65b72b8e58cafc5a222bc21a0b971e3b9c0",
@@ -2673,7 +2658,7 @@
    "Bijlage 32 Verbintenis tot tenlasteneming (docx)",
    "14.38 KB"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "au-news": {
   "fp": "dc9bd1b7c93c3ac0dbafe5667d3257d8763546ce959ca8208e767085b19a37dc",
@@ -2903,7 +2888,7 @@
    "Contact",
    "Editorial"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "at-oead": {
   "fp": "a8332b4ca5c60e665e05841d4c75a6b6d3efac79490433b190aa79630507b70f",
@@ -3473,7 +3458,7 @@
    "Here",
    "you will find our FAQs on entry and residence for third-country students."
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "dk-siri": {
   "fp": "2a351e2ef22eb5114924e27940eec6d58248ab3cb496bb20549b140f2ddce19b",
@@ -3782,7 +3767,7 @@
    "Last updated 01-10-2026 - Published by: SIRI",
    "-->"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "dk-work": {
   "fp": "d6e34326d51ac87b4f856e6aeb3cb32bafd2d9b3a1565ebd53b19645845306df",
@@ -3799,7 +3784,7 @@
    "Send link",
    "Last updated 09-09-2026 - Published by: SIRI"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "se-he": {
   "fp": "ccf691d2b22d754ca391660a3aa40c5537864561cff0f5e4b95eef3f4a465384",
@@ -4539,7 +4524,7 @@
    "New rules for researchers and doctoral students",
    "The Swedish Parliament has decided on new rules for researchers and doctoral students. The rules mean, among other things, that doctoral students with a hosting agreement can receive a residence permit for research, that it will be easier to receive a permanent residence permit, and that you can apply for another permit in Sweden in more situations."
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "jp-work": {
   "fp": "bb98290744fe5ba408a983434cef6366215de342202e459b20655b5eaee4e7b7",
@@ -4741,7 +4726,7 @@
    "正しく表示されない場合は、最新バージョンをご利用ください。",
    "ページトップ"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "kr-funds": {
   "fp": "b133f15bb4380cbefba7270e18a04178d1ea1aca19ee5de538972667a15cde7e",
@@ -4768,7 +4753,7 @@
    "법무부는 “앞으로도 관계부처 및 대학과 지속으로 협력해 우수 유학생 유치를 지원하면서도, 유학 제도가 불법 체류·불법 취업의 통로로 악용되지 않도록 적정한 체류 관리를 통한 유학생의 질적 성장을 위해 노력하겠다”고 밝혔다.",
    "다음 각 호의 어느 하나에 해당하는 자는 500만원 이하의 벌금에 처한다."
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "kr-d10": {
   "fp": "dba56bcdb5143c5c510b527c8186e5ba9ad4ec1d50327ee71a9526d3f741633d",
@@ -4832,7 +4817,7 @@
    "공공누리 AI유형(출처표시)",
    "\" 조건에 따라 누구나 이용할 수 있습니다."
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "_failed": [
   "au-hoa-news",
@@ -4887,7 +4872,7 @@
    "Social share",
    "https://www.sem.admin.ch/content/sem/en/home/sem/medien.html"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "ch-entry": {
   "fp": "f9eb2a6f91b7381ed74ef8d20438b88f30626c7237ef2d1cc3d0e2e0a3114179",
@@ -4952,7 +4937,7 @@
    "Further information",
    "https://www.sem.admin.ch/content/sem/en/home/themen.html"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "nl-news": {
   "fp": "c56b725d5222c51fb80984453528ee4ca4c4aaacee7ddf7c7f9b4aabbb4c064a",
@@ -5019,7 +5004,7 @@
    "General",
    "Show results"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "au-news-listing": {
   "fp": "70cb101b15d83bd6d25172b9976b1bee55f38b033004421c3035a65a69c6aca2",
@@ -5087,7 +5072,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "de-aa-news": {
   "fp": "8dde0b82460792f28e98a659427fa1d4e410a792e93f588d3a5e390a2141852a",
@@ -5103,10 +5088,10 @@
    "Mail",
    "Top of page"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "ie-doj-press": {
-  "fp": "44821427e1d9d4cda9e521e57375f95abaaab2da6e8d5ebade6ed74590efb6ab",
+  "fp": "3713f7fd1b16ad6b6f1cf9876e466c0989ad829d7181b7ce7c8f90736b8e0972",
   "lines": [
    "Did you find what you were looking for?",
    "Find what you were looking for?",
@@ -5118,6 +5103,10 @@
    "search",
    "100 results",
    "with category",
+   "Minister Jim O’Callaghan opens Digitalisation of Justice Conference",
+   "29 October 2026;",
+   "Department of Justice, Home Affairs and Migration;",
+   "Press release",
    "Minister Richmond announces funding for Irish communities in Britain",
    "29 October 2026;",
    "Department of Foreign Affairs and Trade;",
@@ -5152,10 +5141,6 @@
    "Press release",
    "Minister Byrne to address Association of European Border Regions",
    "29 October 2026;",
-   "Department of Foreign Affairs and Trade;",
-   "Press release",
-   "Minister McEntee meets Sviatlana Tsikhanouskaya, Head of the United Transitional Cabinet of Belarus",
-   "28 October 2026;",
    "Department of Foreign Affairs and Trade;",
    "Press release",
    "Filters",
@@ -5356,7 +5341,7 @@
    "Clear filters",
    "Apply filters"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "jp-isa-press": {
   "fp": "28446b32d4777aa0a8bfb2f05923caa1da3fbc425d3e165096d7e8f50cf9701f",
@@ -5509,7 +5494,7 @@
    "に掲載しております。",
    "ページトップ"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  },
  "jp-jasso": {
   "fp": "a9ad9639903cf0b1328cc5b744db4335039512dcbb17c7fa12988d140d070020",
@@ -5586,6 +5571,6 @@
    "View all",
    "Search"
   ],
-  "checked": "2026-10-29T17:48:20.526342+00:00"
+  "checked": "2026-10-29T22:11:05.365499+00:00"
  }
 }
