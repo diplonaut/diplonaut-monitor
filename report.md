@@ -1,17 +1,31 @@
-# Official-source scan, 29 October 2026 11:55 UTC
+# Official-source scan, 29 October 2026 17:48 UTC
 
-27 of 35 sources checked. 2 possible change(s). 8 source(s) unreachable.
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-- 한국어로 열리는 진로·취업의 기회, 베트남 한국유학박람회 개최
+27 of 35 sources checked. 1 possible change(s). 8 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Browne highlights latest housing completion figures showing record number of homes built in the first nine months of the year
-+ Department of Housing, Local Government and Heritage;
-- Government approves increase to An Post’s Statutory Borrowing Limit
-- Department of Culture, Communications and Sport;
++ Minister Richmond announces funding for Irish communities in Britain
++ Minister Moran launches the Hill of Tara Local Biodiversity Action Plan and the OPW Grassland Management Guidance Documents
++ Minister “Boxer” Moran announces completion of conservation works at Kells Round Tower, Co. Meath
++ International Softwood Conference 2026 comes to Dublin
++ Department of Agriculture, Food and the Marine;
++ Irish Coast Guard awards contracts for 38 new Search and Rescue vessels under major Fleet Renewal Programme
++ Department of Transport;
++ Minister O’Sullivan calls for accelerated global efforts to halt biodiversity loss at COP17
++ EU Presidency conference highlights the vital role of public libraries in Europe
++ Department of Rural and Community Development and the Gaeltacht;
+- EU Inc: Council adopts position on a new EU corporate law for innovative companies
+- Department of Enterprise, Tourism and Employment;
+- Minister Burke and Minister Dillon welcome signature of landmark EU legislation strengthening protection for workers from exposure to carcinogens
+- Department of Enterprise, Tourism and Employment;
+- Minister Burke publishes reports on Tourist Accommodation Strategy consultation
+- Department of Enterprise, Tourism and Employment;
+- Minister Burke and Minister O'Brien publish report on Ireland’s industrial decarbonisation progress
+- Department of Enterprise, Tourism and Employment;
+- Ireland to host first-ever national pavilion at COP31 during EU Council Presidency
+- Department of Climate, Energy and the Environment;
+- Minister Kevin “Boxer” Moran announces funding approval for Minor Flood Mitigation Works and Coastal Protection for Carrowgower, Co. Clare
+- Minister for Public Expenditure, Infrastructure, Public Service Reform and Digitalisation announces changes to allowances to support maternity, adoptive and paternity leaves for Oireachtas members
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
