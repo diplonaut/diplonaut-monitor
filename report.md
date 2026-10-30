@@ -1,28 +1,6 @@
-# Official-source scan, 30 October 2026 17:24 UTC
+# Official-source scan, 30 October 2026 21:46 UTC
 
-27 of 35 sources checked. 1 possible change(s). 8 source(s) unreachable.
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Byrne hosts Deputy Prime Minister Sali of North Macedonia
-+ Ireland backs major European AI initiative to strengthen innovation, investment and technological resilience
-+ Department of Enterprise, Tourism and Employment;
-+ Minister Burke appoints Clara Thornton as member of the CCPC
-+ Department of Enterprise, Tourism and Employment;
-+ Emergency Exercise Strengthens Telecommunications Sector’s Severe Weather Response Capability
-+ Minister for Health and Minister of State for Older People and Housing announce publication of first report of the Commission on Care for Older People
-- Minister O’Sullivan announces Ireland’s involvement in European Heritage Label at heritage summit
-- Department of Housing, Local Government and Heritage;
-- Minister Jim O’Callaghan opens Digitalisation of Justice Conference
-- 29 October 2026;
-- Department of Justice, Home Affairs and Migration;
-- Minister Richmond announces funding for Irish communities in Britain
-- 29 October 2026;
-- Minister Moran launches the Hill of Tara Local Biodiversity Action Plan and the OPW Grassland Management Guidance Documents
-- 29 October 2026;
-- Office of Public Works;
-- Minister “Boxer” Moran announces completion of conservation works at Kells Round Tower, Co. Meath
-- 29 October 2026;
+27 of 35 sources checked. 0 possible change(s). 8 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
