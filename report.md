@@ -1,6 +1,26 @@
-# Official-source scan, 02 November 2026 00:01 UTC
+# Official-source scan, 02 November 2026 10:14 UTC
 
-27 of 35 sources checked. 0 possible change(s). 8 source(s) unreachable.
+27 of 35 sources checked. 2 possible change(s). 8 source(s) unreachable.
+
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ (설명) SBS Biz, "고소득 부모 자녀도 65만원 따박따박…'청년 첫 구직수당' 형평성 논란" 기사 관련
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Highest ever first-half delivery of new-build social homes recorded
++ 2 November 2026;
++ Department of Housing, Local Government and Heritage;
++ Minister McEntee announces increase in annual funding for Defence Forces veterans’ organisations
++ 2 November 2026;
++ Department of Defence;
++ Statement by Minister McConalogue on the death of Ciara Mageean
++ 2 November 2026;
+- Creative Europe Desks Meeting
+- Minister Heydon announces extension of call for evidence on capital investments on farms supporting agriculture and land use post CAP 2027
+- Department of Agriculture, Food and the Marine;
+- Commencement of Consultation process on the Language Standards announced by Minister Calleary
+- Department of Rural and Community Development and the Gaeltacht;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
