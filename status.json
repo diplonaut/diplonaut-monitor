@@ -1,9 +1,9 @@
 {
- "last_scan_utc": "2026-11-02T20:59Z",
+ "last_scan_utc": "2026-11-03T02:47Z",
  "sources_total": 35,
  "sources_ok": 27,
  "sources_failed": 8,
- "pending_changes": 3,
+ "pending_changes": 0,
  "new_failures": 0,
  "fx_date": "2026-11-02",
  "destinations": [
