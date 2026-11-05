@@ -731,7 +731,7 @@
    "First published.",
    "Contents"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "uk-student-visa": {
   "fp": "470f844af21ee5b64631b5f8088a3cecd93a702dbfc1dc19651c3a697d4cef0a",
@@ -883,7 +883,7 @@
    "Check if you can extend your visa",
    "If you break the conditions of your visa you may not be able to come to the UK again."
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "ca-funds": {
   "fp": "a900c792ef0dcf6dbd723ea44d1512a6d5eb81c5204774d03415cd48f0302831",
@@ -1051,7 +1051,7 @@
    "Page details",
    "2026-08-28"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "ca-notices": {
   "fp": "2799153d54ff98b9e2254da2a4e292b7947f3184794069236dc94bb6ec14f64f",
@@ -1916,7 +1916,7 @@
    "Page details",
    "2026-10-27"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "us-fedreg": {
   "since": "2026-09-01",
@@ -1939,7 +1939,7 @@
    "2026-21751",
    "2026-21765"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "us-wh": {
   "fp": "f416774b5dd465e4e19e0544d067b9cb5d741173457362dfc076a09054c39f2f",
@@ -1996,16 +1996,14 @@
    "Executive Orders",
    "October 16, 2026"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "de-funds": {
-  "fp": "5f5d64afbaefe90f52e64452b564918c9f15095f9be3126212625f7bf30b1a8d",
+  "fp": "7a70e64f90f01ac7bc7cc0ec0cfa6b0a3d2aa0e25687e6d45dbfd0028f426876",
   "lines": [
    "Willkommen auf den Seiten des Auswärtigen Amts",
-   "Für bestimmte Arten von Anträgen auf ein nationales Visum für Deutschland",
-   "ist die Eröffnung eines",
-   "Sperrkontos",
-   "erforderlich. Damit wird sichergestellt, dass der Lebensunterhalt der antragstellenden Person während eines längeren Aufenthalts in Deutschland finanziert werden kann. Dies betrifft beispielsweise folgende Aufenthaltszwecke:",
+   "In bestimmten Visumverfahren zur Beantragung eines nationalen Visums ist die Eröffnung eines Sperrkontos in Deutschland erforderlich, auf das vorab ein festgelegter Geldbetrag eingezahlt wird. Der Kontoinhaber kann monatlich entsprechend den festgelegten Höchstbeträgen über das Guthaben verfügen. Auf diese Weise wird sichergestellt, dass während des Aufenthalts in Deutschland ausreichende finanzielle Mittel zur Verfügung stehen.",
+   "Die auf das Sperrkonto einzuzahlenden Beträge variieren je nach Visumkategorie und Aufenthaltszweck. Nachfolgend finden Sie eine Übersicht der für die jeweiligen Fälle geltenden Beträge:",
    "Für",
    "Sprachkurs",
    "derzeit ist ein Betrag von 1.091 EUR pro Monat nachzuweisen",
@@ -2046,7 +2044,7 @@
    "Mail",
    "nach oben"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "nl-amounts": {
   "fp": "2ba4d0d5de7dfe7ef66fac7a889f1feb426da501e8d0f6cad10722c5afa6737a",
@@ -2417,7 +2415,7 @@
    "All income requirements:",
    "Income requirements: independent, sustainable and sufficient income"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "ie-funds": {
   "fp": "33818f97173330a8e045f77d969e0f59af64a14ec0d5f640a3480923443b278e",
@@ -2498,7 +2496,7 @@
    "Master’s Degree",
    "Doctoral Degree."
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "be-funds": {
   "fp": "55ba2bbd038d2cb4d79f7d7c5cca7bf42b5bfe3a1d4fb0c3c668f286137f62df",
@@ -2613,7 +2611,7 @@
    "Services consulaires",
    "Dans cette section, vous trouverez des informations sur votre inscription, une naissance, comment demander une carte d'identité ..."
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "be-dofi": {
   "fp": "b068b40e5527a27db2918b311d7ab65b72b8e58cafc5a222bc21a0b971e3b9c0",
@@ -2661,7 +2659,7 @@
    "Bijlage 32 Verbintenis tot tenlasteneming (docx)",
    "14.38 KB"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "au-news": {
   "fp": "dc9bd1b7c93c3ac0dbafe5667d3257d8763546ce959ca8208e767085b19a37dc",
@@ -2891,7 +2889,7 @@
    "Contact",
    "Editorial"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "at-oead": {
   "fp": "a8332b4ca5c60e665e05841d4c75a6b6d3efac79490433b190aa79630507b70f",
@@ -3461,7 +3459,7 @@
    "Here",
    "you will find our FAQs on entry and residence for third-country students."
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "dk-siri": {
   "fp": "2a351e2ef22eb5114924e27940eec6d58248ab3cb496bb20549b140f2ddce19b",
@@ -3770,7 +3768,7 @@
    "Last updated 01-10-2026 - Published by: SIRI",
    "-->"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "dk-work": {
   "fp": "d6e34326d51ac87b4f856e6aeb3cb32bafd2d9b3a1565ebd53b19645845306df",
@@ -3787,7 +3785,7 @@
    "Send link",
    "Last updated 09-09-2026 - Published by: SIRI"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "se-he": {
   "fp": "ccf691d2b22d754ca391660a3aa40c5537864561cff0f5e4b95eef3f4a465384",
@@ -4527,7 +4525,7 @@
    "New rules for researchers and doctoral students",
    "The Swedish Parliament has decided on new rules for researchers and doctoral students. The rules mean, among other things, that doctoral students with a hosting agreement can receive a residence permit for research, that it will be easier to receive a permanent residence permit, and that you can apply for another permit in Sweden in more situations."
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "jp-work": {
   "fp": "bb98290744fe5ba408a983434cef6366215de342202e459b20655b5eaee4e7b7",
@@ -4729,10 +4727,10 @@
    "正しく表示されない場合は、最新バージョンをご利用ください。",
    "ページトップ"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "kr-funds": {
-  "fp": "b133f15bb4380cbefba7270e18a04178d1ea1aca19ee5de538972667a15cde7e",
+  "fp": "18a1610f5317225bf313c7cd4801a8c6eea9d69b30741f0564e42571b6adb5cc",
   "lines": [
    "유학생 비자 발급시 재정능력 심사 완화…시간제 취업도 허용",
    "법무부, 외국인 유학생 비자제도 개선…다음달 3일부터 시행",
@@ -4754,9 +4752,10 @@
    "기존에는 유학생이 통상 학생이 할 수 있는 아르바이트 수준의 단순노무 분야에만 취업할 수 있었으나 전공 분야에 전문성을 쌓고 국내 취업을 준비하는 데 도움이 될 것으로 보인다.",
    "이 밖에 유학생이 법령에 따라 의무로 규정된 현장실습, 교육부 고시에 따른 ‘표준 현장실습학기제’에 참여하는 경우에는 시간제 취업 허가를 받지 않아도 내국인 학생과 동일한 실습 기회를 부여받게 된다.",
    "법무부는 “앞으로도 관계부처 및 대학과 지속으로 협력해 우수 유학생 유치를 지원하면서도, 유학 제도가 불법 체류·불법 취업의 통로로 악용되지 않도록 적정한 체류 관리를 통한 유학생의 질적 성장을 위해 노력하겠다”고 밝혔다.",
-   "다음 각 호의 어느 하나에 해당하는 자는 500만원 이하의 벌금에 처한다."
+   "다음 각 호의 어느 하나에 해당하는 자는 500만원 이하의 벌금에 처한다.",
+   "(인천북부지청) 간이대지급금 약 1억 3천만원을 부정수급 및 추가 편취 시도한 사업주 구속"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "kr-d10": {
   "fp": "dba56bcdb5143c5c510b527c8186e5ba9ad4ec1d50327ee71a9526d3f741633d",
@@ -4820,7 +4819,7 @@
    "공공누리 AI유형(출처표시)",
    "\" 조건에 따라 누구나 이용할 수 있습니다."
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "_failed": [
   "au-hoa-news",
@@ -4875,7 +4874,7 @@
    "Social share",
    "https://www.sem.admin.ch/content/sem/en/home/sem/medien.html"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "ch-entry": {
   "fp": "f9eb2a6f91b7381ed74ef8d20438b88f30626c7237ef2d1cc3d0e2e0a3114179",
@@ -4940,10 +4939,10 @@
    "Further information",
    "https://www.sem.admin.ch/content/sem/en/home/themen.html"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "nl-news": {
-  "fp": "073ba67bf64f46607e1c8092d0008b6ea669bcc8fc3614b64340c5f7eee25751",
+  "fp": "dd6a79dc2d91c07c170d9566152f15701fb969d01dfbc01515d0a0d8176228aa",
   "lines": [
    "News",
    "Filter",
@@ -4955,11 +4954,15 @@
    "Family",
    "Asylum (23)",
    "Asylum",
-   "Economics (24)",
+   "Economics (25)",
    "Economics",
-   "General (39)",
+   "General (40)",
    "General",
-   "57 messages",
+   "58 messages",
+   "The 5 November 2026 edition of the Business Newsletter is online",
+   "The Business Newsletter is available for recognised sponsors and concerns employment.",
+   "Last update:",
+   "5 November 2026",
    "Senate approves abolition of judicial periodic penalty payment",
    "The IND is pleased that the judicially imposed periodic penalty payment for the agency is being abolished. On Tuesday, the Senate approved a legislative amendment effecting this.",
    "Last update:",
@@ -4988,10 +4991,6 @@
    "The entry into force of the European Pact on Migration and Asylum means that new asylum rules now apply across the European Union. The introduction of the new asylum procedure because of the Migration Pact represents the biggest change for",
    "Last update:",
    "24 June 2026",
-   "IND calls for scope for implementation and stable policy amid major changes",
-   "Amid major changes, the Immigration and Naturalisation Service (IND) is asking the government to ensure stable and predictable policy, and to provide the necessary scope for implementation. In its latest State of Performance (only available in Dutch) report, published today",
-   "Last update:",
-   "17 June 2026",
    "Close",
    "Filter",
    "Filter by category",
@@ -5001,13 +5000,13 @@
    "Family",
    "Asylum (23)",
    "Asylum",
-   "Economics (24)",
+   "Economics (25)",
    "Economics",
-   "General (39)",
+   "General (40)",
    "General",
    "Show results"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "au-news-listing": {
   "fp": "70cb101b15d83bd6d25172b9976b1bee55f38b033004421c3035a65a69c6aca2",
@@ -5075,7 +5074,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "de-aa-news": {
   "fp": "8dde0b82460792f28e98a659427fa1d4e410a792e93f588d3a5e390a2141852a",
@@ -5091,10 +5090,10 @@
    "Mail",
    "Top of page"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "ie-doj-press": {
-  "fp": "abfda5385e9abab69384a8bb28b1287a56d6ae2546c6a0a0599e438e25bd21f7",
+  "fp": "9459a312675754768073b62f2ccfe20a33e98ffaea12da1023d9bd94c897da9c",
   "lines": [
    "Did you find what you were looking for?",
    "Find what you were looking for?",
@@ -5106,46 +5105,45 @@
    "search",
    "100 results",
    "with category",
-   "Minister McEntee and Minister Byrne welcome the publication of the 2026 Enlargement Package",
+   "Working in Ireland Survey 2025 launched, providing new all-island insights into the changing world of work",
    "5 November 2026;",
-   "Department of Foreign Affairs and Trade;",
-   "Press release",
-   "Minister Browne approves €27m investment to drive the delivery of more than 12,000 homes through new rail infrastructure",
-   "5 November 2026;",
-   "Department of Housing, Local Government and Heritage;",
-   "Press release",
-   "Education and employment in focus as Europe comes together to advance Traveller and Roma inclusion",
-   "5 November 2026;",
-   "Department of Children, Disability and Equality;",
-   "Press release",
-   "Growing Up in Ireland Conference marks 20 years of research informing policy for children and young people.",
-   "5 November 2026;",
-   "Department of Children, Disability and Equality;",
-   "Press release",
-   "Minister of State Dooley opens SET Plan Conference in Cork",
-   "4 November 2026;",
-   "Department of Climate, Energy and the Environment;",
-   "Press release",
-   "New EU Sustainable Tourism Strategy unveiled as Irish Presidency hosts EU Tourism Ministers Summit",
-   "4 November 2026;",
    "Department of Enterprise, Tourism and Employment;",
    "Press release",
-   "Statement by Minister McEntee on the passing of former Minister for Foreign Affairs, Gerard Collins",
-   "4 November 2026;",
+   "Minister of State Dooley opens SET Plan Conference in Cork",
+   "5 November 2026;",
+   "Department of Climate, Energy and the Environment;",
+   "Press release",
+   "Minister McEntee congratulates Passport Service on CX Award win",
+   "5 November 2026;",
    "Department of Foreign Affairs and Trade;",
    "Press release",
-   "Tax revenues remain strong in October, while expenditure reflects continued investment in key services and supports - Tánaiste Simon Harris & Minister Jack Chambers",
-   "4 November 2026;",
-   "Department of Finance;",
-   "Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",
+   "Minister McEntee and Minister Byrne promote Young Person's Guide to the Irish EU Presidency and ‘EU and Me’ competition",
+   "5 November 2026;",
+   "Department of Foreign Affairs and Trade;",
    "Press release",
-   "Minister O’Brien launches Public Transport Safety Charter, enhancing security across public transport",
-   "4 November 2026;",
-   "Department of Transport;",
+   "Minister Lawless announces Ireland’s ratification of the UNESCO Global Convention on the Recognition of Qualifications concerning Higher Education",
+   "5 November 2026;",
+   "Department of Further and Higher Education, Research, Innovation and Science;",
    "Press release",
-   "Minister of State with special responsibility for Public Health, Wellbeing and the National Drugs Strategy, Jennifer Murnane O’Connor TD launches the National Creative Arts and Health Strategy 2026–2036",
-   "4 November 2026;",
-   "Department of Culture, Communications and Sport;",
+   "Minister Calleary opens major international conference on open language technologies in Galway",
+   "5 November 2026;",
+   "Department of Rural and Community Development and the Gaeltacht;",
+   "Press release",
+   "Minister Reviews 69th Infantry Group Ahead of Final Irish Infantry Group Deployment to UNIFIL",
+   "5 November 2026;",
+   "Department of Defence;",
+   "Press release",
+   "Minister Jim O’Callaghan chairs EU-Western Balkans Ministerial meeting",
+   "5 November 2026;",
+   "Department of Justice, Home Affairs and Migration;",
+   "Press release",
+   "Growing Up in Ireland Conference marks 20 years of research informing policy for children and young people",
+   "5 November 2026;",
+   "Department of Children, Disability and Equality;",
+   "Press release",
+   "Minister Naughton launches new €2.4 million partnership with Research Ireland to address future challenges in education",
+   "5 November 2026;",
+   "Department of Education and Youth;",
    "Press release",
    "Filters",
    "Categories",
@@ -5345,7 +5343,7 @@
    "Clear filters",
    "Apply filters"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "jp-isa-press": {
   "fp": "28446b32d4777aa0a8bfb2f05923caa1da3fbc425d3e165096d7e8f50cf9701f",
@@ -5498,7 +5496,7 @@
    "に掲載しております。",
    "ページトップ"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  },
  "jp-jasso": {
   "fp": "a9ad9639903cf0b1328cc5b744db4335039512dcbb17c7fa12988d140d070020",
@@ -5575,6 +5573,6 @@
    "View all",
    "Search"
   ],
-  "checked": "2026-11-05T10:00:37.675208+00:00"
+  "checked": "2026-11-05T19:12:05.231773+00:00"
  }
 }
