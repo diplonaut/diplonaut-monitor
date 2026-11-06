@@ -1,33 +1,24 @@
-# Official-source scan, 06 November 2026 01:16 UTC
+# Official-source scan, 06 November 2026 10:04 UTC
 
-27 of 35 sources checked. 4 possible change(s). 8 source(s) unreachable.
-
-## Canada: IRCC: notices
-Source: https://www.canada.ca/en/immigration-refugees-citizenship/news/notices.html
-+ Notice – Supplementary Information for the 2027-2029 Immigration Levels Plan
-+ November 5, 2026
-+ Notice – Supplementary Information for the 2026-2028 Immigration Levels Plan
-+ November 4, 2025
-+ 2026-11-05
-- 2026-10-27
-
-## United States: White House: presidential actions
-Source: https://www.whitehouse.gov/presidential-actions/
-+ ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT
-+ November 5, 2026
-- Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026
-- October 16, 2026
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-- (인천북부지청) 간이대지급금 약 1억 3천만원을 부정수급 및 추가 편취 시도한 사업주 구속
+27 of 35 sources checked. 1 possible change(s). 8 source(s) unreachable.
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister Byrne to chair third Intergovernmental Conference with Montenegro under Irish EU Presidency
-+ 6 November 2026;
-- Minister Naughton launches new €2.4 million partnership with Research Ireland to address future challenges in education
-- Department of Education and Youth;
++ Minister Naughton visits Cork schools and marks opening of major extension project at St Colman's Community College, Midleton
++ Department of Education and Youth;
++ Ireland to host the Global Expo 2027: Transforming Health and Social Care
++ Taoiseach Micheál Martin to attend Attestation Ceremony for PSNI Student Officers
++ Department of the Taoiseach;
++ Minister Lawless announces allocation of over €40 million in capital funding for higher education institutions nationwide
++ Minister Foley allocates over €413,000 to strengthen prevention and early intervention services for children and young people
+- Minister Lawless announces Ireland’s ratification of the UNESCO Global Convention on the Recognition of Qualifications concerning Higher Education
+- Minister Calleary opens major international conference on open language technologies in Galway
+- Department of Rural and Community Development and the Gaeltacht;
+- Minister Reviews 69th Infantry Group Ahead of Final Irish Infantry Group Deployment to UNIFIL
+- Department of Defence;
+- Minister Jim O’Callaghan chairs EU-Western Balkans Ministerial meeting
+- Department of Justice, Home Affairs and Migration;
+- Growing Up in Ireland Conference marks 20 years of research informing policy for children and young people
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
