@@ -1,10 +1,11 @@
-# Official-source scan, 08 November 2026 12:23 UTC
+# Official-source scan, 08 November 2026 19:14 UTC
 
-28 of 35 sources checked. 0 possible change(s). 7 source(s) unreachable.
+27 of 35 sources checked. 0 possible change(s). 8 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
+- Irish Immigration Service: student finances (https://www.irishimmigration.ie/information-on-student-finances/): TimeoutError: The read operation timed out
 - Study Australia: visa charges (https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-application-charge-increase): HTTPError: HTTP Error 404: Not Found
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
