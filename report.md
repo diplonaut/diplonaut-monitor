@@ -1,11 +1,16 @@
-# Official-source scan, 08 November 2026 19:14 UTC
+# Official-source scan, 09 November 2026 00:16 UTC
 
-27 of 35 sources checked. 0 possible change(s). 8 source(s) unreachable.
+28 of 35 sources checked. 1 possible change(s). 7 source(s) unreachable.
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Tánaiste to Chair Meeting of EU Economy and Finance Ministers
++ 9 November 2026;
+- Statement from the Minister for Justice, Home Affairs and Migration Jim O’Callaghan
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
-- Irish Immigration Service: student finances (https://www.irishimmigration.ie/information-on-student-finances/): TimeoutError: The read operation timed out
 - Study Australia: visa charges (https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-application-charge-increase): HTTPError: HTTP Error 404: Not Found
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
