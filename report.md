@@ -1,26 +1,27 @@
-# Official-source scan, 10 November 2026 21:05 UTC
+# Official-source scan, 11 November 2026 03:39 UTC
 
-26 of 35 sources checked. 1 possible change(s). 9 source(s) unreachable.
+26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
 
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister for Justice and Law Society of Ireland Reach Agreement on Criminal Legal Aid Scheme
-+ Department of Justice, Home Affairs and Migration;
-+ Publication of CCPC Statement of Strategy 2027-2029 and update on 2026 Programme for Government progress
-+ Department of Enterprise, Tourism and Employment;
-+ Minister Naughton confirms enhanced supports for young people sitting their State examinations in 2027
-+ Minister O'Brien secures government approval for establishment of UNDP Sustainable Finance Project Office in Dublin
-- Minister Naughton launches national anti-bullying survey as Anti-Bullying Week gets underway
-- 9 November 2026;
-- Department welcomes significant sentence arising from animal welfare conviction
-- 9 November 2026;
-- Department of Agriculture, Food and the Marine;
-- Minister Heydon announces Irish agri-food exports achieved a record value of €20.8 billion in 2025
-- 9 November 2026;
-- Department of Agriculture, Food and the Marine;
-- Minister Collins announces extension to the deadline for applications under the National Farm Safety Measure
-- 9 November 2026;
-- Department of Agriculture, Food and the Marine;
+## United States: White House: presidential actions
+Source: https://www.whitehouse.gov/presidential-actions/
++ November 10, 2026
++ VETERANS DAY, 2026
++ November 10, 2026
++ Presidential Determination Concerning Wildfire Suppression Activities in the United States
++ November 10, 2026
+- DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE
+- Executive Orders
+- Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity
+- Adjusting Imports of Wind Turbines and Their Parts and Components into the United States
+
+## Japan: JASSO: news
+Source: https://www.jasso.go.jp/en/index.html
++ “The 81st TIEC Research and Presentation” Participants Wanted
++ November 11, 2026
++ “The 81st TIEC Research and Presentation” Participants Wanted
++ November 11, 2026
+- Announcement of “TIEC International Exchange Festival 2026”
+- August 12, 2026
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -30,7 +31,7 @@ Source: https://www.gov.ie/en/department-of-justice/press-releases/
 - State Secretariat for Migration (SEM): entry, residence and working (https://www.sem.admin.ch/sem/en/home/themen.html): HTTPError: HTTP Error 404: Not Found
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.

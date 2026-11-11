@@ -731,7 +731,7 @@
    "First published.",
    "Contents"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "uk-student-visa": {
   "fp": "470f844af21ee5b64631b5f8088a3cecd93a702dbfc1dc19651c3a697d4cef0a",
@@ -883,7 +883,7 @@
    "Check if you can extend your visa",
    "If you break the conditions of your visa you may not be able to come to the UK again."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "ca-funds": {
   "fp": "a900c792ef0dcf6dbd723ea44d1512a6d5eb81c5204774d03415cd48f0302831",
@@ -1051,7 +1051,7 @@
    "Page details",
    "2026-08-28"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "ca-notices": {
   "fp": "16434140c932017f0e11deb3a120ef97bbdd0521f23a285c7f7062dac8ff9098",
@@ -1920,7 +1920,7 @@
    "Page details",
    "2026-11-05"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "us-fedreg": {
   "since": "2026-09-01",
@@ -1944,12 +1944,27 @@
    "2026-21765",
    "2026-22735"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "us-wh": {
-  "fp": "3bf6d6fc0c5d0b951385b145729296550f14cea0ebbc9a9666d9da01911261fb",
+  "fp": "f917c537ce5aa6a104322d26b9774f744056aac258b9d888deb1a7bb6ee55032",
   "lines": [
    "Presidential Actions",
+   "Nominations and Withdrawals Sent to the Senate",
+   "Presidential Actions",
+   ",",
+   "Nominations & Appointments",
+   "November 10, 2026",
+   "VETERANS DAY, 2026",
+   "Presidential Actions",
+   ",",
+   "Proclamations",
+   "November 10, 2026",
+   "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+   "Presidential Actions",
+   ",",
+   "Presidential Memoranda",
+   "November 10, 2026",
    "Nominations and Withdrawals Sent to the Senate",
    "Presidential Actions",
    ",",
@@ -1984,24 +1999,9 @@
    "Presidential Actions",
    ",",
    "Proclamations",
-   "October 22, 2026",
-   "DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE",
-   "Presidential Actions",
-   ",",
-   "Executive Orders",
-   "October 22, 2026",
-   "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
-   "Presidential Actions",
-   ",",
-   "Presidential Memoranda",
-   "October 22, 2026",
-   "Adjusting Imports of Wind Turbines and Their Parts and Components into the United States",
-   "Presidential Actions",
-   ",",
-   "Proclamations",
    "October 22, 2026"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "de-funds": {
   "fp": "7a70e64f90f01ac7bc7cc0ec0cfa6b0a3d2aa0e25687e6d45dbfd0028f426876",
@@ -2049,7 +2049,7 @@
    "Mail",
    "nach oben"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "nl-amounts": {
   "fp": "2ba4d0d5de7dfe7ef66fac7a889f1feb426da501e8d0f6cad10722c5afa6737a",
@@ -2420,7 +2420,7 @@
    "All income requirements:",
    "Income requirements: independent, sustainable and sufficient income"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "ie-funds": {
   "fp": "33818f97173330a8e045f77d969e0f59af64a14ec0d5f640a3480923443b278e",
@@ -2501,7 +2501,7 @@
    "Master’s Degree",
    "Doctoral Degree."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "be-funds": {
   "fp": "55ba2bbd038d2cb4d79f7d7c5cca7bf42b5bfe3a1d4fb0c3c668f286137f62df",
@@ -2616,7 +2616,7 @@
    "Services consulaires",
    "Dans cette section, vous trouverez des informations sur votre inscription, une naissance, comment demander une carte d'identité ..."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "be-dofi": {
   "fp": "b068b40e5527a27db2918b311d7ab65b72b8e58cafc5a222bc21a0b971e3b9c0",
@@ -2664,7 +2664,7 @@
    "Bijlage 32 Verbintenis tot tenlasteneming (docx)",
    "14.38 KB"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "au-news": {
   "fp": "dc9bd1b7c93c3ac0dbafe5667d3257d8763546ce959ca8208e767085b19a37dc",
@@ -2894,7 +2894,7 @@
    "Contact",
    "Editorial"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "at-oead": {
   "fp": "a8332b4ca5c60e665e05841d4c75a6b6d3efac79490433b190aa79630507b70f",
@@ -3464,7 +3464,7 @@
    "Here",
    "you will find our FAQs on entry and residence for third-country students."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "dk-siri": {
   "fp": "2a351e2ef22eb5114924e27940eec6d58248ab3cb496bb20549b140f2ddce19b",
@@ -3773,7 +3773,7 @@
    "Last updated 01-10-2026 - Published by: SIRI",
    "-->"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "dk-work": {
   "fp": "d6e34326d51ac87b4f856e6aeb3cb32bafd2d9b3a1565ebd53b19645845306df",
@@ -3790,7 +3790,7 @@
    "Send link",
    "Last updated 09-09-2026 - Published by: SIRI"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "se-he": {
   "fp": "ccf691d2b22d754ca391660a3aa40c5537864561cff0f5e4b95eef3f4a465384",
@@ -4530,7 +4530,7 @@
    "New rules for researchers and doctoral students",
    "The Swedish Parliament has decided on new rules for researchers and doctoral students. The rules mean, among other things, that doctoral students with a hosting agreement can receive a residence permit for research, that it will be easier to receive a permanent residence permit, and that you can apply for another permit in Sweden in more situations."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "jp-work": {
   "fp": "bb98290744fe5ba408a983434cef6366215de342202e459b20655b5eaee4e7b7",
@@ -4732,7 +4732,7 @@
    "正しく表示されない場合は、最新バージョンをご利用ください。",
    "ページトップ"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "kr-funds": {
   "fp": "b133f15bb4380cbefba7270e18a04178d1ea1aca19ee5de538972667a15cde7e",
@@ -4759,7 +4759,7 @@
    "법무부는 “앞으로도 관계부처 및 대학과 지속으로 협력해 우수 유학생 유치를 지원하면서도, 유학 제도가 불법 체류·불법 취업의 통로로 악용되지 않도록 적정한 체류 관리를 통한 유학생의 질적 성장을 위해 노력하겠다”고 밝혔다.",
    "다음 각 호의 어느 하나에 해당하는 자는 500만원 이하의 벌금에 처한다."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "kr-d10": {
   "fp": "dba56bcdb5143c5c510b527c8186e5ba9ad4ec1d50327ee71a9526d3f741633d",
@@ -4823,7 +4823,7 @@
    "공공누리 AI유형(출처표시)",
    "\" 조건에 따라 누구나 이용할 수 있습니다."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "_failed": [
   "au-hoa-news",
@@ -5011,7 +5011,7 @@
    "General",
    "Show results"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "au-news-listing": {
   "fp": "70cb101b15d83bd6d25172b9976b1bee55f38b033004421c3035a65a69c6aca2",
@@ -5079,7 +5079,7 @@
    "Footer content",
    "arrow_upward"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "de-aa-news": {
   "fp": "8dde0b82460792f28e98a659427fa1d4e410a792e93f588d3a5e390a2141852a",
@@ -5095,7 +5095,7 @@
    "Mail",
    "Top of page"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "ie-doj-press": {
   "fp": "eb222759ecb4a21b5fdb49cfcd027ee27f41d8ad0f477cb209819b68e845ae48",
@@ -5348,7 +5348,7 @@
    "Clear filters",
    "Apply filters"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "jp-isa-press": {
   "fp": "28446b32d4777aa0a8bfb2f05923caa1da3fbc425d3e165096d7e8f50cf9701f",
@@ -5501,10 +5501,10 @@
    "に掲載しております。",
    "ページトップ"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "jp-jasso": {
-  "fp": "aa63b68f6758673142d88877948b3173d8837eb667fd842796eb3f5fdabc20a9",
+  "fp": "6d5ad928beb0c736b5b1b66ec30558a0daa13a734c8b75146de4b694d3fb8177",
   "lines": [
    "対象者から探す",
    "学生",
@@ -5519,6 +5519,10 @@
    "Japan Alumni Global Network",
    "News",
    "All news",
+   "“The 81st TIEC Research and Presentation” Participants Wanted",
+   "Support Programs for International Students",
+   "Event / Recruitment",
+   "November 11, 2026",
    "The results of #85 JASSO FILP Agency Bond issuance",
    "About JASSO",
    "November 09, 2026",
@@ -5533,11 +5537,11 @@
    "The results of #84 JASSO FILP Agency Bond issuance",
    "About JASSO",
    "September 09, 2026",
-   "TJLEC Preparatory Course from April 2027 (one year) accepts application from Overseas(until November 17)",
+   "Support Programs for International Students",
+   "“The 81st TIEC Research and Presentation” Participants Wanted",
    "Support Programs for International Students",
    "Event / Recruitment",
-   "August 21, 2026",
-   "Support Programs for International Students",
+   "November 11, 2026",
    "We will be holding the “HIH International Exchange Festival 2026”",
    "Support Programs for International Students",
    "Event / Recruitment",
@@ -5554,10 +5558,6 @@
    "Support Programs for International Students",
    "Event / Recruitment",
    "August 14, 2026",
-   "Announcement of “TIEC International Exchange Festival 2026”",
-   "Support Programs for International Students",
-   "Event / Recruitment",
-   "August 12, 2026",
    "About JASSO",
    "The results of #85 JASSO FILP Agency Bond issuance",
    "About JASSO",
@@ -5577,7 +5577,7 @@
    "View all",
    "Search"
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  },
  "us-sits": {
   "fp": "048487b445e04d80506e00b65a9b42163160fe8ff8c3500c099df10f9139670c",
@@ -5803,6 +5803,6 @@
    "for information about upcoming SEVIS releases.",
    "Guidance documents help the public understand how U.S. Immigration and Customs Enforcement (ICE) administers its statutory and regulatory authorities. In general, guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract."
   ],
-  "checked": "2026-11-10T21:05:37.332028+00:00"
+  "checked": "2026-11-11T03:39:56.912375+00:00"
  }
 }
