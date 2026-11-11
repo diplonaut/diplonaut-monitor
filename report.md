@@ -1,37 +1,32 @@
-# Official-source scan, 11 November 2026 13:09 UTC
+# Official-source scan, 11 November 2026 21:38 UTC
 
 26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
 
-## Austria: OeAD: residence permit for students
-Source: https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme
-+ Please note that an appointment for the application may need to be made online in advance and this may also take some time.There may be a waiting period of several weeks for an available appointment to submit an application at the consular offices. If
-- Please note that an appointment for the application may need to be made online in advance and this may also take some time. If
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
++ 부정수급 집중신고기간, 포상금 최대 5천 만원!
++ 부정수급 집중신고기간, 포상금 최대 5천 만원!
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Tánaiste announces agreement on EU’s 2027 budget
-+ 11 November 2026;
-+ Department of Finance;
-+ €20m cross-government Action Plan to improve outcomes and strengthen support for children and families in or at risk of homelessness
-+ 11 November 2026;
-+ Department of the Taoiseach;
-+ Statement from the Minister for Education and Youth Hildegarde Naughton
-+ 11 November 2026;
-+ Minister Dooley reinforces commitment to protecting Irish Seas and EU Oceans at Atlantic Summit
-+ 11 November 2026;
-+ Students to Take Centre Stage at EU Presidency Event on Participation and Inclusion in Education
-+ 11 November 2026;
-- Minister O'Brien secures government approval for establishment of UNDP Sustainable Finance Project Office in Dublin
-- Abhaile service marks its 10th anniversary with annual report publication
-- Department of Social Protection;
-- 57% rise in Starter Home Supports delivered in first half of 2026 – Minister Browne
-- Department of Housing, Local Government and Heritage;
-- Minister O'Brien delivers €1.28 billion investment in Budget 2027
-- Minister of State Frank Feighan represents Irish Presidency of the Council of the European Union with opening address to EU-OACPS Joint Parliamentary Assembly
-- Ireland to appear before United Nations Human Rights Council for Universal Periodic Review
-- Department of Children, Disability and Equality;
-- Minister Foley Published the Ireland-UK Youth Forum Report and Responses to Youth Recommendations
-- Department of Children, Disability and Equality;
++ Ministers Heydon and Dooley announce opening of fuel support schemes for fishing and aquaculture sectors to supplement previous schemes
++ Department of Agriculture, Food and the Marine;
++ Minister Harkin addresses European Research and Innovation days
++ Department of Further and Higher Education, Research, Innovation and Science;
++ Minister Kevin “Boxer” Moran announces funding approval for Minor Flood Mitigation Works and Coastal Protection for Coachford Village, Co Cork
++ Office of Public Works;
++ Significant investment in Co. Wicklow as Minister Calleary unveils over €1 million in projects
++ Department of Rural and Community Development and the Gaeltacht;
+- Minister Chambers welcomes proposals on a new collective agreement for the public service
+- Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation;
+- Minister for Justice and Law Society of Ireland Reach Agreement on Criminal Legal Aid Scheme
+- 10 November 2026;
+- Department of Justice, Home Affairs and Migration;
+- Publication of CCPC Statement of Strategy 2027-2029 and update on 2026 Programme for Government progress
+- 10 November 2026;
+- Department of Enterprise, Tourism and Employment;
+- Minister Naughton confirms enhanced supports for young people sitting their State examinations in 2027
+- 10 November 2026;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -39,9 +34,9 @@ Source: https://www.gov.ie/en/department-of-justice/press-releases/
 - Study Australia: visa charges (https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-application-charge-increase): HTTPError: HTTP Error 404: Not Found
 - State Secretariat for Migration (SEM): press releases (https://www.sem.admin.ch/sem/en/home/sem/medien.html): HTTPError: HTTP Error 404: Not Found
 - State Secretariat for Migration (SEM): entry, residence and working (https://www.sem.admin.ch/sem/en/home/themen.html): HTTPError: HTTP Error 404: Not Found
-- Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): TimeoutError: The read operation timed out
+- Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
