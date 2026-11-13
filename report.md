@@ -1,33 +1,36 @@
-# Official-source scan, 13 November 2026 13:35 UTC
+# Official-source scan, 13 November 2026 21:04 UTC
 
-26 of 35 sources checked. 1 possible change(s). 9 source(s) unreachable.
+26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
+
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ October 2026 Waiting List Figures Published
-+ Department of Health;
-+ Value For Many: Architecture at the Heart of Ireland’s EU Presidency
-+ Office of Public Works;
-+ Culinary Tourism Strategy being developed to strengthen Ireland’s reputation as a food and drink destination
-+ Department of Enterprise, Tourism and Employment;
-+ OPW plays key role in the country’s biggest ever State event ‘The work behind the welcome’
-+ Office of Public Works;
-+ Minister Troy Welcomes analysis on potential €300 motor insurance savings as Government advances transparency measures
-+ Department of Finance;
-+ Minister O’Brien launches tender for new Exchequer-funded Dublin-Derry Air Service
-+ Department of Transport;
-- Minister O'Brien opens Expression of Interest process for €200 million Biomethane Capital Grant Scheme
-- Minister Brown appoints Mr. Brendan Foster as Chair of the Residential Tenancies Board
-- Department of Housing, Local Government and Heritage;
-- Second tranche of Basic Income for the Arts scheme recipients to be notified
-- Department of Culture, Communications and Sport;
-- Taoiseach and Minister Foley Welcome Passing of Philomena's Law in the UK
-- Liver Fluke Forecast November 2026
-- Department of Agriculture, Food and the Marine;
-- 50 world leaders will meet in Ireland for historic meeting of the European Political Community (EPC)
-- Ministers Heydon and Dooley announce opening of fuel support schemes for fishing and aquaculture sectors to supplement previous schemes
-- 11 November 2026;
-- Department of Agriculture, Food and the Marine;
++ Statement by the Minister for Justice, Home Affairs and Migration, Jim O'Callaghan
++ Department of Justice, Home Affairs and Migration;
++ Taoiseach, Minister Heydon and Minister O'Brien launch Ireland's first National Bioeconomy Strategy as Dublin hosts Global Bioeconomy Summit 2026
++ Ministers Heydon and O'Brien conclude successful Global Bioeconomy Summit 2026
++ Minister O'Brien announces €36 million investment in 33 Climate Action projects to support a sustainable transition in the Midlands
++ Progress under the Dublin Airport (Passenger Capacity) Act 2026
++ Ireland to host first-ever national pavilion at COP31 during EU Council Presidency
++ Trading for Impact: Ministers Calleary and Buttimer announce €4 million investment to support social enterprises
++ Department of Rural and Community Development and the Gaeltacht;
++ Minister Jim O'Callaghan Launches Ireland’s first Children's Court Advocate Pilot Service
++ Department of Justice, Home Affairs and Migration;
++ Tánaiste Simon Harris moves to unlock finance for small builders to purchase zoned land
+- October 2026 Waiting List Figures Published
+- Department of Health;
+- Value For Many: Architecture at the Heart of Ireland’s EU Presidency
+- Office of Public Works;
+- Culinary Tourism Strategy being developed to strengthen Ireland’s reputation as a food and drink destination
+- Department of Enterprise, Tourism and Employment;
+- OPW plays key role in the country’s biggest ever State event ‘The work behind the welcome’
+- Office of Public Works;
+- Minister Troy Welcomes analysis on potential €300 motor insurance savings as Government advances transparency measures
+- Minister O’Brien launches tender for new Exchequer-funded Dublin-Derry Air Service
+- Taoiseach hosts dinner on the Occasion of the Ninth European Political Community Summit
+- Department of the Taoiseach;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
