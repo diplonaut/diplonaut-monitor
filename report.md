@@ -1,25 +1,17 @@
-# Official-source scan, 14 November 2026 03:57 UTC
+# Official-source scan, 14 November 2026 12:40 UTC
 
-26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
-
-## South Korea: Korean government: student visa money to show
-Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
-
-## Ireland: Department of Justice: press releases
-Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Statement on nationwide ground stop for US airports
-+ 14 November 2026;
-- Minister O'Brien announces completion of over 300,000 home energy upgrades with government support since 2019
+25 of 35 sources checked. 0 possible change(s). 10 source(s) unreachable.
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
+- Irish Immigration Service: student finances (https://www.irishimmigration.ie/information-on-student-finances/): TimeoutError: The read operation timed out
 - Study Australia: visa charges (https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-application-charge-increase): HTTPError: HTTP Error 404: Not Found
 - State Secretariat for Migration (SEM): press releases (https://www.sem.admin.ch/sem/en/home/sem/medien.html): HTTPError: HTTP Error 404: Not Found
 - State Secretariat for Migration (SEM): entry, residence and working (https://www.sem.admin.ch/sem/en/home/themen.html): HTTPError: HTTP Error 404: Not Found
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
