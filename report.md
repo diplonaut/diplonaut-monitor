@@ -1,6 +1,12 @@
-# Official-source scan, 15 November 2026 00:29 UTC
+# Official-source scan, 15 November 2026 10:07 UTC
 
-26 of 35 sources checked. 0 possible change(s). 9 source(s) unreachable.
+26 of 35 sources checked. 1 possible change(s). 9 source(s) unreachable.
+
+## Ireland: Department of Justice: press releases
+Source: https://www.gov.ie/en/department-of-justice/press-releases/
++ Tánaiste announces new transparency measures to strengthen Ireland’s anti-money laundering regime
++ 15 November 2026;
+- Tánaiste Simon Harris moves to unlock finance for small builders to purchase zoned land
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
@@ -10,7 +16,7 @@
 - State Secretariat for Migration (SEM): entry, residence and working (https://www.sem.admin.ch/sem/en/home/themen.html): HTTPError: HTTP Error 404: Not Found
 - Campus France: news (covers Bienvenue en France label updates) (https://www.campusfrance.org/en/actu): HTTPError: HTTP Error 404: Not Found
 - Department of Home Affairs: newsroom (https://www.homeaffairs.gov.au/news-media): HTTPError: HTTP Error 403: Forbidden
-- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 403: Forbidden
+- DAAD: newsroom (https://www.daad.de/en/deutschland-und-daad/newsroom/): HTTPError: HTTP Error 404: Not Found
 - Migrationsverket: news archive (https://www.migrationsverket.se/English/About-the-Migration-Agency/Press-and-news/News-archive.html): HTTPError: HTTP Error 404: 
 
 Verify each change on the official page before updating the comparator.
