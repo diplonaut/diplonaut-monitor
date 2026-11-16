@@ -1,4 +1,4 @@
-# Official-source scan, 16 November 2026 00:31 UTC
+# Official-source scan, 16 November 2026 10:20 UTC
 
 26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
 
@@ -7,9 +7,19 @@ Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Tánaiste Simon Harris signs new regulations enhancing protections for borrowers
-+ 16 November 2026;
-- Minister Jim O'Callaghan Launches Ireland’s first Children's Court Advocate Pilot Service
++ Minister for Health opens EU Presidency Conference on Prevention, Innovation and Equity in Health
++ Department of Health;
++ New Ireland-Massachusetts research exchange to connect the next generation of scientists
++ Department of Further and Higher Education, Research, Innovation and Science;
++ Minister Naughton Visits Kerry Schools to Highlight Investment in Education, Inclusion and School Facilities
++ Department of Education and Youth;
++ McEntee to discuss further sanctions against Russia and the need for the opening of aid corridors into Gaza with EU Foreign Ministers
++ Department of Foreign Affairs and Trade;
+- Minister O'Brien announces €36 million investment in 33 Climate Action projects to support a sustainable transition in the Midlands
+- Progress under the Dublin Airport (Passenger Capacity) Act 2026
+- Ireland to host first-ever national pavilion at COP31 during EU Council Presidency
+- Trading for Impact: Ministers Calleary and Buttimer announce €4 million investment to support social enterprises
+- Department of Rural and Community Development and the Gaeltacht;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
