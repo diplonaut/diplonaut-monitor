@@ -1,33 +1,33 @@
-# Official-source scan, 17 November 2026 15:06 UTC
+# Official-source scan, 18 November 2026 00:10 UTC
 
-26 of 35 sources checked. 1 possible change(s). 9 source(s) unreachable.
+26 of 35 sources checked. 2 possible change(s). 9 source(s) unreachable.
+
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ High-Level Statement from Minister O'Brien on behalf of the European Union and Ireland at COP 31
-+ Government approves €20 million fuel supports scheme for construction and quarrying sectors
-+ Appointment of New Online Safety Commissioner at Coimisiún na Meán
-+ Department of Culture, Communications and Sport;
-+ Minister Butler launches the ‘Digital mental health roadmap for the WHO European Region (2027–2035)’
-+ Department of Health;
-+ Government approves appointment of Deputy Commissioner in An Garda Síochána
-+ Minister Buttimer publishes the Dormant Accounts Fund Action Plan 2027
-+ Department of Rural and Community Development and the Gaeltacht;
-+ Minister O’Sullivan announces funding of €480,000 to help secure the future of native crayfish
-+ Department of Housing, Local Government and Heritage;
-+ Minister McEntee and Minister Richmond announce €1 million to support medical evacuation and treatment of children from Gaza in Jordan
-- Minister Jim O’Callaghan addresses the International Centre for Migration Policy Development Vienna Migration Conference
-- 16 November 2026;
-- Minister McEntee Welcomes Ireland’s Admission as a Pacific Islands Forum (PIF) Partner
-- 16 November 2026;
-- Statement From Taoiseach Micheál Martin
-- 16 November 2026;
-- Minister Foley Set to Host Landmark EU Equality Ministers Meeting in Kerry next week
-- 16 November 2026;
-- Department of Children, Disability and Equality;
-- Minister Heydon introduces poultry biosecurity regulations as a precaution against Avian Influenza
-- 16 November 2026;
-- Department of Agriculture, Food and the Marine;
++ Minister Browne announces €90m funding for two successful projects under the Relocation Investment Fund
++ Tánaiste and Minister Troy comment on suspected cybersecurity incident involving credit unions
++ Department of Finance;
++ Minister Dooley launches Marine Planning Policy Statement at COP 31
++ Minister Chambers secures government approval of Public Service Pay Deal
++ Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation;
++ Minister Foley secures Government approval for amendments to the mandatory registration of childminders and an enhanced subsidies test for the National Childcare Scheme
++ Department of Children, Disability and Equality;
++ Minister Collins signs Mission Soil Manifesto as major EU conference opens in Dublin
++ Department of Agriculture, Food and the Marine;
+- Government approves appointment of Deputy Commissioner in An Garda Síochána
+- Department of Justice, Home Affairs and Migration;
+- Minister Buttimer publishes the Dormant Accounts Fund Action Plan 2027
+- Department of Rural and Community Development and the Gaeltacht;
+- Minister O’Sullivan announces funding of €480,000 to help secure the future of native crayfish
+- Minister McEntee and Minister Richmond announce €1 million to support medical evacuation and treatment of children from Gaza in Jordan
+- Department of Foreign Affairs and Trade;
+- Minister McEntee to discuss support for Ukraine at meeting of EU Defence Ministers in Brussels
+- Department of Defence;
+- Minister Byrne co-chairs European Economic Area meeting
+- Department of Foreign Affairs and Trade;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
