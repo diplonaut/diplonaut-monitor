@@ -1,53 +1,34 @@
-# Official-source scan, 18 November 2026 19:42 UTC
+# Official-source scan, 19 November 2026 02:06 UTC
 
-26 of 35 sources checked. 3 possible change(s). 9 source(s) unreachable.
+25 of 35 sources checked. 2 possible change(s). 10 source(s) unreachable.
 
-## Canada: IRCC: notices
-Source: https://www.canada.ca/en/immigration-refugees-citizenship/news/notices.html
-+ Notice – Express Entry updates make it easier for top researchers to continue contributing to Canada’s innovation ecosystem
-+ November 18, 2026
-+ 2026-11-18
-- 2026-11-05
-
-## Belgium: Belgian Foreign Affairs: student and sponsor amounts
-Source: https://luxembourg.diplomatie.belgium.be/fr/services-consulaires/prise-en-charge-etudiant
-+ Annexe 32.pdf (PDF, 473.71 Ko)
-+ Si vous êtes indépendant, votre inscription au Registre de Commerce et des Sociétés du Luxembourg
-- Annexe 32.pdf (PDF, 473.71 KB)
-- Si vous êtes indépendant, votre inscription au
-- Registre de Commerce et des Sociétés
-- du Luxembourg
+## South Korea: Korean government: student visa money to show
+Source: https://www.korea.kr/news/policyNewsView.do?newsId=148916751
+- 부모님께 받은 1,000만 원, 증여세 내야 할까?
 
 ## Ireland: Department of Justice: press releases
 Source: https://www.gov.ie/en/department-of-justice/press-releases/
-+ Minister O'Brien commences partial licence review provisions of the Environment (Miscellaneous Provisions) Act 2026
-+ Minister O'Brien launches Ireland's Roadmap on Transitioning Away from Fossil Fuels at COP31
-+ Minister Dooley launches Marine Planning Policy Statement at COP31
-+ Education Stakeholders from all sectors explore the value of Education for Sustainable Development to learners during Ireland's EU Presidency
-+ Department of Further and Higher Education, Research, Innovation and Science;
-+ Statement by Minister for Foreign Affairs and Trade and Minister of Defence, Helen McEntee TD, on Council Authorisation of the EU-Indonesia Trade and Investment Agreements
-+ Department of Foreign Affairs and Trade;
-+ Minister Murnane O’Connor hosts EU mutual learning event on recovery from drug use and homelessness
-+ Department of Health;
-+ Tánaiste Simon Harris signs new regulations enhancing protections for borrowers
-+ Minister Heydon announces commencement of €16.61 million in payments under the 2026 National Sheep Welfare Scheme
-+ Minister Heydon announces an increased selection rate for TAMS 3 Tranche 13 applications
-- Minister Naughton brings €6 million special education training package to Cabinet
-- Department of Education and Youth;
-- Minister Browne announces €90m funding for two successful projects under the Relocation Investment Fund
-- 17 November 2026;
-- Department of Housing, Local Government and Heritage;
-- Tánaiste and Minister Troy comment on suspected cybersecurity incident involving credit unions
-- 17 November 2026;
-- Minister Dooley launches Marine Planning Policy Statement at COP 31
-- 17 November 2026;
-- Minister Chambers secures government approval of Public Service Pay Deal
-- 17 November 2026;
-- Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation;
++ Taoiseach travels to Berlin for meeting of the Coalition of the Willing in support of Ukraine
++ 19 November 2026;
++ Department of the Taoiseach;
++ Minister Byrne to lead discussions on preparedness, EU enlargement and simplification at EU General Affairs Council
++ 19 November 2026;
++ Minister Byrne to chair fourth Intergovernmental Conference with Montenegro under Irish EU Presidency
++ 19 November 2026;
++ Tánaiste and Minister for Health highlight availability of tax relief for pharmacy healthcare costs
++ 19 November 2026;
+- Minister Murnane O’Connor hosts EU mutual learning event on recovery from drug use and homelessness
+- Department of Health;
+- Tánaiste Simon Harris signs new regulations enhancing protections for borrowers
+- Minister Heydon announces commencement of €16.61 million in payments under the 2026 National Sheep Welfare Scheme
+- Department of Agriculture, Food and the Marine;
+- Minister Heydon announces an increased selection rate for TAMS 3 Tranche 13 applications
+- Department of Agriculture, Food and the Marine;
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
 - Ministry of Higher Education: fees for non-EU students (https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-101557): HTTPError: HTTP Error 403: Forbidden
+- Irish Immigration Service: student finances (https://www.irishimmigration.ie/information-on-student-finances/): TimeoutError: The read operation timed out
 - Study Australia: visa charges (https://www.studyaustralia.gov.au/en/tools-and-resources/news/student-visa-application-charge-increase): HTTPError: HTTP Error 404: Not Found
 - State Secretariat for Migration (SEM): press releases (https://www.sem.admin.ch/sem/en/home/sem/medien.html): HTTPError: HTTP Error 404: Not Found
 - State Secretariat for Migration (SEM): entry, residence and working (https://www.sem.admin.ch/sem/en/home/themen.html): HTTPError: HTTP Error 404: Not Found
