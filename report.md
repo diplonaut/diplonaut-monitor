@@ -1,6 +1,17 @@
-# Official-source scan, 21 November 2026 01:52 UTC
+# Official-source scan, 21 November 2026 10:24 UTC
 
-25 of 35 sources checked. 0 possible change(s). 10 source(s) unreachable.
+25 of 35 sources checked. 1 possible change(s). 10 source(s) unreachable.
+
+## United States: White House: presidential actions
+Source: https://www.whitehouse.gov/presidential-actions/
++ NATIONAL ADOPTION MONTH, 2026
++ November 20, 2026
++ PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING
++ Executive Orders
++ November 20, 2026
+- THE AMERICAN DECLARATION OF FREEDOM IN SPACE
+- ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES
+- October 28, 2026
 
 ## Sources that could not be checked
 - State Department: visa news (https://travel.state.gov/content/travel/en/News/visas-news.html): HTTPError: HTTP Error 403: Forbidden
